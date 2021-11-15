@@ -1,0 +1,47 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:    Wavelength Division Multiplexing Architecture
+
+
+Student Name: Liew Hai Ling
+
+
+Supervisor: Dr. H. Ghafouri-Shiraz
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+
+In general single-hop photonic networks suffer from the speed mismatch between the optical and electronic components. This is because, the optical fiber bandwidth is close to 75 Tb/s, while current electronics processing is limited to a few Gb/s. The basic concept of Wavelength Division Multiplexing (WDM) technology is the ability to transmit data simultaneously on multiple wavelengths using a single fiber. WDM networks provide a practical solution to the op-electronic speed mismatch problem.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+In this project, design a WDM network architecture is required with several control channels to overcome the electronic processing bottleneck.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Describes the network architecture model 
+
+* Numerical and graphs results
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+*  Design a WDM network architecture is required with several control channels to overcome the electronic processing bottleneck.
+
+* Presents the performance measures under receiver collision analysis
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

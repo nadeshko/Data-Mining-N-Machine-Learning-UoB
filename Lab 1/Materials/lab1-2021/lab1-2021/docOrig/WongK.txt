@@ -1,0 +1,41 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Comparative study of Cuk converter
+
+
+Student Name: Kee Wong
+
+
+Supervisor: SVMollov
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Cuk converter is nowadays used as a high power rectifier. In this project we want to study the performance of three possible topologies.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+Compare the performance of three types of Cuk converter
+Po=200W Vo=15V Vin=50V
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Design Cuk converter: conventional circuit, transformer isolated circuit and integrated magnetics circuit
+
+* 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Build and test conventional Cuk converter:   2.2
+
+* Build and test transformer isolated Cuk converter:  2.1
+
+* Build and test integrated magnetics converter: first
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+yes
+

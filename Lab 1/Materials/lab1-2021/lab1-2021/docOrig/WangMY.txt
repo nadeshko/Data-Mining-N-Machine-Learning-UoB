@@ -1,0 +1,37 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Detection of Out-of-Vocabulary Word
+
+
+Student Name: Min Ying Wang
+
+
+Supervisor: Peter Jancovic
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+A word-based automatic speech recognition system can recognize words from a limited-vocabulary. This is interesting for many real-world applications. However, when considering a practical employment of such a system, the user may pronounce a word which is not included in the vocabulary of the recognition system - such a word is referred to as out-of-vocabulary (OOV). Similarly, in the presence of a non-stationary noise, the ASR system may understand this as a speech signal. This project will investigate ways of detecting the OOV words.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to investigate some methods for detection of the OOV words. The concern will be on isolated digit recognition by using an HMM-based speech recognition system.
+The trained HMM models for each vocabulary word will be provided. A database of parameterized speech utterances will be provided. The input to the program is a parameterized file and the trained HMM models.
+The student should implement Viterbi algorithm used in the recognition phase. From the Viterbi algorithm a sequence of likelihood values and a sequence of occupancy of each HMM-state should be obtained. The statistics of these two parameters based on the training data should be obtained. These will then be used to detect whether input speech utterance is an OOV word.
+The methods should be implemented in C (C++) language (preferably) or in Matlab environment.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The program developed in Matlab environment.
+* At least one method implemented and evaluated, i.e. either using the sequence of likelihood values or the sequence of state occupancies.
+* The statistics based on the training-data obtained.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Both the sequence of likelihoods and the sequence of HMM-state occupancies should be employed and evaluated.
+* Tuning of parameters within the above-described methods investigated and complete evaluation on some standard speech database performed.
+* Implementation and comparison of one other method for OOV word detection.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

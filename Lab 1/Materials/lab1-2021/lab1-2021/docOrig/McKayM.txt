@@ -1,0 +1,52 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  An open learner model for students, peers and instructors
+
+
+Student Name:  Mark McKay
+
+
+Supervisor:  Susan Bull
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Learner models hold a representation of a learner's knowledge, misconceptions, learning style, learning preferences, etc., which are inferred during a student's interaction with an intelligent tutoring system. The information in a learner model is used by the system to enable it to adapt to the student's individual learning needs.
+
+Learner models are usually hidden from the learner and others. Open learner models, in contrast, allow individuals to access the learner model to help in the educational process. There are three main kinds of open learner model: inspectable, editable and negotiated.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+This project will design and develop an intelligent tutoring system that maintains an open learner model that can be accessed by a variety of users: 
+* the student (to help them reflect on their knowledge)
+* the instructor (to help them assist individuals or adapt their teaching strategy to the needs of a group)
+* peers (to enable students to compare their progress against that of the group)
+
+The learner model will be accessed differently by these diverse groups. It will be in the form of: 
+* a (simple) negotiable model for the student
+* an editable model for the instructor 
+* an inspectable only model for peers
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* implementation of an inspectable-only learner model for all user groups
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+There are many ways in which the project could be enhanced. The following are examples only.
+* user-provided restrictions/permissions of access to their learner model 
+* in-depth modelling of student misconceptions
+* detailed evaluation
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+X
+

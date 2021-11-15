@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Localization via mobile devices: GPS versus mast/transmitters 
+
+
+Student Name: Adam Bronks
+
+
+Supervisor:   MO
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Due to the widespread of mobile devices nowadays, the use these device for people monitoring and emergency handling becomes more than necessary. Especially, these devices can be used for localizing people in stress or for other purposes. On the other hand, from economical perspective, there is a tendency to use low cost devices for the monitoring purpose. Candidate technologies for this purpose are the use of GPS devices, or simply use of information related to masts or transmitter locations.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is provide a qualitative and/or quantitative comparison of performance of localization techniques when using either GPS design incorporated into mobile devices or use the cheap information of transmitter/masts locations. It is expected that an experimental setup will be designed for performing a comparison according to multitude of factors: whether condition, traffic load, number of transmitters available, proximity to transmitters. Also a range of localization techniques will be tested, which include: triangulation, linear estimation among, Kalman filter.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To design an experimental setup that makes the comparison useful and enhances the different above parameters. 
+* To design and implement the different localization techniques, and their associated performances with respect to true position of the mobile device. 
+* To provide a set of recommendations for community regarding the best localization technique to be used with respect to different parameters. 
+* To provide of performance in terms of accuracy of different algorithms.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* To provide a rational explanation of the performance of the algorithms with respect to different parameters. 
+* To propose future recommendations for improving localizations tools using either GPS or transmitters' locations.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ x
+
+
+
+
+
+

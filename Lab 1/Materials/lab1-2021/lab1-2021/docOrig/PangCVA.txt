@@ -1,0 +1,47 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  High Frequency Narrow Band-pass Filter
+
+
+Student Name:  Chiew Vun Amelia Pang (0324597)
+
+
+Supervisor:  Dr. Hooshang Ghafouri 
+                      Shiraz
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+   The evolution in telecommunication systems, especially in the mobile, terrestrial and 
+   satellite communication domains have led to hardened constraints in terms of selectivity,
+   electrical performances and bulk reduction of planar filters. Therefore, the development of 
+   highly selective filters with low insertion losses is a rapidly expanding area of activity.
+   
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+   The aim of this project is to design a narrow band-pass filter centred at either 1 or 2GHz with
+   less than 5dB insertion loss. 
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To become familiar with the functions and applications  of the Microwave Design Software (MDS) or  the Advanced Design Software (ADS), or Microwave Software
+* Do literature survey on microwave topics related to band pass filters design  
+* Design and analysis of characteristics of a high frequency band-pass filter.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+    
+* Carry out the appropriate simulations on the designed prototype and if possible 
+* To build the designed high frequency band-pass filter. 
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

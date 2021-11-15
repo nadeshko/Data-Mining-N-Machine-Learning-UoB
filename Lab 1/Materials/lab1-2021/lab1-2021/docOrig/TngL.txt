@@ -1,0 +1,47 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  1.03 GHz High Power Pulse Transmitter for Light Aircraft ID Systems
+
+
+Student Name:  L.C.S. Tng
+
+
+Supervisor: PG
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+A communications/ID system is required for small un-powered aircraft, such as gliders and hot air balloons, to ensure that they are safe from collisions with other, larger aircraft.  The system currently envisaged calls for low duty cycle but high peak power pulses to be transmitted, at a carrier frequency of 1.03 GHz.  This project will investigate suitable approaches to the problem of designing highly efficient and compact transmitter and antenna systems suitable for this task.
+
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+* Research the system requirements: power, efficiency, size, cost etc.
+* Design a suitable 1.03 GHz power amplifier, of a very high efficiency class..
+* Design or purchase, as appropriate, an antenna compatible with the system requirements.
+* Integrate the two designs, build and test them as a unit.
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Design a simple 1.03 GHz antenna suitable for the application, build it and measure its properties.
+
+* 
+
+* 
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Demonstrate pulsed operation of the integrated module.
+* Carry out detailed theoretical analysis of the antenna/amplifier interaction.
+* Compare the effects of interaction between antenna and amplifier for different classes of amplifier, and different forms of antenna.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

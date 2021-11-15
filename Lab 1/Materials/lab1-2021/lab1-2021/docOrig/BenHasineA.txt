@@ -1,0 +1,44 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Environment Mapping Using An Autonomous Vehicle 
+	
+
+Student Name:   Arafat Ben Hassine
+
+
+Supervisor:   SMC
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+There a many environments which are hostile or hazardous, and situations which present a significant risk of injury or death. Where tasks must still be performed in scenarios like these, autonomous systems are becoming increasingly important. In addition to providing the necessary equipment to perform the desired function, such systems need to be able to cope with novel (and possibly dynamic) circumstances. Applications may be found in a variety of fields, from civil emergency services to a range of military operations. Similar intelligence, once proven, could also be used in labour-saving consumer electronics.
+ 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+
+The aim of this project is to design, build and demonstrate an autonomous vehicle capable of mapping an unknown environment into which it is placed. Given a specified range, the vehicle should attempt to physically cover as much ground as possible within the defined range, in the minimum possible time, and whilst ensuring its own safety (i.e. avoiding obstacles and pitfalls). This will entail the development of a sensor-equipped, intelligent vehicle, and algorithms designed to efficiently control the vehicle's movement and mapping tasks. The vehicle should create a map of the environment that is has encountered, which should be recoverable on the vehicle's return.
+ 
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+
+* To design, build and demonstrate an autonomous microcontroller-based vehicle with support, for collision detection (or collision avoidance)
+* To design, implement and evaluate algorithms for mapping a static environment, with the goal of covering 100% of a specified region whilst avoiding unnecessary collisions
+* To investigate the impact of the capabilities of the vehicle on the design and effectiveness of the algorithms used to control it
+ 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+
+* To extend the functionality of the vehicle to include detection of pitfalls as well as obstacles, and to distinguish between obstacles that may be negotiated and those that cannot
+* To implement a serial interface on the vehicle, allowing the vehicle to receive instructions and to return information to a computer via an RS-232 link
+* To design, implement and evaluate algorithms for mapping a dynamic environment, and returning the vehicle to its point of departure
+ 
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+   ü
+

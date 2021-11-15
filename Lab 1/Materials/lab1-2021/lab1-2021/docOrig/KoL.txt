@@ -1,0 +1,49 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  A mobile intelligent tutoring system to offer daily learning opportunities
+
+
+Student Name:  Lisa Ko
+
+
+Supervisor:  Susan Bull
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Handheld computers provide opportunities for computer-based educational interactions at times where this kind of learning would not normally be possible.
+
+An intelligent tutoring system adapts the educational interaction to the specific needs of the individual user according to a model of their understanding that it constructs during an interaction. The learner model typically contains representations of the learner's knowledge, their difficulties and any misconceptions they hold.
+
+Combining the flexibility of mobile learning with the individualised learning possibilities offered by intelligent tutoring systems, would benefit learners on the move. Features specific to mobile learning can be modelled in order to create an intelligent tutoring system that not only allows personalised learning opportunities, but also takes into account the amount of time available to the learner, and their location of learning. It can then recommend the most appropriate learning interaction for an individual according to their learning needs and their daily schedule.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+This project will design, implement and evaluate a mobile intelligent tutoring system. The system will model the learner's knowledge, misconceptions and learning locations (for levels of concentration and distraction). 
+
+At the start of each day the student will input how many learning sessions they plan to complete; the length of time they have available for each session; and their location. The system will then plan a suitable series of interactions for the day, according to the contents of the learner model and the learner's schedule (e.g. information presentation, test questions, individualised tutoring or remediation). It will need to adapt the remainder of the day's learning plan if the learner misses a session.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* implementation of a basic mobile intelligent tutoring system (without additional schedule information)
+* implementation of static learning material presented as appropriate for the user's location and/or time available (without more detailed modelling of knowledge and misconceptions).
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+There are many ways in which the project could be enhanced. The following are examples only.
+* use of the calendar to infer use for the current day (offered as a default for the user to confirm)
+* inference from previous usage patterns about location and time of use for the current day (offered as a default for the user to confirm)
+* inference of concentration/distraction levels at various locations based on previous interactions at those locations
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+X
+

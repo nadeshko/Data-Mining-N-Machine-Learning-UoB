@@ -1,0 +1,43 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Reconfigurable Processors for Low-Cost Embedded Systems
+	
+
+Student Name:   Chi Kar Chan
+
+
+Supervisor:   SMC
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Due to the rapid improvements being made in silicon process technologies, integrated circuit densities and performance are still increasing according to Moore's Law. This means that embedded system designers must deal with the problem of ever-shorter product lifecycles and more rapid obsolescence of off-the-shelf components. One possible solution to this problem is to implement processors in programmable logic. Then, as process technologies improve, designers can immediately benefit from the greater performance provided by the silicon without having to modify their original designs.
+ 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to design, implement and evaluate a synthesizable VHDL model of a Microchip PIC microcontroller, targeting the latest Spartan-3 FPGAs from Xilinx. The model should be able to directly execute (in simulation) code produced by the Microchip assembler, MPASM, based on source code containing a subset of the PIC12/16-series instruction set. The selection of the supported subset should be based on an analysis of typical usage. The model should be synthesized and efficiently mapped to the Spartan-3 architecture, making use of advanced architectural features to minimize resource requirements and maximize performance.
+ 
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+
+* To identify those components of PIC microcontrollers that can be successfully implemented using the resources provided by programmable logic devices
+* To develop and test a VHDL model of which supports instruction fetch/decode, control flow (including the stack), general-purpose components of the register file, and a minimal set of arithmetic operations and configuration registers.
+* To evaluate the resource usage and performance of the microcontroller model after synthesis and implementation using Xilinx Spartan-3 series FPGAs
+ 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+
+* To extend the architectural features supported to include more of the available advanced features, on-chip memory and special-function registers
+* To build an adapter to allow direct connection of an FPGA-based demonstration board containing the microcontroller core in place of a PIC microcontroller
+* To demonstrate, using common source code, the behaviour of the 'soft' microcontroller core in relation to that of a real device
+ 
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+   ü
+

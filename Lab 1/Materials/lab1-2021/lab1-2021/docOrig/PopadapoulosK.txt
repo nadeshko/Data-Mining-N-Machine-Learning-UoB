@@ -1,0 +1,43 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: A speaker independent, speech recognition system of single and isolated word
+
+
+Student Name: K Papadopoulos
+
+
+Supervisor: Prof. M. Russell
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+The goal of this project is to develop a speech processing system which could be used as an "emergency shut-off" system in an industrial environment involving hazardous equipment.  Thus the system must be able to detect and recognize stressed speech in a noisy industrial environment.  The project is in two parts.  In the first part the goal is to design and build a system which is able to distinguish between 'normal' and 'stressed' speech in a noisy enviromnet.  The second task is to design and build a speaker recognition system, designed to recognize a single and isolated word. It will be "speaker - independent", thus able to compensate for the variation occur in individuals' utterances, and "stress tolerant".
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The outcomes of the project should be as follows:
+1. Understand necessary background in speech processing
+2. Implement and test a system to distinguish between 'normal' and 'stressed' speech in quiet
+3. Analyse the 'acoustic correlates' of stress
+4. Implement and test a system to distinguish between 'normal' and 'stressed' speech in noise
+5. The aim of this project is to design and simulate a speaker independent, isolated word, speech recognition system using any programming language or toolkit.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+1. Mathematical and speech processing background developed and explained accordingly
+2. Sequence of targets corresponds to items 2 to 3 above
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Item 4 above
+* Item 5 above
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

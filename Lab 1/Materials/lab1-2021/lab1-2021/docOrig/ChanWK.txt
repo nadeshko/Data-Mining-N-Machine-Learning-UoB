@@ -1,0 +1,45 @@
+
+Project Title:Impact avoidance system
+
+
+Student Name:W.K.Chan
+
+
+Supervisor:MS
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Impact avoidance systems for expensive pieces of hardware can encompass vision systems proximity detectors etc and involve both the sensor system and a motor controlled platform on which the hardware is mounted. However, the use of vision to avoid impact involves the development of sophisticated real-time algorithms whose robustness is questionable. This project involves the development of a simple system, probably based on ultrasound, which detects possible impact based on proximity and velocity.
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The project is to develop a PIC-based system which is able to detect an object in front of a sensor with the object moving rapidly towards the sensor on a collision path. The application of this project is for an active vision platform containing expensive pieces of hardware. Such a system tracks moving objects using vision processing. If the objects are on a collision course, vision processing must detect this and send a signal to the motors controlling the platform to take evasive action. This involves fairly complex processing. A cheaper alternative is envisaged based on a PIC microcontroller using a simple ultrasonic proximity sensor.  A demonstration system should be built involving a simple DC motor controlled by the PIC.
+
+
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Interfacing a proximity sensor to a PIC enabling the distance from an object to be measured. 
+* Determining the velocity if the object
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Mounting the system on a motor controlled platform
+* Different 'threat' levels - emitting warning tones 
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+x
+
+
+
+

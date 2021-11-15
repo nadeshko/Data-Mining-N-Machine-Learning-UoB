@@ -1,0 +1,36 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Digital Radio Mondiale Data Transmitter
+
+
+Student Name:   Andrew Nyago
+
+
+Supervisor:   PRA
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Traditionally, radio broadcast stations using frequencies below 30MHz have used amplitude modulation.   Although this permits the use of simple, low-cost receivers, the received audio quality is often very poor due to adverse propagation conditions and co-channel interference.   Recently, an International consortium has proposed the replacement of amplitude modulation by a system called Digital Radio Mondiale (DRM).   This uses sophisticated digital modulation techniques to encode mixtures of audio, digital, messaging and other information within a highly-resilient digital transmission stream.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and build a DRM baseband transmission modulator for the transmission of digital source material (the audio CODEC sections are deemed to be too complicated for consideration by an undergraduate project).   The modulator should incorporate frequency reference cells, amplitude reference cells, timing synchronization, Fast Access Channel (FAC) and the Main Service Channel (MSC).   It is suggested that the modulator be implemented on a PC using a standard two-channel sound card.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* That an array of OFDM quadrature modulation cells be set up within a computer containing the frequency reference information, inverse Fourier transformed and output to a sound card.
+* That the timing synchronization cells be added and that a basic transmission frame be generated and output.
+* That the amplitude reference cells be added to the basic transmission frame.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* That the modulator be able to switch between different robustness modes, channel bandwidths and error encoding strategies.
+* That a baseband receiver be implemented (possibly in MATLAB) to derive the errors in the sound card sampling rate and the frequency setting errors of the receiver.
+* That the receiver be adapted to decode the digital data transmitted.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+v
+
+

@@ -1,0 +1,42 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Pitch trainer for a novice singer
+
+
+Student Name:  Peter Samuel
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+A filter bank consisting of several bandpass filters, separated by a tone or semitone, can be used to test the pitch of a novice singer:  when he/she sings a note on the musical scale, it is output, but when he/she sings something out of tune, nothing is heard.  This filter bank is to be constructed.  This continues a project by a previous student.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+Working hardware and software to cover at least one octave of the musical scale.
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Working hardware to cover at least two notes.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* A study of whether the harmonics in the voice,  slowly-varying pitch and transient notes affect the circuit.
+* Use of down-samplers to implement additional octaves on the scale with a minimal increase in the amount of code, and reduced truncation error.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+

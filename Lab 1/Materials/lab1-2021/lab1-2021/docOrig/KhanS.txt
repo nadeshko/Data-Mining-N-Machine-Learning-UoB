@@ -1,0 +1,46 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Empirical equation for the resonant frequency and coupling coefficient of  microstrip single-spiral resonators
+
+Student Name:  Sumaira Khan
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Microstrip spiral resonators in filters are currently designed by computer simulation, which is a lengthy process.  It would be helpful to have empirical design equations, similar to those for straight microstrip,  at least to provide an initial design or a feasibility study.  This can be done by fitting a curves to simulated results, probably using the SONNET electromagnetic simulator.  To be useful, the equations must be valid for a wide range of permittivity, number of turns, substrate thickness, etc.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1. Provide empirical design equations, together with simulation data to demonstrate validity.
+2. Use Physical arguments to show proportionality (or other simple relationship) between some of the parameters and resonant frequency, thereby simplifying the equations.
+3. Review the theory of resonant transmission lines, and use it for (2).
+4. Demonstrate a knowledge of SONNET (or other) electromagnetic simulator.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Provide design data in the form of graphs
+
+* Review the theory of resonant transmission lines.
+
+* Demonstrate a knowledge of SONNET (or other) electromagnetic simulator.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+As with "expected outcomes", but extend the work to coupling coefficients between spirals.
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+
+ 

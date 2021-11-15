@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Teacher's Educational Support Database
+
+
+Student Name:   G Palmer
+
+
+Supervisor:   AJG
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+The increasing demands in checks and balance being imposed on the educational system, especially at a junior school level, has required increasing amounts of divergent information to be stored. The aim of this project is to establish if such administrative information can be organised in a database and represented for different user demands. This has  taken into consideration of recent legislation on what information can and cannot be distributed into the public domain.
+
+
+Expected Outcomes. 
+The aim of this project is to analyse the present user requirement on the data they require, from this design a system for representing the data given restriction on security confidentiality etc, and implement this system for an internet based system. This will allow the user's to work on the database from home as well as from their school. The system will be written in Java. The suggested server maybe the JDBC for supporting a range of different clients such as teachers, administrative staff and the headmasters
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* To peruse the requirements and design aspects to involve a wider range of user's including student and parents
+* To implement a prototype using Visual Basic
+* To have user evaluation of the prototype and compare with the user's initial expectation
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* The use of bilingual interfaces and has the ability to add further languages
+* The use of fuzzy logic to determine patterns amongst divergent data
+* To encrypt sensitive data.
+
+Project Uniqueness:   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+
+
+

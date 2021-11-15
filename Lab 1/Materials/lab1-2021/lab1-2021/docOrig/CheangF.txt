@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Visual Perception and Attention in Augmented Reality
+
+
+Student Name:  Francis Cheang
+
+
+Supervisor:  Dr. C. Baber
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Augmented reality refers to the combining of virtual images onto real-world scenes, usually through the use of head-mounted displays. This raises a number of considerations relating to visual perception and attention which are to be explored in this project; in particular, the question of how well people can attend to images on the head-mounted displays and targets in the real-world.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of the project is to develop experiments and collect data on human performance. The data will be used to develop a theoretical account of visual perception and attention in augmented reality.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Development of the visual perception task will require programming (probably in VisualBasic) which might require revision in order to make a suitable application.
+* Recruitment of participants will be essential to this project. It is anticipated that at least 20 people will needed to be recruited in order to produce reliable data.  If it is not possible to recruit this many people, then simpler statistical analysis will be required.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* The project could produce data that is suitable for reporting to a conference.
+* The theory would be useful for future developments in augmented reality.
+
+
+Project Uniqueness: It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+ü
+

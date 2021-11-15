@@ -1,0 +1,42 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  The coupling capacitance of end-coupled and orthogonal microstrip lines 
+
+
+Student Name:  Agbamu Evans
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+The above coupling capacitances have previously been calculated using quasi-static methods.  They are now to be verified using an electromagnetic simulator.  Although this has also been done in a previous project, more user-friendly software should now enable much further progress to be made.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1.Design data, mainly coupling capacitances, to be provided for a range of gap sizes, line widths and substrate permittivities, and compared with the results available in the literature.
+2. An upper frequency limit for the quasi-static model to be evaluated from the data.
+3.  Use of the electromagnetic simulator, and calculations based on the data obtained, to be explained.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Items 1 and 3 above.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* A high-frequency model based on several lumped elements is to be created.
+* The size of the region of interaction between the two microstrips (assuming a given accuracy) is to be determined.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+

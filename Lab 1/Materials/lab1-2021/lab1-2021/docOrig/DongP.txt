@@ -1,0 +1,23 @@
+Peng Dong (03248830
+
+
+M-sequence test generator
+
+1. The aim: To develop M-sequences generator as a stand along instrument, using hard universal logic IC 
+2. Specification: Number of sequences - three (M=8191, m=13; M=65535, m=16; M=524287, m=19); clock frequency >20MHz: all input -output BNC connectors at the front panel, Power- 5V dc, to change the sequence a mechanical switch on the front panel should be used. 'Zero' combination protection logic should be included.
+3. Main activities1: 	Literature review in spread spectrum and CDMA technology
+Choice of M-sequences
+Modelling these sequences
+Block diagram of the generator development
+Integrated circuits selection
+Electrical circuits development
+Printed board development
+Instrument assembling and testing
+
+4. Extra work2;	Theoretical analysis of   FPGA and microprocessors usage for the M-sequence generator development.
+
+
+
+M. Cherniakov .............................10.11.03
+1 For 2ii class
+2 For 2i class

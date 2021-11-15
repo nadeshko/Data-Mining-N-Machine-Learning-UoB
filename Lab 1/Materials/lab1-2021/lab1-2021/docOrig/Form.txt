@@ -1,0 +1,43 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Efficiency Measurement of Antennas
+
+
+Student Name: C X Ang
+
+
+Supervisor: Professor P S Hall
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+The performance of antennas for mobile phones is primarily characterised by measuring its efficiency. Traditionally, efficiency is measured using the wheeler cap method, in which the input resistance of the antenna in free space and in a metal box is compared. However, the method is inaccurate when the box modes are significant.
+
+A new data processing method has been described that overcomes this problem. The aim of this project is to investigate the new method. Existing antennas made in the Communications Engineering Group will be measured. The measurement will involve use of a vector network analyser and data analysis will be done using MATLAB
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+* Wheeler cap apparatus built
+* Reference antennas made and measured (efficiency)
+* Some multi-band antennas measured
+* Assessment of accuracy
+* Investigation results of comparison of traditional and new method
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Building of Wheeler cap apparatus
+* Design and make reference antennas
+* Efficiency measurement of reference antennas
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Comparison with anechoic chamber method and reverberation chamber method
+* 
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ ü
+

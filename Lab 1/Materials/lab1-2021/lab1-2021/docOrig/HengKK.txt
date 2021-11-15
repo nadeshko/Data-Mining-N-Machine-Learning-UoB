@@ -1,0 +1,37 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Multi-Static Sonar Sensor
+
+
+Student Name:   Kai Koon Heng
+
+
+Supervisor:   PRA
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Low-frequency, high-power active sonar systems are currently under political scrutiny resulting from the probable links with damage caused to marine mammals.   Thus it is likely that these systems will be banned within the next ten years.   Candidate technologies to replace these systems include purely passive sonar systems or large-networks of very low-power active sensors.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and build a programmable signal source suitable for use by a low-power, acoustic network beacon.   It is likely that such a beacon would cycle through a number of pre-programmed waveforms using different frequency bands.   The device should be programmable from a PC.   Particular consideration should be given to low-power operation as the device will be battery operated.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To select a suitable low-power, high-resolution, digital-to-analogue converter and to test this device with simple test signals (square-waves).
+* To implement a simple programmable device capable of downloading a test waveform from a PC.
+* To interface the D/A to the programmable device and demonstrate a downloaded test signal output to an oscilloscope.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* To ensure that the transmitted signal does not suffer from unnecessary timing jitter and to undertake a mathematical analysis and comparison of the performance of the waveform generator.
+* To implement a matching receiver.
+* To demonstrate a working technical-demonstrator bistatic sonar system (probably using MATLAB on a PC).
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+v
+
+
+

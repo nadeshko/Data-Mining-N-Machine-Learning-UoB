@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Detector of Unauthorized Wireless Communications in Examination Rooms
+
+
+Student Name: W Agricole
+
+
+Supervisor: CCC
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+The proliferation of Bluetooth and ad hoc WLAN (802.11b) devices opens the possibility of sophisticated methods of cheating during University examinations. This project will design, built and test a detector of unauthorized transmissions in rooms where examinations are being held. The detector will be a single-band device operating in the 2.4 GHz ISM band, which will have three output indicators for no transmission, active WLAN transmission and active Bluetooth transmission, respectively.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design a hand-held, battery-powered detector capable of producing a binary detection of transmissions, has a signal strength indicator, and ideally can identify the type of transmission (e.g. Bluetooth, IEEE802.11b, etc.). The detector will comprise two parts, a radio frequency down-converter and an I.F. or baseband decision circuit of varied sophistication and complexity. The battery lifetime of the device must be at least 3 hours.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Study the WiFi and Bluetooth standards
+* Design and build the r.f. sub-system out of off-the-shelf components
+* Design and build a basic signal strength detector
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Being able to identify the type of transmission
+* Implement an intelligent/flexible decision circuit/sub-system
+* Consider the extension to multi-band detection to include mobile phones, etc.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ ü
+

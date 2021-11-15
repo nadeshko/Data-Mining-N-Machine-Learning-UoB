@@ -1,0 +1,50 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  An intelligent learning environment to support parents helping their child to learn
+
+
+Student Name:  Christopher Lam
+
+
+Supervisor:  Susan Bull
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Children often have difficulties with some aspects of their education. Parents can have problems helping their child, because they may not understand how their child best learns, and therefore do not know the most effective way to help them. For example, a parent may try to help a child in a manner that they would find useful themselves. However, there may be a mismatch between the parent's and the child's preferred learning style. It would be useful, therefore, to support parents in their attempts to help their children learn.
+
+An intelligent learning environment maintains a model of the user's understanding of the target material, which allows the environment to adapt the educational interaction to the learner's specific needs. Making this learner model accessible to parents could help parents to help their children in the manner most appropriate for them. 
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+This project will design and implement an intelligent learning environment for use by children as additional support for some aspect of their schoolwork. The environment will:
+* make the learner model accessible to parents, in order that they can see where their child needs most help
+* support parents in understanding the learning requirements for different learning styles 
+* offer a variety of problem-solving approaches that the parent can try with their child, and identify which appears to be the most successful
+
+Once identified, the child's learning style will be represented in their learner model. During future interactions, parents will be supported in helping their child through:
+* the provision of the open learner model indicating their child's knowledge and difficulties
+* suggestions of how to help their child understand the target material in a manner well-suited to their learning style
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* implementation of a basic intelligent learning environment with an open learner model for parents (but without additional support for parents)
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+There are many ways in which the project could be enhanced. The following are examples only.
+* opening the learner model to the child in a manner understandable by them
+* making the child more aware of learning style issues 
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+X
+

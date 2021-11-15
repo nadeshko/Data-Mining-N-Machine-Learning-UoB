@@ -1,0 +1,37 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: WiFi experimental testbed
+
+
+Student Name: E Brady
+
+
+Supervisor: CCC
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+This project will design, implement and validate a peer-to-peer wireless network testbed using up to 20 PDAs. The aim is for the user to choose various settings, such as the MAC protocol, the metrics to be recorded at each node, the traffic sources, the routing protocol, and finally define the topology by manipulating the available radio connectivity between the nodes.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+A software framework in which the following will be implemented will be designed: A single MAC layer protocol can be used to build link state tables of nodes. The connectivity of the nodes can only be specified in a centralised manner from a master node, which is defined by the user. The simplest of traffic sources (e.g. constant bit rate with just UDP) is to be implemented. A small number of simple routing algorithms is to be implemented. Finally, simple end-to-end path packet loss and delay measurements are taken and processed centrally. Rudimentary validation of the testbed software is expected.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The traffic source is just a collection of ping messages.
+* The routing of data is implemented using the simplest of algorithms, or in the worst case through restricted flooding.
+* Simple measurements are reported in histogram form without any statistical analysis being performed.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* A sophisticated set of routing performance metrics is enabled at all nodes.
+* The connectivity can be controlled in a decentralised manner.
+* Statistical analysis of the various measurements is implemented fully.
+* More than one MAC layer protocol is selectable in the testbed.
+* Extensive validation of the testbed software is carried out.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ ü
+

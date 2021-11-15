@@ -1,0 +1,45 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Coupling of microstrip double spirals as a function of direction
+
+
+Student Name: Chin Loong LIM
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Analogous to the radiation pattern of an antenna, the near-field coupling coefficient of a double-spiral microstrip resonator is expected to vary with direction.  This is to be studied using an electromagnetic simulator.
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1. Design curves of coupling coefficient as a function of direction and distance, with supporting data from simulations.
+2. A qualitative explanation of the results based on physical arguments.
+3. A discussion on electric and magnetic coupling, and the design of probes to differentiate between them. 
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* No. 1 above.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Recommendations on how to design filter banks for minimum coupling between filters.
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+
+

@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Driving Styles versus fuel consumption and emissions
+
+
+Student Name:  Zakaria Angelo
+
+
+Supervisor:   MO
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+It is often stated that reduction in driving speed and smoother driving style would result in fuel economy and increased road security. However, studies in energetic systems show that the relationship between speed and fuel consumption / emission is rather complex, and sometimes reducing speed would result in fuel consumption and emission. It is therefore desirable to analyse the effect of different driving styles on fuel consumption / emission. 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to investigate the influence of different driving on fuel consumption and emissions from different literature. The results will be exhibited in a simulation that provides a basis for driver training programs. On the other hand, it suggests a theoretical basis for interpreting cause/accident database.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To investigate and summarize the appropriate literature in the field of fuel consumption/emission versus speed. 
+* To provide a basis for interpreting different driving styles
+* To re-interpret the database on road accident causes 
+* To design and implement a simulation platform that summarizes the results and supply guidelines for driver training community
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* To implement an improved simulation platform that incorporates the cinematic of the car.
+* To investigate the effect of traffic flow with respect to driving styles.
+* To design a setup with your own car and provides preliminary results
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ x
+
+
+

@@ -1,0 +1,44 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Diagnosis for automobile fault detection 
+
+
+Student Name: I Raja
+
+
+Supervisor:   MO
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Nowadays the detection of faults in any vehicle is based on analysis of signals from vehicle's black box associated with some fault interpreter, which maps the signal to physical world. Unfortunately, it often occurs that due some inconsistency in the signal or in the testing device the interpretation of the fault is wrong. This motivates a probabilistic approach to diagnosis where the outcome would rather be the likelihood that a given physical fault is the right interpretation of the signal fault. 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and to provide a quantitative diagnosis platform for interpreting faulty signal issued by vehicle's black box. It is expected that an experimental setup will be designed for performing and testing the probabilistic diagnosis algorithm. 
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To design an experimental setup that makes the diagnosis of vehicle's fault detection and interpretation useful. 
+* To design and implement a probabilistic diagnosis scheme that agrees with vehicle's requirements. 
+* To provide a basis for testing and validating the introduced algorithm 
+* To evaluate the performance in terms of accuracy and rightness of the algorithm outcomes.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* To provide a rational explanation of the performance of the algorithms with respect to different parameters. 
+* To compare the algorithm with potential other candidates.
+* To propose future recommendations for the performances of the algorithm and show some limitations of methods actually in use in automobile industry. 
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+ 
+   x
+
+
+
+
+
+
+
+
+

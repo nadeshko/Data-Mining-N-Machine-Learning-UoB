@@ -1,0 +1,41 @@
+
+Project Title:Motionless detector
+
+
+Student Name:Dekha Swanston
+
+
+Supervisor:MS
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+It is often useful to detect inactivity particularly in the field of search and rescue. A typical scenario is a fireman entering a burning building and low visibility because of smoke. Clearly if he is inactive for some length of time, there is a possibility he has been overcome by smoke inhalation. A simple detector which can detect zero motion would be a useful monitoring device for these situations.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+This project involves building a device that can detect a state of zero motion. Such a  device would be of use, for example, to emergency service personnel as they work in enclosed areas (maybe in the aftermath of an earthquake or a fire). The device could be attached to someone and if they are rendered unconscious, the motionless detector could emit a radio signal to a central control point, possibly with location information. Clearly, intelligence should be built into the device so it only emits an emergency signal after being in the motionless state after a certain length of time.
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* A simple device which outputs a signal if it has not been moved for some programmable length of time 
+* Interfacing to a PIC with an LCD display which displays the 'motion history' and the operative ID
+* Interfacing to a buzzer/alarm
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Outputting a radio signal to a central control with operator ID info and location info.
+* Communication with a network of operatives alerting the nearest operative
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+x
+

@@ -1,0 +1,37 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Detection of Speech in Sound Recordings
+
+
+Student Name: Olusegun Olomofe
+
+
+Supervisor: Peter Jancovic
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+The task of a sound retrieval system is to find an occurrence of some sound-of-interest in a large amount of recordings. As an example, we may be interested in detection of speech in a recorded sound (e.g. sound track of movie). This project will investigate methods for the detection of speech in such recorded sounds (which may possibly contain various types of non-speech signals, such as various noises, action, or music).
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to investigate and develop a program for the detection of speech signals in recordings, which contain various types of sounds (e.g. stationary & non-stationary background noise, music). 
+The input to the program is a waveform signal (.wav file). The student will need to parameterize the input signal into a sequence of spectral-based frame features. The program will consist of two phases: training and testing.
+In the training phase, models of speech feature-space will be estimated by Gaussian mixture modeling (GMM). This will be performed on clean speech database. Both, GMM tool and the clean speech database will be provided.
+In the testing, initially, a speech signal should be inserted at random positions into a mixture of non-speech signals (the student should create a database of various non-speech sounds). Then, tests should be carried out on a real-world data, e.g. sound track of a movie. The results obtained should be evaluated by comparing them to those obtained manually (i.e. the location of speech present in the real-world data should be manually annotated).
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The program developed in Matlab environment.
+* The speech parameterization not implemented - a provided parameterization used.
+* Only the initial testing performed.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* The program developed in C (C++) language.
+* Both types of testing performed. For the real-world data testing, a database of at least one hour should be obtained and annotated.
+* Investigation on using segment-based features.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

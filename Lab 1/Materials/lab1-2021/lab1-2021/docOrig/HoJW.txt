@@ -1,0 +1,45 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Dielectric Resonators in the Hakki-Coleman configuration
+
+
+Student Name: Ms J W Ho 
+
+
+Supervisor: Dr P Smith
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+A Dielectric Resonator (DR) is simply a cylindrical piece of ceramic that acts as a resonant structure when its length, or diameter, become approximately equal to a multiple of a 1/2 wavelength. Dielectric Resonators are widely used in Basestation receivers as the filter elements in mobile phone systems.  This project will involve the use of the software package Matlab to model a Dielectric Resonator when it has metal plates on the top and bottom faces (Hakki-Coleman configuration).  This project will involve a significant amount of Matlab modelling as well as a fair amount of mathematical derivation.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to: 
+* Predict the frequency of the TE011 mode when a DR is in the Hakki Coleman configuration, along with the other TM and hybrid modes.
+* Determine the permittivity of actual samples. 
+* Predict the Q of the hakki coleman structure and compare this to actual measurements (taking into account conductor and dielectric loss). 
+* Finally the software will be used to calculate the Tan d of actual ceramic samples
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Predict the frequency of the TE011 mode when a DR is in the Hakki Coleman configuration
+
+* Determine the permittivity of actual samples
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Calculate the Q of the TM and hybrid modes taking into account conductor and dielectric losses
+
+* 
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

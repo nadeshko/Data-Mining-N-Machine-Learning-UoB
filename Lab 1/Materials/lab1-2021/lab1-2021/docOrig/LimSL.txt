@@ -1,0 +1,45 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:An active antenna testbed for software defined radio
+
+
+Student Name:  LIM Seok Lian
+
+
+Supervisor:  PG
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Software defined radio is an important topic in modern radio development, and an important potential application area for active integrated antenna technology.  Active integrated antennas have the potential to produce miniaturized, integrated radio transmitters and receivers, in which active and passive circuit functions are achieved in the same medium as the antenna, with high levels of integration between the functions.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of the project is to set up a comms link from a signal generator, used as a transmitter, to a patch antenna receiver, including an integrated LNA, mixer and A/D converter.  Reveived signals will be analysed using a spectrum analyzer and oscilloscope, to verify the link budget calculations.
+
+
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Design, build and test patch antennas for the Tx and Rx ends of the system.
+
+
+* 
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Capture and analyse the digital signal to enable software demodulation for BPSK and QPSK modulation.
+
+* Measure the bit error rate after software demodulation, and compare with theoretical predictions.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

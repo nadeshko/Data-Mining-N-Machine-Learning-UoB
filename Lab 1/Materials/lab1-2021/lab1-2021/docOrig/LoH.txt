@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Satellite simulation system
+
+
+Student Name: H Lo 
+
+Supervisor: AJG
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Satellite communication system have been established to support the worlds telephone networks. The increasing use of robotic system in space has allowed an increase in the use of more independence by satellite systems. To this end small sets of satellites have been released into the atmosphere and have been control by a ground base or by the satellites themselves to distributed themselves evenly around the earth atmosphere. Though stationary orbit is useful it is not always possible, due to the constant pull on the satellites by the Earth's gravitational orbit. Also space debris and solar winds can have a serious impact on the position of the satellites. This project to simulate how a set of satellites and  base station determine the positioning of the satellites of each other equidistance from each under the impact of these external forces.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+Basic Java program showing a 2d earth and the surround satellites.
+A set of buttons that when pressed will make random impact on the satellites, this the satellites will then organise a correction to the random error induced.
+An understanding DAI  and relevance to the process of intelligent systems in space.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The project will based on very small incremental steps. The fall back position will be to reduce the satellite system to one satellite and one base controller.
+* The method of movement will be restrict to left and right moving round the edge of the planet.
+* 3d dimension and tangential forces will have be added at a later date, if this fall back position has to be undertaken.
+* Emphasis will be refocused toward the interface and background
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* increase the number of satellites
+* remove the base controller and allow the satellites to sort the difficulties out themselves
+* Improved user interface
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

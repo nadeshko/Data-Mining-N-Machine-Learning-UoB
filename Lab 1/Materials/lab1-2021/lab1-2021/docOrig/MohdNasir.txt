@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Design and implementation of a decision support system for doctor-patient communications enhancing mutual trust
+
+
+Student Name:  Zamak Sha'ari Mohd Nasir
+
+
+Supervisor:   MO
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Needless to say that trust plays important role in communities and our life. Likewise, medical research has pointed out the importance of trust in conducting successful diagnosis and ensuring that the patient follows straightforwardly doctor's advices and recommendations. This project attempts to provide a quantitative evaluation of this trust while supplying useful guidelines to medical community. A mathematical model of trust based on individuals' conjunctures and prior knowledge about possible actions will be integrated in a decision support system that imitates basics of patient-doctor communications.  
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and implement a decision support system that integrates a model of trust for patient-doctor communication. It is suggested that the decision support system will be implemented in a PC as simulation platform in Java /C like environment.  
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* Algorithmic construction of trust model 
+* Algorithmic construction of basic scenarios of patient-doctor communications. 
+* Show sufficient understanding of decision support systems and their implementation. 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* Use the trust outcome to predict unknown scenarios
+* Generate a set of guidelines in agreement with this prediction. 
+* Possible suggestion for updating doctor's diagnosis
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+x
+
+
+ 
+

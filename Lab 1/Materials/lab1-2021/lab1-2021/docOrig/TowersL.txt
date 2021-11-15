@@ -1,0 +1,49 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:
+Human Error in Musical Performance
+
+Student Name:
+Laura Towers
+
+Supervisor:
+Dr Ted Megaw
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Errors offer clues to the processes underlying basic human actions. By studying how and why these errors occur we can seek to better understand human mental processes and therefore preempt and hopefully reduce any errors that may arise.
+
+Errors are more likely to occur when a person performs a task for the first time. As such, when confronted with the task of playing a previously unseen piece of music, even a relatively skilled musician may inevitably make mistakes.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to produce a model of error production in the field of musical performance. An error taxonomy will also be produced in this context.
+
+A combination of software and musical expertise will be used to identify errors.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Review method of data collection.
+
+* Software unavailable/ un-usable- reassess methods of error identification.
+
+* Devise an alternative method of developing the model
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Attempt a taxonomy of errors
+
+* Clearly identify key problem areas
+
+* Adequate data analysis and documentation
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

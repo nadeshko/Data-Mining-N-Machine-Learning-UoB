@@ -1,0 +1,48 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Finite difference Calculation for Ferroelectric Materials
+
+
+Student Name: L C Cheng
+
+
+Supervisor: MJL
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+The finite difference method is well know for linear materials, however ferroelectrics have a permittivity which is dependant upon the applied voltage. This has consequences on the impedance of a transmission line where the ferroelectric is used as the insulating materials.
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The outcome of the project will be a finite difference calculation for ferroelectric materials. The calculation will show the voltage at any point in the cross section of a microstrip transmission line given the relationship between the permittivity and voltage of the ferroelectric material.
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Constant permittivity calculation of electric field
+
+* Calculation of impedance of microstrip with constant permittivity.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Calculation of electric field of a ferroelectric microstrip
+
+* Calculation of the impedance of a ferroelectric microstrip
+
+* Calculation of other types of transmission lines
+
+* Investigation of devices based on the calculations
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

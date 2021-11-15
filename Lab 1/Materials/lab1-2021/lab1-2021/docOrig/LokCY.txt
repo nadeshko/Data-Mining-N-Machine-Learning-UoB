@@ -1,0 +1,43 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Monitoring High-Bandwidth Encrypted Data Streams
+	
+
+Student Name:   Choon Yik Lok
+
+
+Supervisor:   SMC
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+A recent project has demonstrated that speech recognition in hardware is feasible, which allows automatic electronic eavesdropping providing communication channels are not encrypted. Thus there is a demand for high-speed encryption and decryption. Field-programmable gate arrays (FPGAs) have been demonstrated to be a suitable technology both for implementing switching fabrics in high-bandwidth networks and also cryptographic algorithms. For maximum efficiency, these  functions should be combined, thus making use of the massive on-chip bandwidth offered by modern FPGAs. 
+ 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to design, implement and evaluate an FPGA-based stream processor capable of extracting selected packets from an incoming data stream, and decrypting them. A range of cryptographic algorithms targeting the Xilinx Virtex-E series of field programmable gate arrays (FPGAs) should be evaluated. This range should include Helix, a recently-announced encryption/authentication algorithm from Counterpane Internet Security. The evaluation should consider the performance of the FPGA-based system in relation to software implementations, and also the efficiency with which the algorithms can be mapped into hardware. 
+ 
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+
+* To demonstrate, using the RC1000 coprocessors available, encryption and decryption using a simple symmetric block cipher such as TEA or RC5.
+* To demonstrate selective extraction of data packets from a continuous data stream using a switching fabric implemented on an RC1000
+* To design, implement and test a program to synthesize a packet-based data stream and allowing the user to selectively insert a payload
+ 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+
+* To use two RC1000 coprocessors to demonstrate selective encryption and decryption of data carried over a high-bandwidth packet-based network
+* To design, construct and test an adapter allowing two RC1000 coprocessors to be connected together via their general-purpose I/O headers
+* To develop a protocol for inter-processor communication over this link, with the goal of maximizing the achievable bandwidth 
+ 
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+   ü
+

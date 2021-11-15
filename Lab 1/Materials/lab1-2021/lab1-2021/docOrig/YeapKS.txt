@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Flux Mill Sensor
+
+
+Student Name:   Kuen Shin Yeap
+
+
+Supervisor:   PRA
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Naturally occurring electric fields result in reduced yield and reliability in the semiconductor manufacturing industry.   Similarly, electrical fields in laboratories and electronic manufacturing plants lead to the early demise of many integrated circuits.   On a larger scale, sunspots and the resulting solar winds can lead to major parts of national power distribution networks becoming unstable.   It is thus important to be able to measure static electrical fields to a high degree of accuracy - a very difficult task.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and build an electric flux mill sensor based on the work of Chubb.   Ideally, the rotating flux mill should be connected to an incremental encoder in order to accurately measure position.   The output of the sensor should preferably be interfaced to a high-resolution 24-bit analogue-to-digital converter.   A correlation operation will then be implemented in software (possibly MATLAB or C) in order to implement a narrow-band, tracking-filter.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To implement a rotating-vane flux-mill mechanism.
+* To measure the position of the vane using an incremental encoder.
+* To measure the induced voltage using a 24-bit analogue-to-digital converter.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* To undertake a mathematical analysis and comparison of the performance of all the different know flux mill sensors.
+* To consider suitable ways of interfacing the acquired digital data to a PC (simple, low-cost ways of using USB, Firewire, etc).
+* To demonstrate a complete, working electric field sensor.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+v
+

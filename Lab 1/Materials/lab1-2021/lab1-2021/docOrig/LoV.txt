@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Proposed project Title:
+Pulse generator for controlling a laser
+
+Student Name: Vincent Lo
+
+
+Supervisor:
+Tim Jackson
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+We want a flexible pulse generator with a BNC cable output to send TTL pulses to control a laser in the thin films lab. We would like to be able to choose pulse frequencies from 0.1 to 100 Hz. The pulse generator will be used to provide reliable process control. Up to 5000 pulses may need to be sent in any one process.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+Design a circuit and/or program and make a prototype.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Design and explanation (why, how it will work)
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Working unit with pulse bunching modulation to create bursts of 5 to 10 pulses up to a total number of 5000 pulses with the frequency of pulses within a bunch in the range 0.1-100Hz. The separation between pulses would be able to be chosen to between 1 and 10 seconds.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+X
+

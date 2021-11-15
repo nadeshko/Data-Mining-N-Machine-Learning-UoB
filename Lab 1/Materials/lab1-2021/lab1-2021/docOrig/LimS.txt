@@ -1,0 +1,50 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Finite State Control of Voltage Conditioning and Storage System
+
+
+Student Name: Siang Lim
+
+
+Supervisor: SVMollov
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Voltage in aircraft systems can vary a lot, mainly due to load switching. Problem is exacerbated in More- and All-Electric aircraft, where the number of pulsed and constant power loads is very much increased..
+The voltage conditioner should counteract the resulting large voltage excursions on the main voltage distribution bus. It will also provide fast energy transfer for pulsed power loads in tactical aircraft.
+System specs:
+Cater for 1kW load. Vdc=270V. Should cover transients for 10ms. Storage current <20A.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+Design power stage and control circuits
+Simulate the entire system
+Build and operate the system
+Test at full power
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Calculate passive components Design magnetic component.
+
+* Design control circuit
+
+* Full schematic and code listing (if applicable)
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Full system simulation:    2.2
+
+* Build and operate system:    2.1
+
+* Test at full load and specification:   first
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+yes
+

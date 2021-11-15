@@ -1,0 +1,36 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Privacy versus user's modeling in P3P environment
+(waiting student confirmation!)
+
+Student Name:  Eric Broadhurst   
+
+
+Supervisor:   MO
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+With the emerging of e-commerce products, the strategies of companies with respect to their customers have been dramatically modified. There is much concern about privacy of customer details to be picked up by hackers. On the other hand, in order in order to get the right product that fits customer's profile there is a tendency to dispatch customer's record to other related companies. It is therefore desirable to setup a platform that handles the balance between the privacy concern as opposed to user's preference. Recently, the P3P environment, which is open source software, presents appealing features to handle the security protocols for web oriented applications. 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and build an online platform in P3P environment that handles the balance between privacy and user's preference. It is suggested that an academic application of purchasing a single product through the web will be envisioned.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To investigate the features of P3P environment for handling both privacy and user's preference.
+* To provide a theoretical framework on how to make a balance between privacy and user's preference in an online like application
+* To design and implement a platform in P3P that integrates the above framework. 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* To quantify the performance of the established balance.
+* To propose recommendations on advantages/ shortcoming of the approach and suitability of P3P environment.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+x
+
+
+ 

@@ -1,0 +1,42 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Tactile Discrimination of Computer Generated Braille Characters using a Glove-Mounted Tactile-feedback Transducer
+
+
+Student Name: SUJAN KUPUSAMY
+
+
+Supervisor: Prof .BOB STONE
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+The user wears the glove which has a sensor on the fingertip and moves his hand on a pad or in the air. The virtual environment software brings forth the movement into the environment.
+When the user touches the Braille characters in the virtual environment, he/she could feel the senses or in the other words the sensor creates the touch feedback of the Braille characters in the glove.  
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design a virtual environment for the blind to learn Braille characters and a lot more. They could be able to sense the textures of the characters and learn using a computer.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Using I-Feel mouse instead of the glove for the tactile feedback.
+
+* Generate several shapes replacing Braille characters.
+
+* Use other Virtual Reality software.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Use many sensors on the fingers and thumb.
+
+* Use sound to give feedback to the user.
+
+* Use many environments as a teaching tool.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

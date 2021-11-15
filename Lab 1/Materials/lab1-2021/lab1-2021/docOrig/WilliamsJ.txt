@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Automatic Language Identification
+
+
+Student Name: John Williams
+
+
+Supervisor: Peter Jancovic
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Each language has its own characteristic patterns of sounds (or sequences of sounds). Language identification can be employed, for instance, as the first step in a multi-lingual machine translation system.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to develop a program for automatic language identification based on speech signal. The student should collect a speech database of various languages.
+The program should be implemented in C (C++) language. The input to the program is a parameterized speech signal. A tool for parameterization of speech signal will be provided. 
+The program will consist of two phases: training and operation.
+In the training phase, acoustic models of each language will be estimated by using Gaussian mixture modeling (GMM). This will be performed on clean speech database. GMM tool will be provided. After the GMMs are trained, the evaluation of the training data on these models should be performed - this results a class-assignment that should then be used to train an n-gram language model.
+In the operation, an input speech (of different length) of unknown language should be evaluated by using the trained GMMs and the n-gram language model.
+In addition to the use of speech signal, the n-gram modelling of each language based on text data should be obtained.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The program developed in Matlab environment.
+* The evaluation of a simple GMM-based language-identification system performed.
+* Speech data of at least 3 languages collected (possibly from the same speaker).
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Training of the n-gram modeling performed, its incorporation in the recognition phase, and evaluation.
+* Fundamental frequency may be a useful feature for language identification (for tone languages in particular). Implement a method for estimation of the fundamental frequency.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+X
+ 

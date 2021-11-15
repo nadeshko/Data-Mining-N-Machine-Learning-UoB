@@ -1,0 +1,45 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Design and construction of a measurement system to determine the Permittivity of typical circuit boards. 
+
+
+Student Name: Mr Peter Schutz
+
+
+Supervisor: Dr P A Smith
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Polymer and low (r ceramic circuit boards are often found unlabelled in both academic and industrial environments and there is therefore a need to determine the permittivity of these boards. This is easily done using expensive equipment such as an impedance analyzer but such equipment is heavily in demand and usually not very portable.
+
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and build a test system to measure the permittivity of low (r boards, using relatively inexpensive equipment. Consideration will have to be given to the nature of the test sample: will it be coated with metal both sides; one side only; or will it be bare board? 
+How will information about the sample be entered? How will the results be displayed?  How will the capacitance be obtained?
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The test system will only be able to measure samples of a fixed geometry
+
+* The system will only be able to measure samples that are metallised both sides
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* The system will have a user-friendly interface to allow the entry of data.
+
+* The test jig will include some form of calibration system to take out effects such as fringing fields around the edge etc.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

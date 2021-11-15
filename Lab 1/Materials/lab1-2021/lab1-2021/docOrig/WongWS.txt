@@ -1,0 +1,37 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Improved Recognition of Children Speech using Frequency Wraping
+
+
+Student Name: W S Wong
+
+
+Supervisor: Prof. M. Russell
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Speech recognition has many potential applications with children, either as a replacement for a conventional input/output device, or as the key technology in interactive, computer-based language tuition systems for reading, pronunciation or language learning.  However, speech recognition error rates for children's speech are typically much higher than those for adults.  In order to develop a computer that would recognize children's speech we have to overcome at least two major problems. Firstly, children don't pronounce words consistently, and secondly they have smaller vocal tracts and higher pitch than adults.  This project focuses on the second problem.  The goal is design, implement and evaluate 'frequency warping' techniques to compensate for the acoustic effects of children's smaller vocal tracts.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The major acoustic consequence of a child's small vocal tract is that the frequency spectrum is distorted relative to adult speech.  Goals are:
+1. Understand differences between adult and child speech
+2. Understand basic principles of automatic speech recognition
+3. Design, implement and evaluate linear, or piecewise linear frequency warping techniques
+4. Measure their effect on speech recognition accuracy, using a recognizer trained on adult speech
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Minimal target objectives are items 1, 2 and 3 above
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Design, implement and evaluate non-linear frequency warping techniques based on dynamic programming to minimize the difference between adult and children speech spectrum
+* Compare and analyse the result between linear and non-linear frequency warping in solving the problem of children speech recognition
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

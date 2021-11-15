@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Software Routines for the Testing and Diagnostics of Jaguar's Body System Network
+
+
+Student Name: M T Javaid
+
+
+Supervisor: Clive Roberts
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Jaguar has a requirement for testing and diagnosing faults with their on-board CAN modules used to control all aspects on a vehicle's operation.  A 'spy' system, to consist on a testing module and associated software, is required.  This will allow Jaguar to test a set of modules for system validation during their development and support processes.  Jaguar will provide test modules and technical support.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of the project is to design and construct a CAN Spy system.  The system should be capable of identifying the modules on the CAN network and polling those identified in turn, in order to ascertain their potential fault conditions.  The modules themselves are already configured to report their own, and their related modules', fault codes.  The system will be programmed using Jaguar's ASL software programming library.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Demonstrate a basic understanding of the CAN system;
+* Construct the basic hardware necessary for the connection of four modules.  This should enable the module to be plugged in for a system test.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Jaguar would prefer the test and diagnosis test to be 'as automated as possible'.  An exceptional project would explore this requirement further and attempt to produces a system which as near as production as possible.  This is likely to include automated reporting functionality and look-up tables for the different fault codes;
+* Provide system level (rather than module level) fault diagnosis.  This will be achieved by considering the types of modules installed and their interconnection.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ ü
+

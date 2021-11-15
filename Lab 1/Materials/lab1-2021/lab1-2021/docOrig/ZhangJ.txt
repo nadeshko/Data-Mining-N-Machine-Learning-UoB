@@ -1,0 +1,321 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Empirical equation for the resonant frequency and coupling coefficient of  microstrip double-spiral resonators
+
+Student Name:  Jun Jie Zhang
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Microstrip spiral resonators in filters are currently designed by computer simulation, which is a lengthy process.  It would be helpful to have empirical design equations, similar to those for straight microstrip,  at least to provide an initial design or a feasibility study.  This can be done by fitting a curves to simulated results, probably using the SONNET electromagnetic simulator.  To be useful, the equations must be valid for a wide range of permittivity, number of turns, substrate thickness, etc.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1. Provide empirical design equations, together with simulation data to demonstrate validity.
+2. Use Physical arguments to show proportionality (or other simple relationship) between some of the parameters and resonant frequency, thereby simplifying the equations.
+3. Review the theory of resonant transmission lines, and use it for (2).
+4. Demonstrate a knowledge of SONNET (or other) electromagnetic simulator.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Provide design data in the form of graphs
+
+* Review the theory of resonant transmission lines.
+
+* Demonstrate a knowledge of SONNET (or other) electromagnetic simulator.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+As with "expected outcomes", but extend the work to coupling coefficients between spirals.
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+
+
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  The coupling capacitance of end-coupled and orthogonal microstrip lines 
+
+
+Student Name:  Agbamu Evans
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+The above coupling capacitances have previously been calculated using quasi-static methods.  They are now to be verified using an electromagnetic simulator.  Although this has also been done in a previous project, more user-friendly software should now enable much further progress to be made.
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1.Design data, mainly coupling capacitances, to be provided for a range of gap sizes, line widths and substrate permittivities, and compared with the results available in the literature.
+2. An upper frequency limit for the quasi-static model to be evaluated from the data.
+3.  Use of the electromagnetic simulator, and calculations based on the data obtained, to be explained.
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Items 1 and 3 above.
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* A high-frequency model based on several lumped elements is to be created.
+* The size of the region of interaction between the two microstrips (assuming a given accuracy) is to be determined.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Coupling of microstrip double spirals as a function of direction
+
+
+Student Name: Chin Loong LIM
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Analogous to the radiation pattern of an antenna, the near-field coupling coefficient of a double-spiral microstrip resonator is expected to vary with direction.  This is to be studied using an electromagnetic simulator.
+
+
+
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1. Design curves of coupling coefficient as a function of direction and distance, with supporting data from simulations.
+2. A qualitative explanation of the results based on physical arguments.
+3. A discussion on electric and magnetic coupling, and the design of probes to differentiate between them. 
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* No. 1 above.
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Recommendations on how to design filter banks for minimum coupling between filters.
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Basic voice scrambler for privacy
+
+
+Student Name: The Aik  NG
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+	A voice scrambler, which divides the speech spectrum into frequency bands and shifts their positions, can be implemented using time-domain operations alone,  resulting in a very efficient algorithm which uses only about eight multiplications per sample.  Processing has to be carried out digitally but the transmission, over a phone line, can be analog.
+
+	This scrambler is to be implemented using a processor such as the Mitsubishi 16C/62.  It repeats a project by Paul Neumann about 12 years ago, but new hardware available will change the character of the job completely.  A more recent attempt (C.P. Johnson) has left much undone, so there is still a lot of new material to be covered. 
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+A demonstration circuit, suitable for lectures and open days, is to be built. Experiments are to be carried out to find the best combination of parameters for optimum performance.  A further study is to find the effective number of distinct keys.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Demonstrate proficiency with the microprocessor in inputting and outputting data, and doing some simple operations such as frequency shifting.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Produce a hard wired, stand-alone circuit.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Pitch trainer for a novice singer
+
+
+Student Name:  Peter Samuel
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+A filter bank consisting of several bandpass filters, separated by a tone or semitone, can be used to test the pitch of a novice singer:  when he/she sings a note on the musical scale, it is output, but when he/she sings something out of tune, nothing is heard.  This filter bank is to be constructed.  This continues a project by a previous student.
+
+
+
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+Working hardware and software to cover at least one octave of the musical scale.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Working hardware to cover at least two notes.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* A study of whether the harmonics in the voice,  slowly-varying pitch and transient notes affect the circuit.
+* Use of down-samplers to implement additional octaves on the scale with a minimal increase in the amount of code, and reduced truncation error.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Web-based Data aquisition system
+
+
+Student Name: Lai Yuen Kit
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+This project is specified entirely by the student.  Having failed to find a supervisor who specializes in the area, he realizes he realizes he will have to use his experience and enthusiasm in lieu of close supervision.
+
+The project will use an embedded micro-controller with Ethernet to gather data, tempeature, engine speed, etc.,  and host a web page showing the data.
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+To be specified by the student.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* To be decided.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* To be decided.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+To be decided.
+
+
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Ethernet-based Data Acquisition System
+
+
+Student Name: Lai Yuen Kit
+
+
+Supervisor: Dr. F. Huang
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+This project is specified entirely by the student.  Having failed to find a supervisor who specializes in the area, he realizes he will have to use his experience and enthusiasm in lieu of close supervision.
+The Ethernet-based Data Acquisition System is a device that can collect data at one end, and send data via ethernet connection to a computer/server. The computer/server collects and publishes the data via web server. Internet users are able to read the data by using a web browser and internet connection, regardless where they stay. 
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and construct a microcontroller-based data acquisition device that is able to communicate via ethernet to a server/computer to publish its data via web server.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Be able to build an data acquisition system device.
+
+* Be able to demonstrate an understanding of network protocol, like TCP/IP stack.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Be able to recalibrate and control the data acquisition system device via web browser.
+
+* The device is able to function as web server.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+
+
+
+
+
+1
+
+

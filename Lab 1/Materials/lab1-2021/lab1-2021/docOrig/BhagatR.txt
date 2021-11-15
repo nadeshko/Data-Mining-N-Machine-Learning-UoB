@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Micro Analysis of Computer Games Playing
+
+
+Student Name:  R Bhagat
+
+
+Supervisor:  Dr. C. Baber
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+In this project, strategies and activity in computer games playing will be analysed and modeled using CPM-GOMS (a technique that uses a combination of goal decomposition and task timing with critical path analysis to describe parallel task activity). 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of the project is to produce testable, predictive models of human performance in a dynamic activity in order to explore the acquisition and development of skills.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* If the game playing is too complex to model then it will be necessary to concentrate on either simpler games or on subsets of activity
+* If the decision making involved in gaming is too complex then the project will focus only on physical actions.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* I would like to investigate multiplayer, online gaming and to explore predictive models of team performance
+* I would like to model the effects of different interaction devices on gaming
+
+
+Project Uniqueness: It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+ü
+

@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Basic voice scrambler for privacy
+
+
+Student Name: The Aik  NG
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+	A voice scrambler, which divides the speech spectrum into frequency bands and shifts their positions, can be implemented using time-domain operations alone,  resulting in a very efficient algorithm which uses only about eight multiplications per sample.  Processing has to be carried out digitally but the transmission, over a phone line, can be analog.
+
+	This scrambler is to be implemented using a processor such as the Mitsubishi 16C/62.  It repeats a project by Paul Neumann about 12 years ago, but new hardware available will change the character of the job completely.  A more recent attempt (C.P. Johnson) has left much undone, so there is still a lot of new material to be covered. 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+A demonstration circuit, suitable for lectures and open days, is to be built. Experiments are to be carried out to find the best combination of parameters for optimum performance.  A further study is to find the effective number of distinct keys.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Demonstrate proficiency with the microprocessor in inputting and outputting data, and doing some simple operations such as frequency shifting.
+* 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Produce a hard wired, stand-alone circuit.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+

@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Adaptive Segmentation for moving objects
+
+
+Student Name:   Jonathan Soden
+
+
+Supervisor:   MO
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Segmentation is a necessary step in any image processing oriented application. Classically, segmentation is based on thresholding over the grey value of image data set. Unfortunately such approach has shown its limitation when dealing with moving targets with changing illumination like in video type applications. His project attempts to implement and test the feasibility of new technique recently developed in MIT and shows the performances of the method as compared to some standard segmentation methods.   
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to implement and test the feasibility of a new segmentation based method for moving objects. It is suggested that the platform will be based on a PC using any programming language suitable for student (i.e., Matlab, C/C++), while the data set arises from some on-line source.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* Algorithmic construction of the new segmentation based approach 
+* Show sufficient understanding of the theory of segmentation and the modeling stage 
+* Show sufficient understanding of application of the approach to real images. 
+* Quantification of the limit and advantages of the approach as compared to others.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* Integration of the approach in real time like application
+* Proposals for improving the approach based on the observed limitation and feasibility study 
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ x
+
+
+ 
+

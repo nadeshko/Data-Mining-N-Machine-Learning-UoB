@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Speech Processing using Sinusoidal Model
+
+
+Student Name: George Pang
+
+
+Supervisor: Peter Jancovic
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+In real-world applications, the recorded speech signal is usually corrupted by various types of acoustic background noise or may be a mixture of several speakers. A number of single-microphone speech processing techniques have been proposed to reduce the effect of noise in speech signal. This project will study a 'speech-production inspired technique' for processing of speech signals; specifically a sinusoidal model of speech. 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to investigate and develop a program for segregation of speech from noise-corrupted speech signals by using a sinusoidal-model based processing.
+The program should be developed in C (C++) language. The input to the program is a waveform signal (.wav file), which should be processed by sinusoidal-model algorithm proposed in [1]. The output is an estimate of clean speech signal. Several modifications of the technique should be investigated. The techniques developed could be evaluated by objective and subjective tests or by employing the processed speech signal in an automatic speech recognition system (a tool will be provided). 
+[1] Jensen, Hansen, "Speech Enhancement Using a Constrained Iterative Sinusoidal Model," IEEE Transactions on Speech and Audio Processing, vol. 9, n. 7, October 2001.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The program developed in Matlab environment.
+* At least several steps of the method in [1] implemented and one form of evaluation performed.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Comparison to some other speech processing techniques, such as spectral subtraction and sine-wave-model, should be performed.
+* The student should record a small database of words/digits spoken by two or three speakers talking simultaneously into a microphone.
+* Modify the above algorithm for segregation of individual speech signals from signal-mixture containing speech by several speakers.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

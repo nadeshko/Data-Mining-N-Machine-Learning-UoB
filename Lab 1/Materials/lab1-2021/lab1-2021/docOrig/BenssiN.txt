@@ -1,0 +1,45 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Mobile communications link budget calcualtions
+
+
+Student Name: N Benssi
+
+
+Supervisor: MJL
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Link Budget calculations are required for mobile communications network planning. The calculations are based on power conservation in the system, taking into account all the possible losses between the transmitter and receiver. Such a calculation, also taking into account noise, provides an estimate of the range of a base station, and with multiple base stations provides a complete network planning tool
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The project will provide a basic planning tool for mobile communications networks. The final outcome will be a program which represents the network graphically. This will be for a single base station, the graphical interface will allow entry of parameters such as phone power, cable losses, receiver sensitivity as others. It will then generate the range of the base station and show this graphically.
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Use a limited number of parameters for the calculation rather than all the parameters required for a realistic simulation
+* Calculation in Excel spread sheet
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Graphical representation for multiple base stations
+
+* Network optimization
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

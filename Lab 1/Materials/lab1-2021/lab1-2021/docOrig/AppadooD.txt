@@ -1,0 +1,34 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Software Definable Radio Link
+
+
+Student Name: D Appadoo
+
+
+Supervisor: CCC
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Software definable radio (SDR) is a promising new technology with the potential to revolutionise radio communications by standardizing the radio hardware down to a minimal hardware technology, and exploiting the flexibility of software and power of digital signal processors to create an adaptive radio which scans and adopts an available air interface standard.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design, build and test a pair of hand-held, battery-powered radio transmitter and receivers each based around a SHARC board. These should support QPSK and FSK modulation for 64kb/s continuous NRZ data bit stream.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Decide on which unlicensed band to use with a view to minimize project complexity and cost.
+* Design, build and demonstrate a simple transmitter and receiver architecture.
+* Manually set the desired modulation schemes.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Implement an advanced transceiver architecture that can compensate for inter-symbol interference and a time-variant channel.
+* Implement an auto-modulation scheme recognition facility at the receiver together with the necessary signaling to support this at the transmitter.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ ü
+

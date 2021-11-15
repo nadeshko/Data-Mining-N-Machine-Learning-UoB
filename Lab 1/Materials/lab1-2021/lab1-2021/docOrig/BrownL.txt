@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Diver-held Fishing Net Detection Sonar
+
+
+Student Name:   Lawrence Brown
+
+
+Supervisor:   PRA
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+In many parts of the world local fishermen use nets made from fine mono-filament nylon line.   These tend to be deployed from the beaches or from small boats and can extend over significant distances.   The nets are neutrally buoyant and therefore drift with the currents.   Significant quantities of this netting material inevitably get swept away as the result of storms and mismanagement by the fishermen.   The net then becomes a significant hazard to sports divers and marine mammals as it is virtually undetectable and once entrapped it is virtually impossible to escape from.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and build a technology-demonstrator sonar system using a single transmit beam and a two-transducer, split-beam receiver.   It is anticipated that the demonstration will be implemented using MATLAB on a PC.   Some suitable method of interfacing the signals to a PC should be demonstrated.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To measure the impedance of a sonar transducer using a circle-diagram plotter and then to drive the device using a conventional laboratory arbitrary signal generator.
+* To build a simple, low-noise receive preamplifier.
+* To input the receive signals to a PC (possibly using a National Instruments A/D card) and to demonstrate a simple matched filter in MATLAB.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* To consider the matching requirements of a simple resonant transducer and to implement a third-order matching network to improve the transmission bandwidth.
+* To consider the advantages and disadvantages of using a stack of two ceramics in a low-cost production environment in order to increase transmission bandwidth.
+* To interface a high-speed A/D converter (possibly using a USB device) to a PC and MATLAB.   To consider off-loading some of the down-conversion tasks to a DSP such as a Blackfin and to demonstrate the processing-load improvements by such a move.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+v
+

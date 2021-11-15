@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:
+                     Adaptive tutorial system for music synthesis
+
+Student Name:
+                           Robert McCardle
+
+Supervisor:
+                        MSh
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+PC-based music synthesis software can be complex to learn and use. There is a need for a tutorial system that will guide newcomers to music synthesis through the methods and techniques of PC-based music production, synthesis and sequencing.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of the project is to design, implement and evaluate an adaptive tutorial system for newcomers to music synthesis, based on an existing music sequencer. The system should assess the learner's knowledge and ability and adapt the tutorial accordingly.  
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Design and implementation of a basic non-adaptive training package for learning the basics of music sequencing
+* Small-scale evaluation of the usability of the system 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Well-designed interface and interaction, conforming to principles of good design of learning technology and interface design standards.
+* Adaptive tutoring system able to adjust its teaching to the user's knowledge and skills
+* Tutorial includes interactive demonstrations and simulations of a commercial sequencer software package.
+* Evaluation of the usability, usefulness and desirability of the system, with users who have no prior skills in music synthesis.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

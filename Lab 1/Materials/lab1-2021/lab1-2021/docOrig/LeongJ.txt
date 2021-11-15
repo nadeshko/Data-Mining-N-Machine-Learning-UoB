@@ -1,0 +1,58 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: High Permittivity Patch Antennas 
+
+
+Student Name: Mr J Leong
+
+
+Supervisor: Dr P A Smith
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project – targeted at the non-specialist)
+High permittivity patch antennas are attractive at lower frequencies as they provide the ability to 
+substantially reduce the size of the antenna. This is because the dimensions of the antenna are 
+reduced by a factor of 1/??r. However if the ?r is too large then the efficiency and the effective 
+bandwidth of the antenna can become too small. There is therefore a need to effectively model 
+and design such antennas. If separate antennas are used for TX and RX then narrow bandwidths 
+of perhaps 3% are quite viable. 
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken 
+by an average student.   e.g. 'The aim of this project is to design and ….') 
+The aim of this project is to study and model the performance of a high permittivity patch 
+antenna. This will probably be done using the cavity model and the software package Matlab. If 
+the project goes well then the outcomes are accurate predictions of: 
+?	resonant frequency;
+?	input impedance 
+?	radiation patterns. 
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   
+Using bullet points, please list a suitable set of minimal target objectives.)
+?	Predict the resonant frequency of the antenna 
+
+?	Predict the resonant frequency with greater accuracy by taking into account the fringing fields 
+at the end of the patch
+
+?	
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   
+Using bullet points, please list a suitable set of achievable enhancement objectives.)
+?	Model a GPS receive antenna and compare predictions with real antennas
+
+?	Design a GPS transmit antenna
+?	
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of 
+the project content).   Thus a student should not be able to meet the project outcomes by reproducing 
+material from previous project reports.   Please confirm the uniqueness of this project by placing a tick 
+in the adjacent box.
+
+?
+

@@ -1,0 +1,43 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Modelling of Dielectric Resonators for Communications applications
+
+
+Student Name: SMS Tan
+
+
+Supervisor: Dr P A Smith
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Dielectric Resonators are widely used in Basestation receivers as the filter elements in mobile communication systems. This project will involve the use of the software packages Superfish and Mathcad to model Dielectric Resonators of different permittivity's and shapes in different sized cavity housings. 
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim will be to find the optimum size of cavity housing and shape of Dielectric Resonator (DR), so that conductor losses in the cavity walls are reduced and the optimum Q achieved. This will need to be repeated for a range of different permittivity's such as 29.5, 36, and 45.  If time permits a few Dielectric Resonators of permittivities 29.5, 36 and 43 may be measured in metallic cavities.
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Analysis of the cavity wall losses will be considered for cylindrical Dielectric Resonators
+
+* 
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Analysis of the effect that different DR shapes have on the Q, e.g. a spherical cavity housing and a spherical DR
+* Possibly using a ferrite sample to tune the resonant frequency of the DR and ferrite structure
+
+* Possibly using the DR as a measurement system to extract the losses of ceramic substrate materials?
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

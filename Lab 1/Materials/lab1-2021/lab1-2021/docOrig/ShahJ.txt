@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:
+Analysis of Characteristics of an Optically Controlled Microstrip Load
+
+Student Name:
+Jeet Shah
+
+Supervisor:
+Dr. H. Ghafouri Shiraz
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Direct optical control of microwave devices has been an area of interest  over the last few years as this technique offers high isolation between the controlling optical source and controlled microwave device. The optical control of passive microwave devices on semiconducting substrate is based on the fact that when photons with energies greater than the semiconductor band gap are incident on the surface, electron-hole pairs are created, due to carrier diffusion, by light absorption and spread into the substrate to give an inhomogeneous carrier distribution in the illuminated substrate.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to analyse the optical control of a microstrip load and stub on a microstrip line fabricated on high resistivity silicon substrate.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* To become familiar with ADS or similar microwave design software
+
+* Understand the concepts of Microstrip transmission lines and semiconductors 
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Advantages and Applications of the microstrip transmission line
+
+* To carry out the simulations for a microstrip line and load on to a different substrate  
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

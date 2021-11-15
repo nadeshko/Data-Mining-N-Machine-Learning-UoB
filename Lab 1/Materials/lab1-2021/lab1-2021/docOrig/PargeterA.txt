@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Microprocessor based fault detection and diagnosis
+
+
+Student Name: A Pargeter
+
+
+Supervisor: Clive Roberts
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+When changing a maintenance strategy from reactive to proactive, it is beneficial to have means to detect and diagnose incipient faults in systems.  This is usually carried out by collecting data from the systems in question using a set of transducers to show the dynamic operation characteristics.  In geographically distributed systems, the data is often collected using a fieldbus type network of nodes.  In order to reduce the bandwidth of the data being transmitted (and hence the overall cost of the system) it is of interest to carryout on site fault detection and diagnosis at a node level using a microprocessor, thus creating a 'intelligent asset' capable of predict its own maintenance requirements.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of the project is to interface a Mitsubishi M16C microprocessor board to the University's existing WorldFIP fieldbus node system.  A set of system transducer data will be provided.  The M16C should be able to reduce the transducer data in an intelligent manner to produce an indication of fault detection.  This will require the:
+* development of appropriate hardware (M16C interface with addition memory requirements);
+* undertaking of academic research of fault detection and diagnosis theory from both the fields of control engineering and soft computing;
+* writing of software algorithms for fault detection.
+An exceptional project would also consider issues relating to fault diagnosis as well as fault detection.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Communication of transducer data from the existing WorldFIP node to a Mitsubishi M16C board;
+* A demonstration of simple thresholding techniques for fault detection;
+* An understanding of more complex methods which might be applied.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* The development of complex fault detection and diagnosis (e.g. FFT, control theory) methods demonstrated on a PC;
+* The implementation of this toolbox using the Mitsubishi board and data collected through the WorldFIP node;
+* A clear understanding of the appropriateness of the methods selected and identification of their shortcomings (if appropriate) for practical implementation.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ (
+

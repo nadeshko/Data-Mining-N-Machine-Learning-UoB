@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Piezoelectric Helical Resonators 
+
+
+Student Name: Ms V Soon
+
+
+Supervisor: Dr P Smith
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+A Helical resonator is normally a metallic wire wound into a helix that becomes resonant when it is electrically 1/2 a wavelength long. Such resonators have been used for many years in both satellite communications and mobile comms because they can produce very compact resonators. This project will investigate the possibility of using helical piezoelectric devices produced in the IRC in Materials. The application of a DC voltage causes the helix to change shape slightly and thus may alter the frequency of the resonator. Using such devices it may be possible to achieve electronic tuning of these types of resonators.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to build a piezoelectric helical resonator where the resonant frequency of the device can be changed by the application of a DC voltage. Careful consideration will have to be given to the application of the DC biasing voltage and how this can be achieved without degrading the microwave performance. The most important aim of the project is that it should be a fail-safe system so there is no way anyone could be exposed to a dangerous voltage. Another aim could be to investigate the tuning range of the device versus applied voltage. The temperature stability of the resonator could also be investigated. 
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Simple analytic modeling of the resonator could be undertaken if there are practical problems.
+
+* More sophisticated modeling could be undertaken using a finite difference programme. 
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Different types of piezoelectric helical resonators could be investigated, some of which may have larger amounts of movement but which may have a lower overall Q
+
+* Modelling of the resonators could be undertaken using a finite difference programme. 
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

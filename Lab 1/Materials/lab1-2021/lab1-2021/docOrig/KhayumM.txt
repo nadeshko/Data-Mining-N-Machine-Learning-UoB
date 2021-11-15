@@ -1,0 +1,42 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:
+Voice recognition Interface
+
+Student Name:
+M Khayyum
+
+Supervisor:
+MJ Russell
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+The goal of this project is to design a spoken language interface to a robot toy for children. The interface must recognize all the different natural language commands that the child might give, analyse them to determine the child's intent, and then send the correct command to a SONY AIBO robot to enable it to carry out the instruction. The problem is, for example, that a child can say "turn right" in numerous ways.  The commands will be presented to the system as text, and the task of the system is to interpret the command correctly.  Transcripts of children talking to AIBO in 'Wizard-of-Oz' experiments will be provided as training material for the system.  Additional transcripts will be withheld until the end of the project to be used as an unseen test set
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1. Understanding of basic issues in natural language (NL) processing and spoken language processing
+2. Understanding of the 'Wizard-of-Oz' methodology for collecting spontaneous speech
+3. Analysis of the ways in which a child might talk to a robot dog (the SONY AIBO), based on existing recordings made in 'Wizard of Oz' experiments in the PF_STAR project
+4. Design, implement and evaluate a text-based system for controlling AIBO using children's natural language
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Items 1, 2 and 3 above, plus design and implement a text-based system for controlling AIBO using children's natural language commands
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Implement a working system which enables AIBO to be controlled over wireless LAN using natural language text commands.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Tick
+   /
+ \/
+

@@ -1,0 +1,42 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Low temperature resistance of  "promatech" conducting epoxy at microwave frequencies
+
+Student Name:  PSN Tan
+
+
+Supervisor:  FH
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Manufacturers usually provide data sheets for their products, but they do not always cover all eventualities, such as operation at cryogenic temperatures.  The aim of this project is to find the resistance of  the above commercially available material as a function of temperature.  Resistance is very low, and a simple ohm-meter would be utterly inappropriate even at DC.  Resistance will be found by measuring the Q of a resonator. (The design of the resonator will have to differ from that of a related project involving a different material).
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1. Design curves giving the surface resistance of the material as a function of frequency and temperature.
+2. Supporting experimental data to validate the curves.
+3. Theoretical principles behind the measurements and calculations, including the skin effect and the theory of transmission lines.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* As above, but only at room temperature.
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Theory of the skin effect applied to particles of a good conductor in a matrix which is a poor conductor, where the particles are of similar size to the skin depth.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+Other than learning standard theory and software, there is enough unique material provided the expected outcomes are met.
+
+
+

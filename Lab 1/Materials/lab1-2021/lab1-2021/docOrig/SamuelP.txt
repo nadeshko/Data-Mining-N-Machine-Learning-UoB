@@ -1,0 +1,45 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:Graphics-based distance measurement in maps
+
+
+Student Name:Peter Samuel
+
+
+Supervisor:MS
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+With the increasing use of hand-held computing systems, a user-friendly walk planning system is now a possibility with capabilities such as route planning, distance measurement and so on. This system should be capable of using down-loadable maps of any scale and route distances easily determined by a simple graphics pen-based scanning system and displayed clearly.
+
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The project will involve developing a system which is able to use a scanning device such as a graphics light pen to measure the distance along a road on an OS map. The system must take into account the map scale, which must be adjustable, probably in software. It is envisaged that the system will run on a palm top device and able to use down loaded maps from the internet - http://www.multimap.com/. A full front end interface should be provided enabling a the map scale to be input, a length of road scanned and the distance displayed in different units (miles, kilometres). 
+
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* A simple distance route distance measuring system using a graphics pen and a PDA  
+* The use of downloaded maps
+* If this is not possible because of hardware limitations, development of a PIC-based system and a simple distance measuring device using real OS maps
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* A full route planning system involving check points and associated GUI
+* Communicating with other walkers the current position and time
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+x
+
+

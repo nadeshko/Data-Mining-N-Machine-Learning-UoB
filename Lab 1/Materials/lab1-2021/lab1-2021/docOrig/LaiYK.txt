@@ -1,0 +1,47 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Ethernet-based Data Acquisition System
+
+
+Student Name: Lai Yuen Kit
+
+
+Supervisor: Dr. F. Huang
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+This project is specified entirely by the student.  Having failed to find a supervisor who specializes in the area, he realizes he will have to use his experience and enthusiasm in lieu of close supervision.
+The Ethernet-based Data Acquisition System is a device that can collect data at one end, and send data via ethernet connection to a computer/server. The computer/server collects and publishes the data via web server. Internet users are able to read the data by using a web browser and internet connection, regardless where they stay. 
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and construct a microcontroller-based data acquisition device that is able to communicate via ethernet to a server/computer to publish its data via web server.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Be able to build an data acquisition system device.
+
+* Be able to demonstrate an understanding of network protocol, like TCP/IP stack.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Be able to recalibrate and control the data acquisition system device via web browser.
+
+* The device is able to function as web server.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+
+
+
+
+
+
+1
+
+

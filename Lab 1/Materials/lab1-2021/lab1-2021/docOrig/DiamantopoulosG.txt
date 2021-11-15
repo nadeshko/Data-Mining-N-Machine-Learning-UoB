@@ -1,0 +1,45 @@
+
+Project Title:Event Detection in Video
+
+
+Student Name:George Diamantopoulos
+
+
+Supervisor:MS
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Event detection in video is a relatively new area of research and is aimed at detecting significant events in a video sequence. These events have a wide definition and can cover such things as a person entering a doorway, a car changing lanes on a motorway or a person getting into a car and driving away. Clearly the definition of the event will generally determine the type of image processing required to detect that event. However, all are similar in the sense that real-time (or near real-time) detection is required because the detection normally triggers some action such as an alarm being sounded. Also, they generally involve an element of object tracking prior to the actual event. This adds to the robustness of the system as object identification (such as identifying a person) is more reliable if it can be tracked over a number of frames.
+
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+This project is aimed at detecting one particular type of event - that of 'tailgating' through a car park barrier. Normally, a single vehicle enters a parking area and the barrier then closes. However, a second vehicle following quickly behind the first can enter whilst the barrier is still up. This situation is relatively similar to the normal situation of a single vehicle entering and so it represents a challenging scenario for detection. It is envisaged that any system produced would be 'bolted on' to an existing cctv system with relatively low quality greylevel video. For the purposes of this project, we will capture our own footage and develop a detection system that triggers an alarm if the event is detected.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To record/play a sequence 
+* To compute the thresholded frame difference 
+* To determine when the car enters the car park area, stops and then re-enters
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* A complete working system
+* Differentiation between different vehicle types
+* Evaluation on a live cctv link
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+x
+
+
+

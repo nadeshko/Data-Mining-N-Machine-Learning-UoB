@@ -1,0 +1,43 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:
+A framework for experiments in human speech recognition
+
+Student Name:
+Nelson Mo
+
+Supervisor:
+Professor Martin Russell
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+As part of a EU Framework 5 project called 'PF_STAR' there is a need to measure how well adults can recognize children's speech compared with adult's speech.  In order to conduct this experiment, software is needed which will organize a large corpus of speech into a database of 'test utterances', corrupt the test utterances (for example by adding noise or restricting bandwidth), present the utterances in a prescribed way to subjects, and record their responses.  These responses might be free text, or multiple choice.  The responses must then be compared with 'correct' responses to calculate the error rate.  The goal of this project is to design and write this software.  The design should take into account the views of the researchers who will use the software, and the comments of 'pilot' subjects.  The software must be reliable, and easy to use by both the subject and the experimenter, and documented.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The main output of the project will be a suite of software to conduct the experiment described above, plus evidence of proper test procedures, plus evidence that the software is acceptable from an ergonomic and human factors perspective by both subjects and experimenters, plus documentation.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+­ Produce good software design, with justification
+­ Develop prototype system
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+­ In addition to producing the software, initial experiments will be conducted using the software and the results will be reported in the final bench inspection and final report. 
+­ Access speech data over the internet
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

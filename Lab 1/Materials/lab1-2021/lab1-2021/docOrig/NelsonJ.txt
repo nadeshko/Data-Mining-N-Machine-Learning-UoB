@@ -1,0 +1,39 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Voice Controlled Robot
+
+
+Student Name: J Nelson
+
+
+Supervisor:
+Prof. M.J. Russell
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+The aim of this project is to design and construct a small compact speech controlled mobile robot, that will able to respond to voice commands, such as; GO, STOP, LEFT, RIGHT etc. This will necessitate the design, implementation and evaluation of a speech recognition unit, either on the robot or on a PC, a drive unit to control movement, a microprocessor to do all the processing and the chassis to put it all on. The robot itself has already been designed as part of a previous project.  
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+1. Understand basic speech recognition technology
+2. Decide system design issues: on- or off-robot speech recognition, microphone location, microphone-to-recogniser comms, recognizer-to-robot comms etc
+3. Implementation and testing of robot: The robot will be mobile, in that it will have wheels connected to stepper motors connected to the microprocessor to enable movement.
+4. Implementation and testing of speech recognition
+5. System integration (using wire link between PC and robot)
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Minimum targets are items 1,2, 3 and 5, with text commands to robot to simulate the output of the speech recogniser
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Wireless LAN between the robot and the PC. SR on the PC and commands sent to the robot via the wireless link.
+* More complex set of spoken commands
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Lip Localization for Audio-Visual Speech Recognition
+
+
+Student Name: Ng Wen Chun 
+
+
+Supervisor: Peter Jancovic
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Lip movement can provide information, which can be used to improve the performance of a speech recognition system. In order to use the lip information in an audio-visual speech recognition system - first, the lip region needs to be localized. This project will involve localization of lips using the audio-visual speech recognition database (CUAVE). There have been several methods for lip-localization proposed by researchers; here, we will base on the colour distribution of skin and lips.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to develop a program for the localization of lip-region in static colour images. An approach based on using the colour-distribution of lips can be employed.
+The program should take a colour image file as an input, localize the lips, and extract the lip-region as an output image file. The program should be tested on colour images of talking persons from the CUAVE database with clean (green) and noisy background.
+The program should be developed in C (C++) (preferably) or in Matlab environment.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Develop the program in Matlab environment.
+* Tests performed on images with clean background only.
+* 
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Development of an additional method for localizing the lips.
+* The results produced by the developed program should be evaluated by comparing them with those localized manually.
+* 
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

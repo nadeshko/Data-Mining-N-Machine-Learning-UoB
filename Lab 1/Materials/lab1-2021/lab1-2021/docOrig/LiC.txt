@@ -1,0 +1,41 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  mm-wave antenna array and beamforming network.
+
+
+Student Name:  Cong Li
+
+
+Supervisor:  PG
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Low cost, high quality antenna arrays are needed for mm-wave automotive communication systems.  Conventional methods of producing such antennas tend to be expensive and lead to structures that are not compatible with vehicle mounting.  This project aims to develop a technique for low cost production of antennas and beamformer networks for vehicles, operating in the CEPT designated band of 63-64 GHz,
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design, build and test a low frequency demonstrator of a switched beam antenna system for the 63-64 GHz band.  A suitable frequency to demonstrate the principle of operation would be 21-21.3 GHz.  The input ports should be waveguide, for compatibility with the intended 63-64 GHz operation.  (Coaxial connectors are expensive and impractical in that band)
+
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Simulation of elements of the system using a commercial EM simulator, including transmission line and coupler sections.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Demonstrate beam switching in the 21 GHz version.
+* Scale the design to the full 63-64 GHz band, and fully simulate it.
+* Build and test the 63 GHz version and demonstrate beam switching in the 63 GHz version.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

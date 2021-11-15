@@ -1,0 +1,46 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Simple Smart Textiles
+
+Student Name: L Chong
+
+Supervisor: Dr. C. Baber
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Electronic devices have become smaller and lighter; hence more portable over the recent years. However, they are still bulky and awkward, making them unsuitable as a tool to help modern day life. PDAs for instance, are excessively delicate, heavy and require an extra storage compartment.
+
+Wearable devices are making their way into the consumer market but are still obtrusive and not always aethestically pleasing. Methods have been devised to weave components into conductive fabric, so that devices are integrated directly into clothing and can potentially be invisible to the naked eye. 
+
+Computerized clothing will make computers and devices portable without having to strap electronics to our bodies or fill our pockets with gadgets. These clothes are not necessarily designed to replace your PC, but they will be able to perform some of the same functions. As we add more technology to the person or the environment, so there is a need to develop novel means of communicating between devices. This could be done using wireless technologies, or could, as in this project, involve incorporating the means of communication into clothing.
+
+
+Expected Outcomes
+This project will start with research into the materials suitable for use as fabrics for a wearable computer system.  The results of this research will be used to design a wearable application; the actual application not decided yet- focusing on the aspects of the system that result in the most natural, intuitive and unobtrusive human-computer interface (HCI). 
+
+Medical applications have been considered to incorporate into the computerised clothing; examples include respiration rate, pressure and temperature sensors, and pulse rate.
+	
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* The integration of a simple working application; e.g. the wiring of a circuit comprising of only a battery, bulb and switch, but to be woven into the fabric itself.
+
+* Production of a wearable device that has conventional components located for a more natural HCI, but that does not attempt to use the fabric itself as any part of the circuit.
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* The device will use the fabric for something more than as a wiring loom or as a switch.  Visual feedback to the user could be implemented by weaving fibre optics into the fabric. Alternatively LEDs or an LCD could be used.
+
+* Wireless technology such as infrared or Bluetooth can be incorporated as an extension to the application to control external devices.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+ü
+

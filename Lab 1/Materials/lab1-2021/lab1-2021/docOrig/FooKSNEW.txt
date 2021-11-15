@@ -1,0 +1,101 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Wireless speakers
+
+
+Student Name: Kae Shueng Foo
+
+
+Supervisor: MJL
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+In the home and in commercial environments it is often inconvenient to have large length of wire between audio equipment and speakers. This project is to build a stereo wireless speaker system, which has a transmitter attached to the audio equipment and receiver attached to the speakers. 
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+It is expected the wireless system will be demonstrated and working, showing good high quality sound over the stereo connection.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Test either just a receive section or just a transmit section
+* Make a mono only system
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Once the basic system has been demonstrated, suggest improvements in order to improve the quality of the Audio output.
+
+* Consider other types of communication including Bluetooth and WiFi
+
+* Consider complex antenna design with higher gain and suggest what the requirements may be.
+
+* Look into optimization for low cost production.
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+
+
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Demonstrator radar system
+
+
+Student Name: Kae Shueng Foo
+
+
+Supervisor: MJL
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Radar systems have been around for a large number of years and this project uses many well known principles use in the past. However, modern components are used to make a compact, inexpensive system for basic imaging of objects in the local area.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The outcome will be a basic system consisting of an antenna, duplexer, transmit and receive amplifiers and possibly an oscillator and mixer. The system will be tested under laboratory conditions to determine the operational capabilities. Full design considerations for this radar will be documented in the report
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Test either just a receive section or just a transmit section
+
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Provide A/D and D/A converters to apply basic signals
+
+* Interface computer to A/D converter
+
+* Rotate antenna to form image
+
+* Apply signal processing to produce images
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+
+

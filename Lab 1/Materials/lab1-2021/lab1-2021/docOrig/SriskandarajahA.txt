@@ -1,0 +1,45 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Fantasy Football System
+
+
+Student Name: A SRISKANDARAJAH
+
+
+Supervisor: AJG
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Human Computer Interaction has further the ideas of Systems Analysis And Design to include the aspect of cognition and ethnographic studies. This project is to implement a fantasy football league from the HCI perspective, The initial emphasis will be on user participatory design using web based server written in Java (script). The benefit of this application is that it allows for the collect and analysis of data in a shared database system.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+* Careful project management of the user design and implementation
+* The writing of database system for interacting with a web based server
+* The analysis and data exploration of the generated information which may provide predictive information on future activities within the league
+* Evaluation of the league before during and after : how did the league reflect the user's expectation
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The prototyping of this program would allow user input and the design generated could be the implemented in VB
+
+* Though this may be difficult to distribute the shared data, careful project would ensure the league activity
+
+* 
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Consideration of distributed cognition
+
+* Data Mining
+
+* Redevelopment of the user interface
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

@@ -1,0 +1,36 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Internal Subject Tracking System and VR Database Integration
+
+
+Student Name:   Mark Collings
+
+
+Supervisor:   RJS
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Without resorting to expensive wireless or optical spatial tracking systems, there is no low-cost, accessible method for registering the gross location or presence of an individual within an interior space (such as a vessel or building) and using that sensed location to elicit some relevant event in a virtual representation of that space (eg. A description of room occupant or storage contents, the location and operational instructions of safety equipment, possible the display of an interactive virtual artefact - as might be required in a museum environment, etc, etc.).  This project would lay the foundation to ultimately develop a network of appropriate sensors designed, in conjunction with VR, to help enhance the familiarisation process of complex spaces.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to develop a demonstrator, using appropriate sensing technologies, Virtual Environment software and computing facilities, to sense the location of an individual within a corridor of a building and to use this information to "trigger" a meaningful event within a VR reconstruction of said corridor.  The demonstration would be based on an integrated sensor-VR system and would suggest likely real-world applications where such a system, once developed, could offer significant advantages over the use of conventional map techniques/written instructions or undirected exploration.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* 3D graphical model of part (corridor section) of EECE
+* Basic (bench) sensor(s) to illustrate detection proof of principle
+* Supporting program for sensor(s), hosted on PC 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* Sensors in situ in EECE corridor
+* VR program on portable computer (eg. Palmtop)
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+NB. Related work to this has been performed previously, in the context of interactive art/multimedia exhibits using IR.  However, the uniqueness of this particular project relates to its integration with real-time 3D databases, possibly hosted on a portable computer.
+
+
+
+

@@ -1,0 +1,37 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Speech-Activated Multimedia System
+
+
+Student Name: Chin How Chew
+
+
+Supervisor: Peter Jancovic
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Speech provides a natural way of human interaction with computers. In this project a speech-activated multimedia tool will be developed. Such a tool will receive the input speech signal from a microphone, process the signal and respond based on the type of the input speech. 
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to develop a speech-activated multimedia system. The program should be developed in C (C++) language. 
+The program should be able to receive input signal from a microphone. Spectral-based feature representation of the speech signal should be implemented. The program should have some pattern classification technique (e.g. dynamic programming) for comparison of the input speech signal with stored speech models. The program can assume that the speech models are available and can be loaded from a file, i.e. the system is aimed at performing only the recognition phase, not training. Based on the recognized word, the program should generate some response.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Develop the program in Matlab environment.
+* The input signal from a microphone is captured and stored in a file.
+* Either of these two programmed: feature parameterization of the speech signal or pattern classification method.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Based on the recognized word, the program plays a multimedia file, e.g. sound wav file.
+* Instead of using the dynamic programming, use a Viterbi decoder for matching the stored and input speech signals (i.e. an HMM-based speech models are used).
+* Incorporation of the training phase into the system - i.e. before using the system for recognition, the user pronounce the vocabulary and speech models are created.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

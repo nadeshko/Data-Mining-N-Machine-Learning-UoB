@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Dielectric Spiral Resonators
+
+
+Student Name: Mr C Y Wong
+
+
+Supervisor: Dr P A Smith
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+In many filters at high frequencies the resonators are made from some kind of transmission line structure, e.g. a 1/2 wavelength coaxial resonator. Recent work has demonstrated the principle that a ceramic, with sufficiently high permittivity, can exclude the electric field from within the ceramic and hence behave rather like a metal. This principle has been used to replace a metal coaxial inner with one made from ceramic and achieve a significant increase in Q. This work would look at other promising structures such as spirals made from high permittivity ceramic. The latter might still achieve a moderate Q in a small volume. This project would probably use a finite difference package to simulate the spirals.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to perform electromagnetic modeling of metallic and ceramic spirals using a finite element package. For the metallic spirals simple analytic formulae will be used from the literature to design spirals resonant at communication bands. These metallic spirals will then be simulated on the finite element package to determine their Q and resonant frequency. Comparisons will then be made with corresponding spirals made from ceramic to see if the same modes occur and what Q's can be achieved. Practical measurements may be taken of metallic spirals if a suitable test fixture can be designed in time.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Modeling of metallic helices will be undertaken to determine resonant frequency and Q
+
+* Metallic spirals with ceramic loading may be modeled as above.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Develop simple design rules for a Dielectric Spiral  to allow the optimization of Q
+
+* 
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+(
+

@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: DC-DC Converter for Electric Vehicles
+
+
+Student Name: K V Chong
+
+
+Supervisor: Dr A J Forsyth
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+The project is concerned with the development of a DC-DC converter to interface a low voltage fuel cell to the high voltage storage battery or supercap and the traction drive system in a future electric vehicle.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+A detailed design study will be completed to identify the most appropriate circuit and devices for a 5-10 kW DC-DC converter. The converter is to be designed, constructed and tested to evaluate its performance. High efficiency and small size are essential.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Analysis and outline design of two alternative DC-DC converters
+* Detailed design of one circuit
+* Circuit simulation completed to check design
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Construction of full evaluation of prototype
+* Design + implementation of control loop
+* Consideration of issues surrounding the interface with super capacitors instead of a battery.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ ü
+

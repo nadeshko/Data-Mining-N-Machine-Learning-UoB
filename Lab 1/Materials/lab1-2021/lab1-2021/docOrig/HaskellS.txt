@@ -1,0 +1,35 @@
+
+
+Project Title:  Simulation platform for online tutorial on computer vision
+
+
+Student Name:   Simon Haskell
+
+
+Supervisor:   MO
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Computer vision is known as a combination of several complex tasks of signal processing and image morphology analysis. This makes its educational goal often difficult for students to grasp. Consequently, decomposing the task into its sub-constitutes and building on-tutorial on each part sounds a rational approach to help to convey the complexity of the task 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and build an online platform that provides online tutorials on different aspect of computer vision, which include image acquisition and sampling, segmentation, texture, image morphology and transform, camera calibration.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* To investigate the different stages of image processing: camera calibration, sampling, image segmentation, texture analysis, and image morphology
+* To provide a simulation platform that emulates the above different stages of image processing 
+* To provide online guidelines and help at each stage. 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* To quantify the performance of the established platform from learning perspectives.
+* To propose recommendations on how to improve the design of the platform which results in increase of learning outcomes.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+  x
+
+

@@ -1,0 +1,42 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Active Infra-Red Intrusion Monitoring System
+	
+
+Student Name:   Phillip Hughes
+
+
+Supervisor:   SMC
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Early intrusion detection technology could only indicate whether a door had been opened, a window had been broken, or a warm body inhabited a room. Embedding intelligence within security devices allows a far wider range of problems to be solved. For detecting motion within a protected space, passive infra-red technologies are commonly used. However, the protected space cannot easily be modified and the behaviour of any warm bodies detected cannot easily be determined (for example, it might be useful to know at which point an intruder entered a protected space). Active infra-red sensors, coupled with embedded intelligence in the form of a microcontroller, promise a solution to both of these limitations.
+ 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to design, construct and test an intelligent intrusion monitoring system using active infra-red sensors that is capable of monitoring a user-defined region within a room and storing information relating to disturbances for off-line analysis. The 'protected space' should be programmable at run-time, and steps must be taken to ensure a minimum number of either false-positive or false-negative results. The system should be capable of monitoring its protected space over a period of time, and reporting the direction from which an intruder first entered the protected space defined. It should be possible to interrogate the system directly to gain access the information stored.
+ 
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+
+* To investigate the use of active infra-red sensors in indoor environments, and propose methods of overcoming background levels of infra-red
+* To demonstrate a simple intrusion detection system which is programmable via a keypad and displays the time that the alarm was last triggered on an LCD display.
+ 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+
+* To extend the capabilities of the system to include keeping track of the regions within the protected space, rather than just directions
+* To demonstrate a system that is capable of detecting and reporting both the time and the approximate point of entry into a protected space
+* To add an RS-232 interface to the system to allow the information stored to be transferred easily to a workstation for off-line analysis
+ 
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+   ü
+

@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Wireless voice control of a server using a personal digital assistant implementing speech recognition
+
+
+Student Name: J Rossiter
+
+
+Supervisor: Professor M Russel
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+In the future, speech recognition will be important for interaction between users and computers. Much of what has been implemented to-date has been concerned with speech recognition on a 'desktop' computer; there has not been as much progress on the pocket platform. Using a pocket pc (such as a Compaq Ipaq(tm)) allows the user mobility but is compromised by inadequate data input and output methods. By using speech recognition it is hoped these problems can be avoided.  However, a typical pocket PC does not have sufficient computing power or memory to support full speech recognition.  The goal of this project is to develop 'distributed' speech recognition on an Ipaq, whereby a user talks to Ipaq, some representation of the speech is transmitted to the PC and recognized, and a result is returned to the Ipaq.  In this way the pocket computer can interact with a normal pc in order to perform tasks that separately would have been impossible, due to the mobility of the computer (terrible) and the power of a pocket pc (not powerful enough to perform full speech recognition). The link between the two can be on a standard known system, such as a wireless network, and data must be transferred between the two successfully without error.
+The use of a pocket pc and wireless network allows the user to wander through a wireless enabled area whilst still effectively using the power of the computer base station.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+1. Understand the relevant aspects of networking and speech recognition
+2. Implement a PC-based speech recognition system
+3. Decide which parts of the speech recognition process should be implemented on the iPAQ and which should be implemented on the PC
+4. Design, implement and evaluate a method for passing speech data from iPAQ to a speech recognition system on a PC
+5. Integrate speech recognition with touch screen input on the iPAQ.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Items 1, 3 and 4 constitute a minimal set of objectives, but some progress on 2 should also be made
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* The Ipaq(tm) will support full speech recognition and dictation to be achieved using a toolkit implemented on the server pc.
+* The server pc will listen to voice commands from the Ipaq(tm) in order to perform tasks on hardware connected to the pc (including a bank of lights). This is to show the remote use of computer peripherals.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

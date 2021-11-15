@@ -1,0 +1,36 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Wireless Communications based on Bluetooth Technology
+
+
+Student Name:
+Chris Morgan 
+
+Supervisor:
+Dr H. Ghafouri-Shiraz
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+In recent years, the advancement in Bluetooth communication has totally revolutionized the wireless technology. Bluetooth is a standard technology which uses short-range radio links, operating at 2.4GHz to 2.48GHz band and intended to replace the cables connecting portable and/or fixed electronic devices. Its key features are robustness, low complexity, low power, low cost and wide applications in handheld devices.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The main objective of this project is a deep understanding and overview of this new technology. In particular the following aspects of Bluetooth must be fully addressed: Aims, security, management, applications, profiles  and protocols.  As for protocols emphasis should be given to the followings: Antennas, Radio interface, Based-band. Link controller and manager, host controller interface, wireless access protocol, service discovery protocol Telephony control protocol, low power operation, quality of service, related standards and technology, market and future development.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Complete overview of Bluetooth technology in details
+* Blue tooth protocols in details in particular all parts listed in the above expected outcomes
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated ab
+
+* Develop a theoretical wireless access protocol or software to allow communication over a distance of 1 km and/or increase the data rate.
+
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

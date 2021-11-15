@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:
+Networking, network security and traffic based sampling
+
+Student Name:
+MLM Yiu
+
+Supervisor:
+AJG
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+A general view of networking, its flaws, and ways to combat security problems. The growing popularity of wireless networking means that the technology is suspect to attacks. A coverage of current technologies and further investigation into this area provides the background to this project. This will focus the project on Network security. The area of  network security included  network sampling methods. This allows for traffic monitoring along with random based sampling of files sent across a LAN. Further observations on applying this monitoring process can be applied to the internet. 
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design a network sampling tool, which monitors network traffic. This should monitor inbound and outbound traffic, directly observing port activity and include basic monitoring of IP protocols, such as TCP and UDP traffic. Background theory and knowledge based on networking is researched into, such as broadband communication technologies, and applications of such security tools concerning security.
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* The basic understanding of the sampling methods will allow a demonstration of the mathematical theory and practical programming examples to be identified. This will allow a simpler system using purely text files as the incoming source for sampling.
+* Having identified basic sampling elements of say of one character, blocks of elements can then be sample such as simple message, images and possibly sound.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Peer 2 peer program detection - detection of peer to peer traffic activity from network traffic.
+
+* Detection of messaging programs such as MSN or ICQ
+
+* Identification of files being sent from sampled network traffic
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

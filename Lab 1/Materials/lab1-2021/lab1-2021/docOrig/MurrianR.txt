@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   HF Transmitter and Receiver for Small Antennas
+
+
+Student Name:   Richard Murrian
+
+
+Supervisor:   PRA
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Oceanographers deploy a wide range of buoys for monitoring climatic and biomass related parameters.   These may be connected via low-Earth orbit satellites (at extreme expense) or via a VHF radio link (typically limited to about 10 km).   An alternative when using clusters of buoys in open ocean environments is to use HF surface-wave propagation channels.   However, for this approach to be feasible, there is a need for a low-cost, power-efficient transmitter-receiver capable of signaling at rates approaching 100 k bits per second whilst driving electrically short antennas.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and build a power-efficient receiver based on the Tayloe mixer.   An analysis of the system performance should be carried out for a device capable of operating at a single frequency in the 15 - 30 MHz band.   Thus a set of design guidelines will be produced showing a suitable compromise between power consumption, frequency stability, strong-signal performance and noise-limited performance.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* To build and test a Tayloe detector mixer using fast bus switches and driving the device from standard laboratory signal sources.
+* To build and test a receiver, pre-mixer filter optimized for use with an electrically small antenna.
+* To build and test an RF preamplifier with good strong-signal performance.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* To investigate the capabilities of the analog Devices Direct Digital Synthesis (DDS) integrated circuits for use as the local-oscillator source.
+* To consider the performance benefits resulting from spur-reduction in the output of the DDS resulting from the use of narrow-band filters in the local-oscillator signal path.
+* To design and build a matching transmitter capable of driving 5W into an electrically-short antenna.
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+v
+

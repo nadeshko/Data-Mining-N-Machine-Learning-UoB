@@ -1,0 +1,47 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:
+Share Trading using a Mobile Device
+
+Student Name:
+R Y Mohd Sarit
+
+Supervisor:
+Dr. Chris Baber
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Our life has become easier with the advent of mobile devices such as PDA or mobile phones. Information can be accessed at anytime using wireless internet connection such as GPRS or the Wi-Fi card at wireless hot spot locations all over the world. 
+
+This advantage in gaining easy access to information could be used to help share traders (in this case, share traders are the customers) to gain an insight to the stock market and trade at the spur of the moment by just pressing a few buttons on their mobile devices.
+
+Stock brokers (in this case, stock brokers are the provider) can manage their customers easily by keeping track of their share trades orders (buy or sell) online without the hassle or rush of meeting with customers, answering phone calls and jotting them down on pieces of paper.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to design a program, system and user interface in order for the user to access required information from a remote computer as well as changing them using a mobile device.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Designing a working and user friendly user-interface that runs on an emulator
+* Mobile device able to access information from remote computer and update it accordingly
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Mobile device able to change information on remote computer (to simulate share trade)
+
+* Design a system for secure transfer between mobile device and remote computer
+
+* Possible suggestion for updating this system
+
+
+Project Uniqueness: It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+ü
+
+

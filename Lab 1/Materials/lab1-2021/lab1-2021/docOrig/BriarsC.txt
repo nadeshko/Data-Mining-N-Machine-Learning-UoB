@@ -1,0 +1,41 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Chroma-key tool
+
+
+Student Name: Christopher David Briars
+
+
+Supervisor: Peter Jancovic
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Chroma-Key is a technique used in the film and television industry to artificially place a background scene needed behind a person. The person is filmed in front of a specific background-colour (usually green or blue). Then, the background colour can be replaced with an arbitrary scene by digital manipulation of the video frames.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to develop such a chroma-key tool for creating 'noisy' audio-visual speech recognition database (CUAVE). The database is stored in mpeg2 format with a green background.
+The program should take two mpeg2 files as input - one being an original file from the a-v database and one being background.
+The output of the program should be an encoded mpeg 'noisy' file or a sequence of noisy static images at each frame-time.
+The program may consider software such as JavaMedia or libmpeg3 or may build on some parts of the source-code already available at the department. 
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Use some software tool to decode the mpeg2 stream into a sequence of static images.
+* Develop tool for replacing the green-background in the static images by various images in C (C++).
+* If problems, develop the chroma-key tool in Matlab.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Separate the audio stream from the .mpeg2 files and store as separate files.
+* Encode the 'noisy' image frames back to mpeg2 format.
+* Since it is hard to estimate the progress in this project, additionally, the development of some lip-localization/tracking techniques may be considered.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

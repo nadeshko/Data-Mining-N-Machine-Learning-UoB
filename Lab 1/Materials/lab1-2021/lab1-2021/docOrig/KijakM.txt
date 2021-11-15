@@ -1,0 +1,45 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Class D active subwoofer
+
+
+Student Name: Marcel Kijak
+
+
+Supervisor: SVMollov
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+A subwoofer design targeting time-linear performance and minimum THD yet best transient response.
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+To design the H-bridge, identify sensor, design feedback
+200W rms output; THD<%; 20-200Hz +/-3dB
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Design H-bridge and gate drivers.
+
+* Design active feedback
+
+* Full schematic (inclusive of auxiliary circuits)
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Build and test H-bridge: 2.2
+
+* Build and test control loop:  2.1
+
+* Build and test entire system to full power: first
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+yes
+

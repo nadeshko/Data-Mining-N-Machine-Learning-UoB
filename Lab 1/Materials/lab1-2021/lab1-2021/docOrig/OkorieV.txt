@@ -1,0 +1,41 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Robust Microcontroller Networks for Advanced Automotive Systems 
+	
+
+
+Student Name:   Victor Okorie
+
+
+Supervisor:   SMC
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Modern automotive systems incorporate widely distributed intelligence in the form of networks of microcontrollers. This intelligence is used to increase safety, performance and comfort. Some functions performed are safety-critical, such as the control of airbags or anti-lock brakes. Others, e.g. control of reversing aids, audio equipment, or air conditioning, are less essential. To achieve high reliability, redundant systems are often used, increasing the hardware costs and reducing efficiency. The development of fault-tolerant systems that use a minimal amount of redundant hardware, along with techniques for detecting fault conditions, identifying their cause and then adapting system behaviour in order to minimise loss of function is therefore of interest.
+ 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to design, implement and evaluate a microcontroller-based test network that consists of sensor, processing and display nodes which are connected in such a way that faults can be detected and processing responsibilities redistributed to allow the system to continue to operate correctly in the event of failure of some component of the system. Sensor nodes are capable of measuring a physical quantity (temperature, voltage etc.) and communicating this to another node. Display nodes simply receive information, and display this appropriately. Processing nodes manipulate information, monitor other nodes and control actuators within the system. A network of this type, containing a number of nodes each of which are capable of simulating faults (e.g. loss a communications channel), should be demonstrated. 
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+
+* To investigate inter-processor communication alternatives available when constructing networks based on Microchip PIC microcontrollers.
+* To investigate possible fault conditions, and also techniques for both fault detection and fault injection within such a network.
+* To demonstrate a simple network consisting of one sensor node, one display node and two processing nodes, one of which should adopt the responsibilities of the other upon failure.
+ 
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* To extend the capabilities of the system with additional sensor types, a greater number of processing nodes and a larger number of potential faults.
+* To reduce maintenance overheads by collating information from multiple sources and more accurately diagnosing the cause of faults within the system.
+ 
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+   ü
+

@@ -1,0 +1,37 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Simulation of Controlled Three Phase Rectifiers for Aircraft Applications
+
+
+Student Name: E W F Lau
+
+
+Supervisor: Dr A J Forsyth
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+As mechanical and hydraulic actuation devices in aircraft are replaced by "more electric" systems, an increasing amount of non-linear (rectifier) load is being placed on the power distribution system. It is therefore important to devise and develop high performance controlled rectifiers and to understand their characteristics
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+This project will use the Saber simulation system to evaluate and compare a number of phase controlled rectifier configurations. This will start with the basic six-pulse circuit then progress to examine twelve pulse systems, regenerative operation and distribution system interaction.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Six-pulse rectifier with phase control implemented in Saber
+* Full evaluation of simulation performance and comparison with theoretical expectations.
+* Literature review of high pulse number controlled rectifiers
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Extension to consider 12-pulse, 18-pulse and 24-pulse systems. Full evaluation of performance and comparison.
+* Operation of system in the regenerative mode.
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+ ü
+

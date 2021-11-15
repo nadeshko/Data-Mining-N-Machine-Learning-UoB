@@ -1,0 +1,36 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: Suppression of noise in speech signals
+
+
+Student Name: Gurdeepak Chana
+
+
+Supervisor: Peter Jancovic
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Current speech recognition systems can achieve good recognition performance when the speech is recorded in a noise-free environment. However, in real world the speech signal is usually corrupted by various types of background environmental noises. Under noisy conditions, the recognition performance of speech recognition systems usually significantly decreases. This project will aim at incorporating several typical noise reduction techniques into the speech recognition process.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to develop several methods for noise-reduction of speech signals. The methods such as spectral subtraction and Wiener filtering should be considered. The implementation should be in C (C++) language.
+The input to the program should be a .wav file containing the raw speech samples. A spectral-based feature parameterization of the input file should be implemented. The de-noised file should be stored.
+The methods developed should be evaluated by passing the de-noised speech signals to speech recognition toolbox (a tool will be provided). The evaluation for various noisy conditions should be performed.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Develop the noise reduction methods in Matlab environment.
+* Either the spectral subtraction or Wiener filtering should be implemented.
+* The input to the program could instead of the .wav speech file be a sequence of spectral features.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Several modifications of the spectral subtraction and the Wiener filtering techniques should be developed and evaluated.
+* An additional technique should be developed, e.g. wavelet-based de-noising or RASTA filtering.
+* 
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

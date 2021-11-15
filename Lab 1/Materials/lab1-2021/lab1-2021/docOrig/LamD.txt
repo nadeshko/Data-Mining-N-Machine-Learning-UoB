@@ -1,0 +1,40 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Safety emulation system for household appliances
+
+
+Student Name:   D Lam
+
+
+Supervisor:   AJG
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Different appliance can have differing power supplies. Surges occurs when a number of different appliance are all switch on at the same time. To even the demands on the power supply a system of intelligent agents each representing a household appliance are to be networked. This will allow for surges and faults to be detected as well measures to control the machine demands or alert the owner to possible problems.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The project as a basic level will have a simple centralised DAI system with a central controlling agent. This agent will communicate with the other agents in a network of agents. These agents will report problems and demands. The decision over the demands will be determined by the controlling agent. 
+Basic Deliverables
+1) A UML Design
+2) A Visual Basic Problem to demonstrate the interaction between the controller and the other distributed agents.
+3) Demonstration that a fault with one or more of the units will produce a suitable solution
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* Demonstration that a VB program can communicate with another VB program
+* That the information sent can be analysed and processed to make a reaction of the network of VB programs
+* Scheduling of the VB program is controlled by a controlling program
+* The identification of the information between the program will indicate that the severity of the information. So an application on fire is given a higher priority than an application requiring less power.
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+1) Understanding of the power issues related to the demands placed upon the supply, i.e. mathematical
+2) Removal of the centralised controller for the agents to negotiate amongst themselves.
+3) The transference of the basic idea to a more complex context
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

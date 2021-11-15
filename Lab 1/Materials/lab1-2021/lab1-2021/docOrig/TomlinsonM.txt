@@ -1,0 +1,39 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Modeling Information Foraging In Museums Using Bayesian Networks
+
+
+Student Name:  M Tomlinson
+
+
+Supervisor:  Dr. C. Baber
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+A novel theory of information retrieval assumes that humans tend to seek out information to satisfy basic 'information needs', just as if they are searching for food to satisfy basic sustenance needs.  Information Foraging Theory is an understanding of how strategies for gathering information are adapted to the constant wealth of information/knowledge in the environment. The theory is based on the fact that people when possible modify their strategy for information retrieval, in order to exploit/maximise the rate of information obtained. The theory also suggests that successful 'paths' for finding information can be shared with other people (in much the same way that pheromone trials are used by insects to signal paths to food).
+
+Bayesian Belief Networks are graphical representations based on probability and can be used to model and simulate a given situation, taking into account a particular context. Networks can be devised and models can be drawn to provide a network of interconnecting nodes, portraying the "information scent". The data from these models can then be analysed and used to maximise information obtained. (i.e. in museum explorations/visits)
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to apply Information Foraging Theory to the context of museum visits. Bayesian Belief Networks need to be developed, to model the "information scent" (i.e. the gathering/retrieval of knowledge in a museum environment.) The model then needs to be analysed, optimum route(s) proposed and then tested and evaluated against observations.
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* MSBNX (Microsoft Bayesian Network Creator) software proves too difficult to use
+* Decide and use an alternative technique for developing the model
+* Observational data doesn't match the model- Revise.
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* A novel application of Information Foraging Theory
+* The model can be generalised and used in other situations
+* Bayesian Belief Networks can be demonstrated to provide viable models of information foraging
+
+
+Project Uniqueness: It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+ü
+

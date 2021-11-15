@@ -1,0 +1,46 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:     Building a speaker recognition system to control access to a room
+
+
+Student Name:   N Ponsamrit   (ID: 319935)
+
+
+Supervisor:    Prof. M. Russell
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+There are many security systems to prevent an unauthorized person from accessing private areas, such as eye scanning, fingerprint, security code, keys, cards and speech. The most comfortable system is to use a speaker recognition system because there is no physical contact (i.e. eye scanning and fingerprint) that people might be uncomfortable with, and the equipment needed to the necessary speech data is minimal.  But the disadvantage of this system is that accuracy varies and is influenced by factors such as emotion and health, etc.
+
+There are lots of speaker recognition applications used at present and its advantages are that no specific training of the user is needed, it can be used in unusual situations (e.g. darkness, blindness, etc.).  Also speech could have advantages for access control for disabled people, to enable access their houses and to control household equipment by using speech.
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+* Understand how a speaker recognition system works
+* Design, implement and evaluate a speaker recognition system (using Matlab, C, or HTK)
+* Design, implement and evaluate a simple device to be controlled by speaker recognition (e.g. light a LED when an authorized speaker is talking)
+* Design, implement and evaluate a simple demo that shows how a speaker recognition system can be used to control a piece of hardware (system integration)
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Understand how a speaker recognition system works
+* Design, implement and evaluate a speaker recognition system (using Matlab, C, or HTK)
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* Port the speaker recognition system to a real-time system (using HAPI).
+* Design, build a demo and evaluate the speaker recognition system to a piece of hardware (Interface the speaker recognition system to a real electronic lock (e.g. using FSM, etc.)
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+(
+

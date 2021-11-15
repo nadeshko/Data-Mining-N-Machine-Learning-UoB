@@ -1,0 +1,35 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:  Development of a Simplified 3D Test of Users' Spatial Navigation
+                        Capabilities Within Virtual Environments
+
+
+Student Name: Jack Hicks (8098)
+
+
+Supervisor:   RJS
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+Spatial awareness is a general term applied to the knowledge an individual holds about the 3D environment in which he or she exists.  The extent of one's spatial knowledge can be influenced by the task one has to perform and, historically, it has been found that (for example), goal-directed navigation promotes better spatial awareness and subsequent recall than passive exploration of an environment.  It is also known that different individuals exhibit different abilities in their mental representation and exploitation of spatial features and, once one moves from the real world to synthetic or virtual environments (typically delivered via low-resolution, low field-of-view head-mounted, desktop or projection displays), these abilities are demonstrated to marked effect.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to develop an early demonstrator, based on a simple virtual environment, which will be used to test the spatial awareness characteristics of a range of subjects.  The test environment will take the form of a simple three-dimensional room-like environment, endowed with objects of various shapes and sizes, at various locations and orientations.  Some of the objects will be shaded using simple colours or more complex textures, even alphanumeric items.  The spatial recall performance of subjects using this simple test environment will then be compared to their performance on a more complex virtual environment, such as the Unreal models (available from the Web) of Notre Dame Cathedral or the International Space Station.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* Development of a limited 3D test environment
+* Reduction in the number of independent and dependent variables chosen for experimental study
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* Include the use of known psychometric tests (eg. Shephard & Metzler 3D mental rotation test, possibly in its recently-converted 3D graphics form, plus the Embedded Figures Test)
+* Test program on portable computer (eg. Palmtop)
+
+Project Uniqueness:  It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+The uniqueness of this project lies in the development and use of the 3D test environment and its application to a games engine VR world.
+
+
+
+

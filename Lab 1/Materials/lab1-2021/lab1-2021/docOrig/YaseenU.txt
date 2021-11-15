@@ -1,0 +1,48 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: A Dual-Band Chebyshev Impedance Transformer 
+
+
+Student Name: Usamah Yaseen
+
+
+Supervisor: Dr H Ghafour-Shiraz
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+Impedance matching is a classical topic in microwave engineering which arises in a wide variety of microwave system. In many cases of practical interest, including dual-band mobile telephony, impedance matching over two separated bands is required. 
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is therefore to design a dual-band impedance transformer based on Chebyshev synthesis of the single-band transformer.
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* 
+
+* 
+
+* 
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* The design of a dual-band impedance transformer based on Chebyshev synthesis of the single-band transformer.
+
+* 
+
+* 
+
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

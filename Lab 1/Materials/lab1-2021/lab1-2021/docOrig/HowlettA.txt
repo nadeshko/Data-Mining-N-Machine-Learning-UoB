@@ -1,0 +1,38 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title: In Car Entertainment controller and monitor (ICECAM)
+
+
+Student Name: A Howlett
+
+
+Supervisor: David Pycock
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+
+When building a car audio system that goes beyond the basics, extra amplifier(s) and other components need to be fitted to the vehicle, and often these have to be fitted in confined spaces or hidden away for practical reasons (such as boot space!). This results in some equipment getting very hot and needing fan cooling, but if the fans are on all the time the noise can be intrusive at low listening levels. When audio systems are built for competition use the car battery voltage and amplifier temperatures are also important information for the user. Turning several amplifiers and other components on and off can cause problems as normal car radios only provide enough current to turn on one or two external devices, and having all the components in the system switching on and off at the same time can cause unwanted "pops". These pops can be prevented if the switching of each component is staggered, so amplifiers turn on last and off first. It would also be useful for a user to be able to control and monitor their system from the driver's seat.
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+The aim of this project is to design and build a control and display unit that can monitor the temperature of components in a car audio system and control the speed of fans to cool them. It will also measure the voltage of the system, switch on/off external devices in a staggered manner and provide the user with an interface which can display all the system data, as well as allow them to set various system parameters. The unit will be split into two parts - a control box to be hidden away with the other components in the audio system, and a small display unit which can be fitted where the user wishes. The unit will be switched on and off by the car radio.
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+
+* Unit can display component temperatures and vehicle voltage, and control their fans
+* Unit can switch several external components on and off, with delays
+* Initial implementation of serial interface between control box and display
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+
+* User defined parameters for temperature/fan control and external device control
+* Display of maximum/minimum temperatures and voltages with trends and reset capability
+* System can perform a self test to check for faulty components
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+

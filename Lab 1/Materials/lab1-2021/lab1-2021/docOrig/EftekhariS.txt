@@ -1,0 +1,44 @@
+
+Project Title:Colour Quantisation
+
+
+Student Name: S. Eftekhari
+
+
+Supervisor:MS
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+A full colour representation is typically 24 bits for an RGB display. Normally, visually similar results can be obtained by displaying the data to a resolution of 8bits or 256 distinct colours. This is obtained by quantising (or clustering) the colour space using clustering algorithms. 
+
+
+
+
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+
+This project is aimed at producing an image processing system which is able to evaluate different colour quantisation systems. It is envisaged that the system will use the Java based JImage toolkit although the Java Advanced Imaging (JAI) API can also be used.
+
+
+
+
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.)
+* Basic GUI front end for manipulating colour images
+* Implmentation of a simple clustering algorithm
+* Evaluation of a clustering algorithm on natural colour images
+
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.)
+* Investigation of advanced clustering algorithms
+* Investigation of neural network-based approaches
+* Investigation of invariance of simple images processing algorithms on quantised colour images
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+x
+
+

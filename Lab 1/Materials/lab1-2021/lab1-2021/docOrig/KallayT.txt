@@ -1,0 +1,34 @@
+Third Year BEng Final Year Design Project - 2003/2004
+
+Project Title:   Virtual Environment Control/Display System for Supervision and Teleoperation of Multiple Semi-Autonomous Vehicles (AI and HCI Issues)
+
+
+Student Name:   Timothy Kallay
+
+
+Supervisor:   RJS
+
+
+
+
+Project Specification:
+Background. (Please include a general scene-setting overview of the project - targeted at the non-specialist)
+The effective display - in real-time - of objects and events in three dimensional space for situational awareness purposes is gaining considerable support in a number of important application domains, from air traffic control to the deployment of semi-autonomous air and subsea vehicles.  However, the human factor has only been given basic consideration in the design proposals for such systems, typically resulting in very cluttered, confusing displays with poor interactivity.  This project, which will be performed in conjunction with that undertaken by another BEng student - Chris Collins - will address some of the AI and HCI issues associated with developing a Synthetic Environment display prototype, with the ability of the user to move from a position of supervisory control of 4 simulated vehicles to direct manual control of one, with subsequent other-vehicle "flocking". 
+
+Expected Outcomes. (Please include a specification for the expected outcomes of this project when undertaken by an average student.   e.g. 'The aim of this project is to design and ....') 
+The aim of this project is to design and create a human-computer interface to a synthetic 3D remote environment representation, rendered using a games engine (created from scratch or based on those available from the Web - the main focus of Chris Collins' project).  The 3D interface design will be based, as far as is practical, on existing human factors/ergonomics criteria, will be hosted on a PC and will be interacted with using an off-the-shelf joystick (and other conventional peripherals, as necessary - keyboard, mouse, etc).  In addition, and AI program (eg. Games Script AI) will be implemented to endow each of 4 simulated subsea semi-autonomous vehicles with realistic motion and flocking behaviours.  The human user will be able to select one of the vehicles for direct manual control; the remaining vehicles will "behave" accordingly, maintaining a close or remote flocking profile, for example depending on a level of mission "risk" specified by the user (high/low).
+
+Fallback and Rebuild Position. (Students sometimes have difficulty in delivering the stated outcomes.   Using bullet points, please list a suitable set of minimal target objectives.) 
+* Minimum basic interface, ergonomically designed
+* Basic AI implementation (possibly using 2D display format)
+
+Enhancement Position. (It is anticipated that many students will achieve the expected outcomes stated above.   Using bullet points, please list a suitable set of achievable enhancement objectives.) 
+* Enhanced user interface
+* Enhanced AI and behaviours
+* Addition of wearable display (HUD-like format)
+
+Project Uniqueness:   It is expected that all projects should be essentially unique (at least 80% of the project content).   Thus a student should not be able to meet the project outcomes by reproducing material from previous project reports.   Please confirm the uniqueness of this project by placing a tick in the adjacent box.
+
+
+
+
