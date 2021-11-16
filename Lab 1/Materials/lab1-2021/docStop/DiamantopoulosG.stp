@@ -1,0 +1,58 @@
+project title:event detection video 
+student name:george diamantopoulos 
+supervisor:ms project specification 
+background please include general scene-setting 
+overview project  targeted non-specialist 
+event detection video relatively new 
+area research aimed detecting significant 
+events video sequence these events wide 
+definition can cover such things person 
+entering doorway car changing lanes 
+motorway person getting into car driving 
+away clearly definition event generally 
+determine type image processing required 
+detect event however similar sense real-time 
+near real-time detection required because 
+detection normally triggers some action 
+such alarm being sounded also generally 
+involve element object tracking prior 
+actual event adds robustness system 
+object identification such identifying 
+person reliable can tracked over number 
+frames expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  project aimed detecting one particular 
+type event  tailgating through car park 
+barrier normally single vehicle enters 
+parking area barrier then closes however 
+second vehicle following quickly behind 
+first can enter whilst barrier still 
+up situation relatively similar normal 
+situation single vehicle entering represents 
+challenging scenario detection envisaged 
+any system produced bolted existing 
+cctv system relatively low quality greylevel 
+video purposes project capture our own 
+footage develop detection system triggers 
+alarm event detected fallback rebuild 
+position students sometimes difficulty 
+delivering stated outcomes using bullet 
+points please list suitable set minimal 
+target objectives  record/play sequence 
+ compute thresholded frame difference 
+ determine car enters car park area stops 
+then re-enters enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  complete working 
+system  differentiation between different 
+vehicle types  evaluation live cctv link 
+project uniqueness expected projects 
+should essentially unique least 80 project 
+content thus student should able meet 
+project outcomes reproducing material 
+previous project reports please confirm 
+uniqueness project placing tick adjacent 
+box x 

@@ -1,0 +1,61 @@
+third year beng final year design project 
+ 2003/2004 project title digital radio 
+mondiale data transmitter student name 
+andrew nyago supervisor pra project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist traditionally 
+radio broadcast stations using frequencies 
+below 30mhz used amplitude modulation 
+although permits use simple low-cost 
+receivers received audio quality often 
+very poor due adverse propagation conditions 
+co-channel interference recently international 
+consortium proposed replacement amplitude 
+modulation system called digital radio 
+mondiale drm uses sophisticated digital 
+modulation techniques encode mixtures 
+audio digital messaging other information 
+within highly-resilient digital transmission 
+stream expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  aim project design build drm baseband 
+transmission modulator transmission 
+digital source material audio codec 
+sections deemed too complicated consideration 
+undergraduate project modulator should 
+incorporate frequency reference cells 
+amplitude reference cells timing synchronization 
+fast access channel fac main service 
+channel msc suggested modulator implemented 
+pc using standard two-channel sound 
+card fallback rebuild position students 
+sometimes difficulty delivering stated 
+outcomes using bullet points please 
+list suitable set minimal target objectives 
+ array ofdm quadrature modulation cells 
+set up within computer containing frequency 
+reference information inverse fourier 
+transformed output sound card  timing 
+synchronization cells added basic transmission 
+frame generated output  amplitude reference 
+cells added basic transmission frame 
+enhancement position anticipated many 
+students achieve expected outcomes 
+stated above using bullet points please 
+list suitable set achievable enhancement 
+objectives  modulator able switch between 
+different robustness modes channel 
+bandwidths error encoding strategies 
+ baseband receiver implemented possibly 
+matlab derive errors sound card sampling 
+rate frequency setting errors receiver 
+ receiver adapted decode digital data 
+transmitted project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box v 

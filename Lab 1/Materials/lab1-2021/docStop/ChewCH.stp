@@ -1,0 +1,56 @@
+third year beng final year design project 
+ 2003/2004 project title speech-activated 
+multimedia system student name chin 
+how chew supervisor peter jancovic project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist speech provides 
+natural way human interaction computers 
+project speech-activated multimedia 
+tool developed such tool receive input 
+speech signal microphone process signal 
+respond based type input speech expected 
+outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ aim project develop speech-activated 
+multimedia system program should developed 
+c c language program should able receive 
+input signal microphone spectral-based 
+feature representation speech signal 
+should implemented program should some 
+pattern classification technique e.g 
+dynamic programming comparison input 
+speech signal stored speech models program 
+can assume speech models available can 
+loaded file i.e system aimed performing 
+only recognition phase training based 
+recognized word program should generate 
+some response fallback rebuild position 
+students sometimes difficulty delivering 
+stated outcomes using bullet points 
+please list suitable set minimal target 
+objectives  develop program matlab environment 
+ input signal microphone captured stored 
+file  either these two programmed feature 
+parameterization speech signal pattern 
+classification method enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ based recognized word program plays 
+multimedia file e.g sound wav file  instead 
+using dynamic programming use viterbi 
+decoder matching stored input speech 
+signals i.e hmm-based speech models 
+used  incorporation training phase into 
+system  i.e before using system recognition 
+user pronounce vocabulary speech models 
+created project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box 

@@ -1,0 +1,63 @@
+third year beng final year design project 
+ 2003/2004 project titl detect out-of-vocabulari 
+word student name min ying wang supervisor 
+peter jancov project specif 
+background pleas includ gener scene-set 
+overview project  target non-specialist 
+word-base automat speech recognit 
+system can recogn word limit-vocabulari 
+interest mani real-world applic 
+howev consid practic employ 
+such system user mai pronounc word includ 
+vocabulari recognit system  such 
+word refer out-of-vocabulari oov 
+similarli presenc non-stationari 
+nois asr system mai understand speech 
+signal project investig wai detect 
+oov word expect outcom pleas includ 
+specif expect outcom project 
+undertaken averag student e.g aim project 
+design  aim project investig some 
+method detect oov word concern 
+isol digit recognit us hmm-base 
+speech recognit system train hmm 
+model each vocabulari word provid 
+databas parameter speech utter 
+provid input program parameter 
+file train hmm model student should 
+implement viterbi algorithm us recognit 
+phase viterbi algorithm sequenc likelihood 
+valu sequenc occup each hmm-state 
+should obtain statist these two 
+paramet base train data should 
+obtain these then us detect whether 
+input speech utter oov word method 
+should implement c c languag prefer 
+matlab environ fallback rebuild 
+posit student sometim difficulti 
+deliv state outcom us bullet 
+point pleas list suitabl set minim 
+target object  program develop 
+matlab environ  least on method 
+implement evalu i.e either us 
+sequenc likelihood valu sequenc 
+state occup  statist base 
+train-data obtain enhanc 
+posit anticip mani student 
+achiev expect outcom state abov 
+us bullet point pleas list suitabl 
+set achiev enhanc object 
+ both sequenc likelihood sequenc 
+hmm-state occup should emploi 
+evalu  tune paramet within 
+abov-describ method investig 
+complet evalu some standard speech 
+databas perform  implement 
+comparison on other method oov word 
+detect project uniqu expect 
+project should essenti uniqu 
+least 80 project content thu student 
+should abl meet project outcom reproduc 
+materi previou project report pleas 
+confirm uniqu project place 
+tick adjac box 

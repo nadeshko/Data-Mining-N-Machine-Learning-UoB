@@ -1,0 +1,49 @@
+third year beng final year design project 
+ 2003/2004 project title lip localization 
+audio-visual speech recognition student 
+name ng wen chun supervisor peter jancovic 
+project specification background please 
+include general scene-setting overview 
+project  targeted non-specialist lip 
+movement can provide information can 
+used improve performance speech recognition 
+system order use lip information audio-visual 
+speech recognition system  first lip 
+region needs localized project involve 
+localization lips using audio-visual 
+speech recognition database cuave several 
+methods lip-localization proposed 
+researchers here base colour distribution 
+skin lips expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  aim project develop program localization 
+lip-region static colour images approach 
+based using colour-distribution lips 
+can employed program should take colour 
+image file input localize lips extract 
+lip-region output image file program 
+should tested colour images talking 
+persons cuave database clean green noisy 
+background program should developed 
+c c preferably matlab environment fallback 
+rebuild position students sometimes 
+difficulty delivering stated outcomes 
+using bullet points please list suitable 
+set minimal target objectives  develop 
+program matlab environment  tests performed 
+images clean background only  enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ development additional method localizing 
+lips  results produced developed program 
+should evaluated comparing them those 
+localized manually  project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box 

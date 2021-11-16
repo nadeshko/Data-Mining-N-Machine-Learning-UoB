@@ -1,0 +1,65 @@
+third year beng final year design project 
+ 2003/2004 project title virtual environment 
+control/display system supervision 
+teleoperation multiple semi-autonomous 
+vehicles games engine  real-time rendering 
+system student name chris collis supervisor 
+rjs project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+effective display  real-time  objects 
+events three dimensional space situational 
+awareness purposes gaining considerable 
+support number important application 
+domains air traffic control deployment 
+semi-autonomous air subsea vehicles 
+however human factor only given basic 
+consideration design proposals such 
+systems typically resulting very cluttered 
+confusing displays poor interactivity 
+project performed conjunction undertaken 
+another beng student  tim kallay  address 
+development underlying three-dimensional 
+rendering software package suitable 
+integration emerging hci concepts supporting 
+appropriate ai behaviours package based 
+games engine program either developed 
+scratch using modified down-loadable 
+example web eg unreal ii expected outcomes 
+please include specification expected 
+outcomes project undertaken average 
+student e.g aim project design  main aim 
+project implement 3d virtual world rendering 
+system complete dynamic objects representing 
+semi-autonomous vehicles using games 
+engine technologies methodologies 
+rendering system capable displaying 
+behaviours simulated semi-autonomous 
+underwater vehicles performing autonomously 
+under direct control human user basic 
+functions such collision detection 
+also implemented rendering system designed 
+interface hci ai subroutines being generated 
+tim kally fallback rebuild position 
+students sometimes difficulty delivering 
+stated outcomes using bullet points 
+please list suitable set minimal target 
+objectives  simplified engine capable 
+supporting display basic preprogrammed-path 
+vehicle representations no ai support 
+joystick interface option enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ addition visual enhancements eg pixel 
+shading terrain mapping  enhanced underlying 
+physics engine  development separate 
+vehicle entities via network connection 
+ enhanced 3d engine project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box 

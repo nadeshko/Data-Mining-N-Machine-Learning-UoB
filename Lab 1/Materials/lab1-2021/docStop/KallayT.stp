@@ -1,0 +1,66 @@
+third year beng final year design project 
+ 2003/2004 project title virtual environment 
+control/display system supervision 
+teleoperation multiple semi-autonomous 
+vehicles ai hci issues student name timothy 
+kallay supervisor rjs project specification 
+background please include general scene-setting 
+overview project  targeted non-specialist 
+effective display  real-time  objects 
+events three dimensional space situational 
+awareness purposes gaining considerable 
+support number important application 
+domains air traffic control deployment 
+semi-autonomous air subsea vehicles 
+however human factor only given basic 
+consideration design proposals such 
+systems typically resulting very cluttered 
+confusing displays poor interactivity 
+project performed conjunction undertaken 
+another beng student  chris collins  address 
+some ai hci issues associated developing 
+synthetic environment display prototype 
+ability user move position supervisory 
+control 4 simulated vehicles direct 
+manual control one subsequent other-vehicle 
+flocking expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  aim project design create human-computer 
+interface synthetic 3d remote environment 
+representation rendered using games 
+engine created scratch based those available 
+web  main focus chris collins project 
+3d interface design based far practical 
+existing human factors/ergonomics 
+criteria hosted pc interacted using 
+off-the-shelf joystick other conventional 
+peripherals necessary  keyboard mouse 
+etc addition ai program eg games script 
+ai implemented endow each 4 simulated 
+subsea semi-autonomous vehicles realistic 
+motion flocking behaviours human user 
+able select one vehicles direct manual 
+control remaining vehicles behave accordingly 
+maintaining close remote flocking profile 
+example depending level mission risk 
+specified user high/low fallback rebuild 
+position students sometimes difficulty 
+delivering stated outcomes using bullet 
+points please list suitable set minimal 
+target objectives  minimum basic interface 
+ergonomically designed  basic ai implementation 
+possibly using 2d display format enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ enhanced user interface  enhanced ai 
+behaviours  addition wearable display 
+hud-like format project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box 

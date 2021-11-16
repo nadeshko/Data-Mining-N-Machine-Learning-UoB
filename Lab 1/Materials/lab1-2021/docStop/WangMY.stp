@@ -1,0 +1,63 @@
+third year beng final year design project 
+ 2003/2004 project title detection out-of-vocabulary 
+word student name min ying wang supervisor 
+peter jancovic project specification 
+background please include general scene-setting 
+overview project  targeted non-specialist 
+word-based automatic speech recognition 
+system can recognize words limited-vocabulary 
+interesting many real-world applications 
+however considering practical employment 
+such system user may pronounce word included 
+vocabulary recognition system  such 
+word referred out-of-vocabulary oov 
+similarly presence non-stationary 
+noise asr system may understand speech 
+signal project investigate ways detecting 
+oov words expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  aim project investigate some 
+methods detection oov words concern 
+isolated digit recognition using hmm-based 
+speech recognition system trained hmm 
+models each vocabulary word provided 
+database parameterized speech utterances 
+provided input program parameterized 
+file trained hmm models student should 
+implement viterbi algorithm used recognition 
+phase viterbi algorithm sequence likelihood 
+values sequence occupancy each hmm-state 
+should obtained statistics these two 
+parameters based training data should 
+obtained these then used detect whether 
+input speech utterance oov word methods 
+should implemented c c language preferably 
+matlab environment fallback rebuild 
+position students sometimes difficulty 
+delivering stated outcomes using bullet 
+points please list suitable set minimal 
+target objectives  program developed 
+matlab environment  least one method 
+implemented evaluated i.e either using 
+sequence likelihood values sequence 
+state occupancies  statistics based 
+training-data obtained enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ both sequence likelihoods sequence 
+hmm-state occupancies should employed 
+evaluated  tuning parameters within 
+above-described methods investigated 
+complete evaluation some standard speech 
+database performed  implementation 
+comparison one other method oov word 
+detection project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box 

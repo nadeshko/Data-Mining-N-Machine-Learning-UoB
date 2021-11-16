@@ -1,0 +1,66 @@
+third year beng final year design project 
+ 2003/2004 project title monitoring 
+high-bandwidth encrypted data streams 
+student name choon yik lok supervisor 
+smc project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+recent project demonstrated speech 
+recognition hardware feasible allows 
+automatic electronic eavesdropping 
+providing communication channels encrypted 
+thus demand high-speed encryption decryption 
+field-programmable gate arrays fpgas 
+demonstrated suitable technology both 
+implementing switching fabrics high-bandwidth 
+networks also cryptographic algorithms 
+maximum efficiency these functions 
+should combined thus making use massive 
+on-chip bandwidth offered modern fpgas 
+expected outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ aim project design implement evaluate 
+fpga-based stream processor capable 
+extracting selected packets incoming 
+data stream decrypting them range cryptographic 
+algorithms targeting xilinx virtex-e 
+series field programmable gate arrays 
+fpgas should evaluated range should 
+include helix recently-announced encryption/authentication 
+algorithm counterpane internet security 
+evaluation should consider performance 
+fpga-based system relation software 
+implementations also efficiency algorithms 
+can mapped into hardware fallback rebuild 
+position students sometimes difficulty 
+delivering stated outcomes using bullet 
+points please list suitable set minimal 
+target objectives  demonstrate using 
+rc1000 coprocessors available encryption 
+decryption using simple symmetric block 
+cipher such tea rc5  demonstrate selective 
+extraction data packets continuous 
+data stream using switching fabric implemented 
+rc1000  design implement test program 
+synthesize packet-based data stream 
+allowing user selectively insert payload 
+enhancement position anticipated many 
+students achieve expected outcomes 
+stated above using bullet points please 
+list suitable set achievable enhancement 
+objectives  use two rc1000 coprocessors 
+demonstrate selective encryption decryption 
+data carried over high-bandwidth packet-based 
+network  design construct test adapter 
+allowing two rc1000 coprocessors connected 
+together via general-purpose i/o headers 
+ develop protocol inter-processor communication 
+over link goal maximizing achievable 
+bandwidth project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box  

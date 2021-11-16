@@ -1,0 +1,66 @@
+third year beng final year design project 
+ 2003/2004 project titl monitor 
+high-bandwidth encrypt data stream 
+student name choon yik lok supervisor 
+smc project specif background 
+pleas includ gener scene-set 
+overview project  target non-specialist 
+recent project demonstr speech 
+recognit hardwar feasibl allow 
+automat electron eavesdrop 
+provid commun channel encrypt 
+thu demand high-speed encrypt decrypt 
+field-programm gate arrai fpga 
+demonstr suitabl technolog both 
+implement switch fabric high-bandwidth 
+network also cryptograph algorithm 
+maximum effici these function 
+should combin thu make us massiv 
+on-chip bandwidth offer modern fpga 
+expect outcom pleas includ specif 
+expect outcom project undertaken 
+averag student e.g aim project design 
+ aim project design implement evalu 
+fpga-base stream processor capabl 
+extract select packet incom 
+data stream decrypt them rang cryptograph 
+algorithm target xilinx virtex-e 
+seri field programm gate arrai 
+fpga should evalu rang should 
+includ helix recent-announc encrypt/authent 
+algorithm counterpan internet secur 
+evalu should consid perform 
+fpga-base system relat softwar 
+implement also effici algorithm 
+can map into hardwar fallback rebuild 
+posit student sometim difficulti 
+deliv state outcom us bullet 
+point pleas list suitabl set minim 
+target object  demonstr us 
+rc1000 coprocessor avail encrypt 
+decrypt us simpl symmetr block 
+cipher such tea rc5  demonstr select 
+extract data packet continu 
+data stream us switch fabric implement 
+rc1000  design implement test program 
+synthes packet-base data stream 
+allow user select insert payload 
+enhanc posit anticip mani 
+student achiev expect outcom 
+state abov us bullet point pleas 
+list suitabl set achiev enhanc 
+object  us two rc1000 coprocessor 
+demonstr select encrypt decrypt 
+data carri over high-bandwidth packet-base 
+network  design construct test adapt 
+allow two rc1000 coprocessor connect 
+togeth via gener-purpos i/o header 
+ develop protocol inter-processor commun 
+over link goal maxim achiev 
+bandwidth project uniqu expect 
+project should essenti uniqu 
+least 80 project content thu student 
+should abl meet project outcom reproduc 
+materi previou project report pleas 
+confirm uniqu project place 
+tick adjac box  

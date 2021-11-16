@@ -1,0 +1,60 @@
+third year beng final year design project 
+ 2003/2004 project title diver-held 
+fishing net detection sonar student 
+name lawrence brown supervisor pra project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist many parts 
+world local fishermen use nets made fine 
+mono-filament nylon line these tend 
+deployed beaches small boats can extend 
+over significant distances nets neutrally 
+buoyant therefore drift currents significant 
+quantities netting material inevitably 
+get swept away result storms mismanagement 
+fishermen net then becomes significant 
+hazard sports divers marine mammals 
+virtually undetectable once entrapped 
+virtually impossible escape expected 
+outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ aim project design build technology-demonstrator 
+sonar system using single transmit beam 
+two-transducer split-beam receiver 
+anticipated demonstration implemented 
+using matlab pc some suitable method 
+interfacing signals pc should demonstrated 
+fallback rebuild position students 
+sometimes difficulty delivering stated 
+outcomes using bullet points please 
+list suitable set minimal target objectives 
+ measure impedance sonar transducer 
+using circle-diagram plotter then drive 
+device using conventional laboratory 
+arbitrary signal generator  build simple 
+low-noise receive preamplifier  input 
+receive signals pc possibly using national 
+instruments a/d card demonstrate simple 
+matched filter matlab enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  consider matching 
+requirements simple resonant transducer 
+implement third-order matching network 
+improve transmission bandwidth  consider 
+advantages disadvantages using stack 
+two ceramics low-cost production environment 
+order increase transmission bandwidth 
+ interface high-speed a/d converter 
+possibly using usb device pc matlab consider 
+off-loading some down-conversion tasks 
+dsp such blackfin demonstrate processing-load 
+improvements such move project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box v 

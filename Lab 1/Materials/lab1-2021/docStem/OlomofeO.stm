@@ -1,0 +1,63 @@
+third year beng final year design project 
+ 2003/2004 project titl detect speech 
+sound record student name olusegun 
+olomof supervisor peter jancov project 
+specif background pleas includ 
+gener scene-set overview project 
+ target non-specialist task sound 
+retriev system find occurr some 
+sound-of-interest larg amount record 
+exampl mai interest detect speech 
+record sound e.g sound track movi 
+project investig method detect 
+speech such record sound mai possibl 
+contain variou type non-speech signal 
+such variou nois action music expect 
+outcom pleas includ specif 
+expect outcom project undertaken 
+averag student e.g aim project design 
+ aim project investig develop program 
+detect speech signal record 
+contain variou type sound e.g stationari 
+ non-stationari background nois music 
+input program waveform signal wav file 
+student need parameter input signal 
+into sequenc spectral-base frame 
+featur program consist two phase 
+train test train phase model 
+speech featur-space estim gaussian 
+mixtur model gmm perform clean 
+speech databas both gmm tool clean speech 
+databas provid test initi 
+speech signal should insert random 
+posit into mixtur non-speech signal 
+student should creat databas variou 
+non-speech sound then test should 
+carri real-world data e.g sound track 
+movi result obtain should evalu 
+compar them those obtain manual 
+i.e locat speech present real-world 
+data should manual annot fallback 
+rebuild posit student sometim 
+difficulti deliv state outcom 
+us bullet point pleas list suitabl 
+set minim target object  program 
+develop matlab environ  speech 
+parameter implement  provid 
+parameter us  onli initi 
+test perform enhanc posit 
+anticip mani student achiev expect 
+outcom state abov us bullet point 
+pleas list suitabl set achiev 
+enhanc object  program develop 
+c c languag  both type test perform 
+real-world data test databas least 
+on hour should obtain annot  investig 
+us segment-base featur project 
+uniqu expect project should 
+essenti uniqu least 80 project 
+content thu student should abl meet 
+project outcom reproduc materi 
+previou project report pleas confirm 
+uniqu project place tick adjac 
+box 

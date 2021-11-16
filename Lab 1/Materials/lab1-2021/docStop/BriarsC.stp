@@ -1,0 +1,53 @@
+third year beng final year design project 
+ 2003/2004 project title chroma-key 
+tool student name christopher david 
+briars supervisor peter jancovic project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist chroma-key 
+technique used film television industry 
+artificially place background scene 
+needed behind person person filmed front 
+specific background-colour usually 
+green blue then background colour can 
+replaced arbitrary scene digital manipulation 
+video frames expected outcomes please 
+include specification expected outcomes 
+project undertaken average student 
+e.g aim project design  aim project develop 
+such chroma-key tool creating noisy 
+audio-visual speech recognition database 
+cuave database stored mpeg2 format green 
+background program should take two mpeg2 
+files input  one being original file a-v 
+database one being background output 
+program should encoded mpeg noisy file 
+sequence noisy static images each frame-time 
+program may consider software such javamedia 
+libmpeg3 may build some parts source-code 
+already available department fallback 
+rebuild position students sometimes 
+difficulty delivering stated outcomes 
+using bullet points please list suitable 
+set minimal target objectives  use some 
+software tool decode mpeg2 stream into 
+sequence static images  develop tool 
+replacing green-background static 
+images various images c c  problems develop 
+chroma-key tool matlab enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ separate audio stream mpeg2 files store 
+separate files  encode noisy image frames 
+back mpeg2 format  since hard estimate 
+progress project additionally development 
+some lip-localization/tracking techniques 
+may considered project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box 

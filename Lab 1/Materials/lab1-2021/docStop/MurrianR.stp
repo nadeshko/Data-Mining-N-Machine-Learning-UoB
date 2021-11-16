@@ -1,0 +1,59 @@
+third year beng final year design project 
+ 2003/2004 project title hf transmitter 
+receiver small antennas student name 
+richard murrian supervisor pra project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist oceanographers 
+deploy wide range buoys monitoring climatic 
+biomass related parameters these may 
+connected via low-earth orbit satellites 
+extreme expense via vhf radio link typically 
+limited about 10 km alternative using 
+clusters buoys open ocean environments 
+use hf surface-wave propagation channels 
+however approach feasible need low-cost 
+power-efficient transmitter-receiver 
+capable signaling rates approaching 
+100 k bits per second whilst driving electrically 
+short antennas expected outcomes please 
+include specification expected outcomes 
+project undertaken average student 
+e.g aim project design  aim project design 
+build power-efficient receiver based 
+tayloe mixer analysis system performance 
+should carried device capable operating 
+single frequency 15  30 mhz band thus set 
+design guidelines produced showing 
+suitable compromise between power consumption 
+frequency stability strong-signal 
+performance noise-limited performance 
+fallback rebuild position students 
+sometimes difficulty delivering stated 
+outcomes using bullet points please 
+list suitable set minimal target objectives 
+ build test tayloe detector mixer using 
+fast bus switches driving device standard 
+laboratory signal sources  build test 
+receiver pre-mixer filter optimized 
+use electrically small antenna  build 
+test rf preamplifier good strong-signal 
+performance enhancement position anticipated 
+many students achieve expected outcomes 
+stated above using bullet points please 
+list suitable set achievable enhancement 
+objectives  investigate capabilities 
+analog devices direct digital synthesis 
+dds integrated circuits use local-oscillator 
+source  consider performance benefits 
+resulting spur-reduction output dds 
+resulting use narrow-band filters local-oscillator 
+signal path  design build matching transmitter 
+capable driving 5w into electrically-short 
+antenna project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box v 

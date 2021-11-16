@@ -1,0 +1,63 @@
+third year beng final year design project 
+ 2003/2004 project title detection speech 
+sound recordings student name olusegun 
+olomofe supervisor peter jancovic project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist task sound 
+retrieval system find occurrence some 
+sound-of-interest large amount recordings 
+example may interested detection speech 
+recorded sound e.g sound track movie 
+project investigate methods detection 
+speech such recorded sounds may possibly 
+contain various types non-speech signals 
+such various noises action music expected 
+outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ aim project investigate develop program 
+detection speech signals recordings 
+contain various types sounds e.g stationary 
+ non-stationary background noise music 
+input program waveform signal wav file 
+student need parameterize input signal 
+into sequence spectral-based frame 
+features program consist two phases 
+training testing training phase models 
+speech feature-space estimated gaussian 
+mixture modeling gmm performed clean 
+speech database both gmm tool clean speech 
+database provided testing initially 
+speech signal should inserted random 
+positions into mixture non-speech signals 
+student should create database various 
+non-speech sounds then tests should 
+carried real-world data e.g sound track 
+movie results obtained should evaluated 
+comparing them those obtained manually 
+i.e location speech present real-world 
+data should manually annotated fallback 
+rebuild position students sometimes 
+difficulty delivering stated outcomes 
+using bullet points please list suitable 
+set minimal target objectives  program 
+developed matlab environment  speech 
+parameterization implemented  provided 
+parameterization used  only initial 
+testing performed enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  program developed 
+c c language  both types testing performed 
+real-world data testing database least 
+one hour should obtained annotated  investigation 
+using segment-based features project 
+uniqueness expected projects should 
+essentially unique least 80 project 
+content thus student should able meet 
+project outcomes reproducing material 
+previous project reports please confirm 
+uniqueness project placing tick adjacent 
+box 

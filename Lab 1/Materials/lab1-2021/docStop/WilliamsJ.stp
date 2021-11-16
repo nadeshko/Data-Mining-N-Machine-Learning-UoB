@@ -1,0 +1,59 @@
+third year beng final year design project 
+ 2003/2004 project title automatic language 
+identification student name john williams 
+supervisor peter jancovic project specification 
+background please include general scene-setting 
+overview project  targeted non-specialist 
+each language its own characteristic 
+patterns sounds sequences sounds language 
+identification can employed instance 
+first step multi-lingual machine translation 
+system expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  aim project develop program automatic 
+language identification based speech 
+signal student should collect speech 
+database various languages program 
+should implemented c c language input 
+program parameterized speech signal 
+tool parameterization speech signal 
+provided program consist two phases 
+training operation training phase acoustic 
+models each language estimated using 
+gaussian mixture modeling gmm performed 
+clean speech database gmm tool provided 
+after gmms trained evaluation training 
+data these models should performed  results 
+class-assignment should then used train 
+n-gram language model operation input 
+speech different length unknown language 
+should evaluated using trained gmms 
+n-gram language model addition use speech 
+signal n-gram modelling each language 
+based text data should obtained fallback 
+rebuild position students sometimes 
+difficulty delivering stated outcomes 
+using bullet points please list suitable 
+set minimal target objectives  program 
+developed matlab environment  evaluation 
+simple gmm-based language-identification 
+system performed  speech data least 3 
+languages collected possibly same speaker 
+enhancement position anticipated many 
+students achieve expected outcomes 
+stated above using bullet points please 
+list suitable set achievable enhancement 
+objectives  training n-gram modeling 
+performed its incorporation recognition 
+phase evaluation  fundamental frequency 
+may useful feature language identification 
+tone languages particular implement 
+method estimation fundamental frequency 
+project uniqueness expected projects 
+should essentially unique least 80 project 
+content thus student should able meet 
+project outcomes reproducing material 
+previous project reports please confirm 
+uniqueness project placing tick adjacent 
+box x 

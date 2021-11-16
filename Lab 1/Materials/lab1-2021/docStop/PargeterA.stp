@@ -1,0 +1,65 @@
+third year beng final year design project 
+ 2003/2004 project title microprocessor 
+based fault detection diagnosis student 
+name pargeter supervisor clive roberts 
+project specification background please 
+include general scene-setting overview 
+project  targeted non-specialist changing 
+maintenance strategy reactive proactive 
+beneficial means detect diagnose incipient 
+faults systems usually carried collecting 
+data systems question using set transducers 
+show dynamic operation characteristics 
+geographically distributed systems 
+data often collected using fieldbus 
+type network nodes order reduce bandwidth 
+data being transmitted hence overall 
+cost system interest carryout site fault 
+detection diagnosis node level using 
+microprocessor thus creating intelligent 
+asset capable predict its own maintenance 
+requirements expected outcomes please 
+include specification expected outcomes 
+project undertaken average student 
+e.g aim project design  aim project interface 
+mitsubishi m16c microprocessor board 
+university's existing worldfip fieldbus 
+node system set system transducer data 
+provided m16c should able reduce transducer 
+data intelligent manner produce indication 
+fault detection require  development 
+appropriate hardware m16c interface 
+addition memory requirements  undertaking 
+academic research fault detection diagnosis 
+theory both fields control engineering 
+soft computing  writing software algorithms 
+fault detection exceptional project 
+also consider issues relating fault 
+diagnosis well fault detection fallback 
+rebuild position students sometimes 
+difficulty delivering stated outcomes 
+using bullet points please list suitable 
+set minimal target objectives  communication 
+transducer data existing worldfip node 
+mitsubishi m16c board  demonstration 
+simple thresholding techniques fault 
+detection  understanding complex methods 
+might applied enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  development 
+complex fault detection diagnosis e.g 
+fft control theory methods demonstrated 
+pc  implementation toolbox using mitsubishi 
+board data collected through worldfip 
+node  clear understanding appropriateness 
+methods selected identification shortcomings 
+appropriate practical implementation 
+project uniqueness expected projects 
+should essentially unique least 80 project 
+content thus student should able meet 
+project outcomes reproducing material 
+previous project reports please confirm 
+uniqueness project placing tick adjacent 
+box  

@@ -1,0 +1,53 @@
+third year beng final year design project 
+ 2003/2004 project title gps position 
+signalling maritime sensors student 
+name adam robertson supervisor pra project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist oceanographers 
+deploy wide range buoys monitoring climatic 
+biomass related parameters these usually 
+deployed support ships left drift ocean 
+currents desirable track position these 
+buoys order correlate measured data 
+geographical position later recovery 
+small gps receivers usually mounted 
+top buoys tracking purposes data these 
+sensors normally communicated back 
+host vessel using low-power radio link 
+expected outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ aim project design build interface between 
+gps receiver radio transmitter data 
+stream emanating gps receiver should 
+parsed extract latitude longitude positions 
+suitable data extrapolation used case 
+wave-splash masking gps signals receiver 
+data rate should sufficiently decimated 
+allow narrow-band modulation scheme 
+such psk31 employed fallback rebuild 
+position students sometimes difficulty 
+delivering stated outcomes using bullet 
+points please list suitable set minimal 
+target objectives  implement interface 
+between pic microprocessor gps receiver 
+ parse received message string extract 
+latitude longitude information data 
+stream  interpolate predict data case 
+wave-wash situation enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  implement psk31 
+receiver software perhaps using matlab 
+c dsp  consider convolutional coding 
+decoding strategies necessary provide 
+improved link resilience  implement 
+fully functioning system project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box v 

@@ -1,0 +1,57 @@
+third year beng final year design project 
+ 2003/2004 project titl suppress 
+nois speech signal student name gurdeepak 
+chana supervisor peter jancov project 
+specif background pleas includ 
+gener scene-set overview project 
+ target non-specialist current speech 
+recognit system can achiev good 
+recognit perform speech record 
+nois-free environ howev real 
+world speech signal usual corrupt 
+variou type background environment 
+nois under noisi condit recognit 
+perform speech recognit system 
+usual significantli decreas project 
+aim incorpor sever typic nois 
+reduct techniqu into speech recognit 
+process expect outcom pleas includ 
+specif expect outcom project 
+undertaken averag student e.g aim project 
+design  aim project develop sever method 
+nois-reduct speech signal method 
+such spectral subtract wiener filter 
+should consid implement should 
+c c languag input program should wav 
+file contain raw speech sampl spectral-base 
+featur parameter input file 
+should implement de-nois file should 
+store method develop should evalu 
+pass de-nois speech signal speech 
+recognit toolbox tool provid evalu 
+variou noisi condit should perform 
+fallback rebuild posit student 
+sometim difficulti deliv state 
+outcom us bullet point pleas 
+list suitabl set minim target object 
+ develop nois reduct method matlab 
+environ  either spectral subtract 
+wiener filter should implement 
+ input program could instead wav speech 
+file sequenc spectral featur enhanc 
+posit anticip mani student 
+achiev expect outcom state abov 
+us bullet point pleas list suitabl 
+set achiev enhanc object 
+ sever modif spectral subtract 
+wiener filter techniqu should 
+develop evalu  addit techniqu 
+should develop e.g wavelet-base 
+de-nois rasta filter  project 
+uniqu expect project should 
+essenti uniqu least 80 project 
+content thu student should abl meet 
+project outcom reproduc materi 
+previou project report pleas confirm 
+uniqu project place tick adjac 
+box 

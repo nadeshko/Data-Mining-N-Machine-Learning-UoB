@@ -1,0 +1,59 @@
+third year beng final year design project 
+ 2003/2004 project titl automat languag 
+identif student name john william 
+supervisor peter jancov project specif 
+background pleas includ gener scene-set 
+overview project  target non-specialist 
+each languag it own characterist 
+pattern sound sequenc sound languag 
+identif can emploi instanc 
+first step multi-lingual machin translat 
+system expect outcom pleas includ 
+specif expect outcom project 
+undertaken averag student e.g aim project 
+design  aim project develop program automat 
+languag identif base speech 
+signal student should collect speech 
+databas variou languag program 
+should implement c c languag input 
+program parameter speech signal 
+tool parameter speech signal 
+provid program consist two phase 
+train oper train phase acoust 
+model each languag estim us 
+gaussian mixtur model gmm perform 
+clean speech databas gmm tool provid 
+after gmm train evalu train 
+data these model should perform  result 
+class-assign should then us train 
+n-gram languag model oper input 
+speech differ length unknown languag 
+should evalu us train gmm 
+n-gram languag model addit us speech 
+signal n-gram model each languag 
+base text data should obtain fallback 
+rebuild posit student sometim 
+difficulti deliv state outcom 
+us bullet point pleas list suitabl 
+set minim target object  program 
+develop matlab environ  evalu 
+simpl gmm-base languag-identif 
+system perform  speech data least 3 
+languag collect possibl same speaker 
+enhanc posit anticip mani 
+student achiev expect outcom 
+state abov us bullet point pleas 
+list suitabl set achiev enhanc 
+object  train n-gram model 
+perform it incorpor recognit 
+phase evalu  fundament frequenc 
+mai us featur languag identif 
+tone languag particular implement 
+method estim fundament frequenc 
+project uniqu expect project 
+should essenti uniqu least 80 project 
+content thu student should abl meet 
+project outcom reproduc materi 
+previou project report pleas confirm 
+uniqu project place tick adjac 
+box x 

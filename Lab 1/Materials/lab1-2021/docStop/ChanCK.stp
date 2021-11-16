@@ -1,0 +1,71 @@
+third year beng final year design project 
+ 2003/2004 project title reconfigurable 
+processors low-cost embedded systems 
+student name chi kar chan supervisor 
+smc project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+due rapid improvements being made silicon 
+process technologies integrated circuit 
+densities performance still increasing 
+according moore's law means embedded 
+system designers must deal problem ever-shorter 
+product lifecycles rapid obsolescence 
+off-the-shelf components one possible 
+solution problem implement processors 
+programmable logic then process technologies 
+improve designers can immediately benefit 
+greater performance provided silicon 
+without having modify original designs 
+expected outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ aim project design implement evaluate 
+synthesizable vhdl model microchip 
+pic microcontroller targeting latest 
+spartan-3 fpgas xilinx model should 
+able directly execute simulation code 
+produced microchip assembler mpasm 
+based source code containing subset 
+pic12/16-series instruction set selection 
+supported subset should based analysis 
+typical usage model should synthesized 
+efficiently mapped spartan-3 architecture 
+making use advanced architectural features 
+minimize resource requirements maximize 
+performance fallback rebuild position 
+students sometimes difficulty delivering 
+stated outcomes using bullet points 
+please list suitable set minimal target 
+objectives  identify those components 
+pic microcontrollers can successfully 
+implemented using resources provided 
+programmable logic devices  develop 
+test vhdl model supports instruction 
+fetch/decode control flow including 
+stack general-purpose components register 
+file minimal set arithmetic operations 
+configuration registers  evaluate resource 
+usage performance microcontroller 
+model after synthesis implementation 
+using xilinx spartan-3 series fpgas 
+enhancement position anticipated many 
+students achieve expected outcomes 
+stated above using bullet points please 
+list suitable set achievable enhancement 
+objectives  extend architectural features 
+supported include available advanced 
+features on-chip memory special-function 
+registers  build adapter allow direct 
+connection fpga-based demonstration 
+board containing microcontroller core 
+place pic microcontroller  demonstrate 
+using common source code behaviour soft 
+microcontroller core relation real 
+device project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box  

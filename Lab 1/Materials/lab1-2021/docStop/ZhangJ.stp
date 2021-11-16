@@ -1,0 +1,298 @@
+third year beng final year design project 
+ 2003/2004 project title empirical equation 
+resonant frequency coupling coefficient 
+microstrip double-spiral resonators 
+student name jun jie zhang supervisor 
+fh project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+microstrip spiral resonators filters 
+currently designed computer simulation 
+lengthy process helpful empirical design 
+equations similar those straight microstrip 
+least provide initial design feasibility 
+study can done fitting curves simulated 
+results probably using sonnet electromagnetic 
+simulator useful equations must valid 
+wide range permittivity number turns 
+substrate thickness etc expected outcomes 
+please include specification expected 
+outcomes project undertaken average 
+student e.g aim project design  1 provide 
+empirical design equations together 
+simulation data demonstrate validity 
+2 use physical arguments show proportionality 
+other simple relationship between some 
+parameters resonant frequency thereby 
+simplifying equations 3 review theory 
+resonant transmission lines use 2 4 demonstrate 
+knowledge sonnet other electromagnetic 
+simulator fallback rebuild position 
+students sometimes difficulty delivering 
+stated outcomes using bullet points 
+please list suitable set minimal target 
+objectives  provide design data form 
+graphs  review theory resonant transmission 
+lines  demonstrate knowledge sonnet 
+other electromagnetic simulator enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+expected outcomes extend work coupling 
+coefficients between spirals project 
+uniqueness expected projects should 
+essentially unique least 80 project 
+content thus student should able meet 
+project outcomes reproducing material 
+previous project reports please confirm 
+uniqueness project placing tick adjacent 
+box other than learning standard theory 
+software enough unique material provided 
+expected outcomes met third year beng 
+final year design project  2003/2004 
+project title coupling capacitance 
+end-coupled orthogonal microstrip 
+lines student name agbamu evans supervisor 
+fh project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+above coupling capacitances previously 
+calculated using quasi-static methods 
+now verified using electromagnetic 
+simulator although also done previous 
+project user-friendly software should 
+now enable much further progress made 
+expected outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ 1.design data mainly coupling capacitances 
+provided range gap sizes line widths 
+substrate permittivities compared 
+results available literature 2 upper 
+frequency limit quasi-static model 
+evaluated data 3 use electromagnetic 
+simulator calculations based data obtained 
+explained fallback rebuild position 
+students sometimes difficulty delivering 
+stated outcomes using bullet points 
+please list suitable set minimal target 
+objectives  items 1 3 above enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ high-frequency model based several 
+lumped elements created  size region 
+interaction between two microstrips 
+assuming given accuracy determined 
+project uniqueness expected projects 
+should essentially unique least 80 project 
+content thus student should able meet 
+project outcomes reproducing material 
+previous project reports please confirm 
+uniqueness project placing tick adjacent 
+box other than learning standard theory 
+software enough unique material provided 
+expected outcomes met third year beng 
+final year design project  2003/2004 
+project title coupling microstrip double 
+spirals function direction student 
+name chin loong lim supervisor fh project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist analogous 
+radiation pattern antenna near-field 
+coupling coefficient double-spiral 
+microstrip resonator expected vary 
+direction studied using electromagnetic 
+simulator expected outcomes please 
+include specification expected outcomes 
+project undertaken average student 
+e.g aim project design  1 design curves 
+coupling coefficient function direction 
+distance supporting data simulations 
+2 qualitative explanation results based 
+physical arguments 3 discussion electric 
+magnetic coupling design probes differentiate 
+between them fallback rebuild position 
+students sometimes difficulty delivering 
+stated outcomes using bullet points 
+please list suitable set minimal target 
+objectives  no 1 above enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  recommendations 
+how design filter banks minimum coupling 
+between filters project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box other than 
+learning standard theory software enough 
+unique material provided expected outcomes 
+met third year beng final year design 
+project  2003/2004 project title basic 
+voice scrambler privacy student name 
+aik ng supervisor fh project specification 
+background please include general scene-setting 
+overview project  targeted non-specialist 
+voice scrambler divides speech spectrum 
+into frequency bands shifts positions 
+can implemented using time-domain operations 
+alone resulting very efficient algorithm 
+uses only about eight multiplications 
+per sample processing carried digitally 
+transmission over phone line can analog 
+scrambler implemented using processor 
+such mitsubishi 16c/62 repeats project 
+paul neumann about 12 years ago new hardware 
+available change character job completely 
+recent attempt c.p johnson left much 
+undone still lot new material covered 
+expected outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ demonstration circuit suitable lectures 
+open days built experiments carried 
+find best combination parameters optimum 
+performance further study find effective 
+number distinct keys fallback rebuild 
+position students sometimes difficulty 
+delivering stated outcomes using bullet 
+points please list suitable set minimal 
+target objectives  demonstrate proficiency 
+microprocessor inputting outputting 
+data doing some simple operations such 
+frequency shifting enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  produce hard 
+wired stand-alone circuit project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box other than 
+learning standard theory software enough 
+unique material provided expected outcomes 
+met third year beng final year design 
+project  2003/2004 project title pitch 
+trainer novice singer student name peter 
+samuel supervisor fh project specification 
+background please include general scene-setting 
+overview project  targeted non-specialist 
+filter bank consisting several bandpass 
+filters separated tone semitone can 
+used test pitch novice singer he/she 
+sings note musical scale output he/she 
+sings something tune nothing heard filter 
+bank constructed continues project 
+previous student expected outcomes 
+please include specification expected 
+outcomes project undertaken average 
+student e.g aim project design  working 
+hardware software cover least one octave 
+musical scale fallback rebuild position 
+students sometimes difficulty delivering 
+stated outcomes using bullet points 
+please list suitable set minimal target 
+objectives  working hardware cover least 
+two notes enhancement position anticipated 
+many students achieve expected outcomes 
+stated above using bullet points please 
+list suitable set achievable enhancement 
+objectives  study whether harmonics 
+voice slowly-varying pitch transient 
+notes affect circuit  use down-samplers 
+implement additional octaves scale 
+minimal increase amount code reduced 
+truncation error project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box other than 
+learning standard theory software enough 
+unique material provided expected outcomes 
+met third year beng final year design 
+project  2003/2004 project title web-based 
+data aquisition system student name 
+lai yuen kit supervisor fh project specification 
+background please include general scene-setting 
+overview project  targeted non-specialist 
+project specified entirely student 
+having failed find supervisor specializes 
+area realizes realizes use experience 
+enthusiasm lieu close supervision project 
+use embedded micro-controller ethernet 
+gather data tempeature engine speed 
+etc host web page showing data expected 
+outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ specified student fallback rebuild 
+position students sometimes difficulty 
+delivering stated outcomes using bullet 
+points please list suitable set minimal 
+target objectives  decided enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ decided project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box decided third year 
+beng final year design project  2003/2004 
+project title ethernet-based data acquisition 
+system student name lai yuen kit supervisor 
+dr f huang project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+project specified entirely student 
+having failed find supervisor specializes 
+area realizes use experience enthusiasm 
+lieu close supervision ethernet-based 
+data acquisition system device can collect 
+data one end send data via ethernet connection 
+computer/server computer/server collects 
+publishes data via web server internet 
+users able read data using web browser 
+internet connection regardless where 
+stay expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  aim project design construct 
+microcontroller-based data acquisition 
+device able communicate via ethernet 
+server/computer publish its data via 
+web server fallback rebuild position 
+students sometimes difficulty delivering 
+stated outcomes using bullet points 
+please list suitable set minimal target 
+objectives  able build data acquisition 
+system device  able demonstrate understanding 
+network protocol like tcp/ip stack enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ able recalibrate control data acquisition 
+system device via web browser  device 
+able function web server project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box 1 

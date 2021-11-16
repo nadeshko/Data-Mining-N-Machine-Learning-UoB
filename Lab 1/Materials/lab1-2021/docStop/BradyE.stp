@@ -1,0 +1,55 @@
+third year beng final year design project 
+ 2003/2004 project title wifi experimental 
+testbed student name e brady supervisor 
+ccc project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+project design implement validate peer-to-peer 
+wireless network testbed using up 20 
+pdas aim user choose various settings 
+such mac protocol metrics recorded each 
+node traffic sources routing protocol 
+finally define topology manipulating 
+available radio connectivity between 
+nodes expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  software framework following 
+implemented designed single mac layer 
+protocol can used build link state tables 
+nodes connectivity nodes can only specified 
+centralised manner master node defined 
+user simplest traffic sources e.g constant 
+bit rate just udp implemented small number 
+simple routing algorithms implemented 
+finally simple end-to-end path packet 
+loss delay measurements taken processed 
+centrally rudimentary validation testbed 
+software expected fallback rebuild 
+position students sometimes difficulty 
+delivering stated outcomes using bullet 
+points please list suitable set minimal 
+target objectives  traffic source just 
+collection ping messages  routing data 
+implemented using simplest algorithms 
+worst case through restricted flooding 
+ simple measurements reported histogram 
+form without any statistical analysis 
+being performed enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  sophisticated 
+set routing performance metrics enabled 
+nodes  connectivity can controlled decentralised 
+manner  statistical analysis various 
+measurements implemented fully  than 
+one mac layer protocol selectable testbed 
+ extensive validation testbed software 
+carried project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box  

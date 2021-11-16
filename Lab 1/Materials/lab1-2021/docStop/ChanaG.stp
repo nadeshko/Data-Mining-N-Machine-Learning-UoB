@@ -1,0 +1,57 @@
+third year beng final year design project 
+ 2003/2004 project title suppression 
+noise speech signals student name gurdeepak 
+chana supervisor peter jancovic project 
+specification background please include 
+general scene-setting overview project 
+ targeted non-specialist current speech 
+recognition systems can achieve good 
+recognition performance speech recorded 
+noise-free environment however real 
+world speech signal usually corrupted 
+various types background environmental 
+noises under noisy conditions recognition 
+performance speech recognition systems 
+usually significantly decreases project 
+aim incorporating several typical noise 
+reduction techniques into speech recognition 
+process expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  aim project develop several methods 
+noise-reduction speech signals methods 
+such spectral subtraction wiener filtering 
+should considered implementation should 
+c c language input program should wav 
+file containing raw speech samples spectral-based 
+feature parameterization input file 
+should implemented de-noised file should 
+stored methods developed should evaluated 
+passing de-noised speech signals speech 
+recognition toolbox tool provided evaluation 
+various noisy conditions should performed 
+fallback rebuild position students 
+sometimes difficulty delivering stated 
+outcomes using bullet points please 
+list suitable set minimal target objectives 
+ develop noise reduction methods matlab 
+environment  either spectral subtraction 
+wiener filtering should implemented 
+ input program could instead wav speech 
+file sequence spectral features enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ several modifications spectral subtraction 
+wiener filtering techniques should 
+developed evaluated  additional technique 
+should developed e.g wavelet-based 
+de-noising rasta filtering  project 
+uniqueness expected projects should 
+essentially unique least 80 project 
+content thus student should able meet 
+project outcomes reproducing material 
+previous project reports please confirm 
+uniqueness project placing tick adjacent 
+box 

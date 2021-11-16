@@ -1,0 +1,59 @@
+third year beng final year design project 
+ 2003/2004 project title improved recognition 
+children speech using frequency wraping 
+student name w s wong supervisor prof 
+m russell project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+speech recognition many potential applications 
+children either replacement conventional 
+input/output device key technology 
+interactive computer-based language 
+tuition systems reading pronunciation 
+language learning however speech recognition 
+error rates children's speech typically 
+much higher than those adults order develop 
+computer recognize children's speech 
+overcome least two major problems firstly 
+children don't pronounce words consistently 
+secondly smaller vocal tracts higher 
+pitch than adults project focuses second 
+problem goal design implement evaluate 
+frequency warping techniques compensate 
+acoustic effects children's smaller 
+vocal tracts expected outcomes please 
+include specification expected outcomes 
+project undertaken average student 
+e.g aim project design  major acoustic 
+consequence child's small vocal tract 
+frequency spectrum distorted relative 
+adult speech goals 1 understand differences 
+between adult child speech 2 understand 
+basic principles automatic speech recognition 
+3 design implement evaluate linear piecewise 
+linear frequency warping techniques 
+4 measure effect speech recognition 
+accuracy using recognizer trained adult 
+speech fallback rebuild position students 
+sometimes difficulty delivering stated 
+outcomes using bullet points please 
+list suitable set minimal target objectives 
+ minimal target objectives items 1 2 3 
+above enhancement position anticipated 
+many students achieve expected outcomes 
+stated above using bullet points please 
+list suitable set achievable enhancement 
+objectives  design implement evaluate 
+non-linear frequency warping techniques 
+based dynamic programming minimize 
+difference between adult children speech 
+spectrum  compare analyse result between 
+linear non-linear frequency warping 
+solving problem children speech recognition 
+project uniqueness expected projects 
+should essentially unique least 80 project 
+content thus student should able meet 
+project outcomes reproducing material 
+previous project reports please confirm 
+uniqueness project placing tick adjacent 
+box 

@@ -1,0 +1,73 @@
+third year beng final year design project 
+ 2003/2004 project title robust microcontroller 
+networks advanced automotive systems 
+student name victor okorie supervisor 
+smc project specification background 
+please include general scene-setting 
+overview project  targeted non-specialist 
+modern automotive systems incorporate 
+widely distributed intelligence form 
+networks microcontrollers intelligence 
+used increase safety performance comfort 
+some functions performed safety-critical 
+such control airbags anti-lock brakes 
+others e.g control reversing aids audio 
+equipment air conditioning less essential 
+achieve high reliability redundant 
+systems often used increasing hardware 
+costs reducing efficiency development 
+fault-tolerant systems use minimal 
+amount redundant hardware along techniques 
+detecting fault conditions identifying 
+cause then adapting system behaviour 
+order minimise loss function therefore 
+interest expected outcomes please include 
+specification expected outcomes project 
+undertaken average student e.g aim project 
+design  aim project design implement 
+evaluate microcontroller-based test 
+network consists sensor processing 
+display nodes connected such way faults 
+can detected processing responsibilities 
+redistributed allow system continue 
+operate correctly event failure some 
+component system sensor nodes capable 
+measuring physical quantity temperature 
+voltage etc communicating another node 
+display nodes simply receive information 
+display appropriately processing nodes 
+manipulate information monitor other 
+nodes control actuators within system 
+network type containing number nodes 
+each capable simulating faults e.g loss 
+communications channel should demonstrated 
+fallback rebuild position students 
+sometimes difficulty delivering stated 
+outcomes using bullet points please 
+list suitable set minimal target objectives 
+ investigate inter-processor communication 
+alternatives available constructing 
+networks based microchip pic microcontrollers 
+ investigate possible fault conditions 
+also techniques both fault detection 
+fault injection within such network 
+ demonstrate simple network consisting 
+one sensor node one display node two processing 
+nodes one should adopt responsibilities 
+other upon failure enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives  extend capabilities 
+system additional sensor types greater 
+number processing nodes larger number 
+potential faults  reduce maintenance 
+overheads collating information multiple 
+sources accurately diagnosing cause 
+faults within system project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box  

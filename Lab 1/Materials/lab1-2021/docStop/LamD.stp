@@ -1,0 +1,55 @@
+third year beng final year design project 
+ 2003/2004 project title safety emulation 
+system household appliances student 
+name d lam supervisor ajg project specification 
+background please include general scene-setting 
+overview project  targeted non-specialist 
+different appliance can differing power 
+supplies surges occurs number different 
+appliance switch same time even demands 
+power supply system intelligent agents 
+each representing household appliance 
+networked allow surges faults detected 
+well measures control machine demands 
+alert owner possible problems expected 
+outcomes please include specification 
+expected outcomes project undertaken 
+average student e.g aim project design 
+ project basic level simple centralised 
+dai system central controlling agent 
+agent communicate other agents network 
+agents these agents report problems 
+demands decision over demands determined 
+controlling agent basic deliverables 
+1 uml design 2 visual basic problem demonstrate 
+interaction between controller other 
+distributed agents 3 demonstration 
+fault one units produce suitable solution 
+fallback rebuild position students 
+sometimes difficulty delivering stated 
+outcomes using bullet points please 
+list suitable set minimal target objectives 
+ demonstration vb program can communicate 
+another vb program  information sent 
+can analysed processed make reaction 
+network vb programs  scheduling vb program 
+controlled controlling program  identification 
+information between program indicate 
+severity information application fire 
+given higher priority than application 
+requiring less power enhancement position 
+anticipated many students achieve expected 
+outcomes stated above using bullet points 
+please list suitable set achievable 
+enhancement objectives 1 understanding 
+power issues related demands placed 
+upon supply i.e mathematical 2 removal 
+centralised controller agents negotiate 
+amongst themselves 3 transference basic 
+idea complex context project uniqueness 
+expected projects should essentially 
+unique least 80 project content thus 
+student should able meet project outcomes 
+reproducing material previous project 
+reports please confirm uniqueness project 
+placing tick adjacent box 

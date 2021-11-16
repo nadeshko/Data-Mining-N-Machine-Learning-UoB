@@ -1,0 +1,61 @@
+third year beng final year design project 
+ 2003/2004 project title speech processing 
+using sinusoidal model student name 
+george pang supervisor peter jancovic 
+project specification background please 
+include general scene-setting overview 
+project  targeted non-specialist real-world 
+applications recorded speech signal 
+usually corrupted various types acoustic 
+background noise may mixture several 
+speakers number single-microphone 
+speech processing techniques proposed 
+reduce effect noise speech signal project 
+study speech-production inspired technique 
+processing speech signals specifically 
+sinusoidal model speech expected outcomes 
+please include specification expected 
+outcomes project undertaken average 
+student e.g aim project design  aim project 
+investigate develop program segregation 
+speech noise-corrupted speech signals 
+using sinusoidal-model based processing 
+program should developed c c language 
+input program waveform signal wav file 
+should processed sinusoidal-model 
+algorithm proposed 1 output estimate 
+clean speech signal several modifications 
+technique should investigated techniques 
+developed could evaluated objective 
+subjective tests employing processed 
+speech signal automatic speech recognition 
+system tool provided 1 jensen hansen 
+speech enhancement using constrained 
+iterative sinusoidal model ieee transactions 
+speech audio processing vol 9 n 7 october 
+2001 fallback rebuild position students 
+sometimes difficulty delivering stated 
+outcomes using bullet points please 
+list suitable set minimal target objectives 
+ program developed matlab environment 
+ least several steps method 1 implemented 
+one form evaluation performed enhancement 
+position anticipated many students 
+achieve expected outcomes stated above 
+using bullet points please list suitable 
+set achievable enhancement objectives 
+ comparison some other speech processing 
+techniques such spectral subtraction 
+sine-wave-model should performed  student 
+should record small database words/digits 
+spoken two three speakers talking simultaneously 
+into microphone  modify above algorithm 
+segregation individual speech signals 
+signal-mixture containing speech several 
+speakers project uniqueness expected 
+projects should essentially unique 
+least 80 project content thus student 
+should able meet project outcomes reproducing 
+material previous project reports please 
+confirm uniqueness project placing 
+tick adjacent box 
