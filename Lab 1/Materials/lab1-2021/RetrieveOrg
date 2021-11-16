@@ -1,0 +1,175 @@
+index file open
+query file open
+number of documents=112
+
+3832 112
+
+query analysis:
+===============
+
+ communication 1
+'communication' occurs 17 times in 15 documents (IDF=2.010449)
+    documentName=docOrig\AbassiM.txt, weight=2.010449, count=1
+    documentName=docOrig\ChongL.txt, weight=2.010449, count=1
+    documentName=docOrig\FooKSNEW.txt, weight=2.010449, count=1
+    documentName=docOrig\LiC.txt, weight=2.010449, count=1
+    documentName=docOrig\LoH.txt, weight=2.010449, count=1
+    documentName=docOrig\LokCY.txt, weight=4.020897, count=2
+    documentName=docOrig\MohdNasir.txt, weight=2.010449, count=1
+    documentName=docOrig\MorganC.txt, weight=4.020897, count=2
+    documentName=docOrig\OkorieV.txt, weight=2.010449, count=1
+    documentName=docOrig\PangCVA.txt, weight=2.010449, count=1
+    documentName=docOrig\PargeterA.txt, weight=2.010449, count=1
+    documentName=docOrig\SwantstonD.txt, weight=2.010449, count=1
+    documentName=docOrig\TanSMS.txt, weight=2.010449, count=1
+    documentName=docOrig\WongCY.txt, weight=2.010449, count=1
+    documentName=docOrig\YiuMLM.txt, weight=2.010449, count=1
+ and 1
+'and' occurs 1049 times in 112 documents (IDF=0.000000)
+    documentName=docOrig\AbassiM.txt, weight=0.000000, count=14
+    documentName=docOrig\AgricoleW.txt, weight=0.000000, count=11
+    documentName=docOrig\AliR.txt, weight=0.000000, count=6
+    documentName=docOrig\AngCX.txt, weight=0.000000, count=8
+    documentName=docOrig\AngeloZ.txt, weight=0.000000, count=13
+    documentName=docOrig\AppadooD.txt, weight=0.000000, count=12
+    documentName=docOrig\BenHasineA.txt, weight=0.000000, count=17
+    documentName=docOrig\BenssiN.txt, weight=0.000000, count=5
+    documentName=docOrig\BhagatR.txt, weight=0.000000, count=7
+    documentName=docOrig\BradyE.txt, weight=0.000000, count=6
+    documentName=docOrig\BriarsC.txt, weight=0.000000, count=5
+    documentName=docOrig\Broadhurst.txt, weight=0.000000, count=8
+    documentName=docOrig\BronksA.txt, weight=0.000000, count=6
+    documentName=docOrig\BrownL.txt, weight=0.000000, count=15
+    documentName=docOrig\ChanaG.txt, weight=0.000000, count=5
+    documentName=docOrig\ChanCK.txt, weight=0.000000, count=13
+    documentName=docOrig\ChanWK.txt, weight=0.000000, count=6
+    documentName=docOrig\CheangF.txt, weight=0.000000, count=7
+    documentName=docOrig\ChengLC.txt, weight=0.000000, count=3
+    documentName=docOrig\ChewCH.txt, weight=0.000000, count=7
+    documentName=docOrig\ChongJYH.txt, weight=0.000000, count=7
+    documentName=docOrig\ChongKV.txt, weight=0.000000, count=7
+    documentName=docOrig\ChongL.txt, weight=0.000000, count=11
+    documentName=docOrig\CollingsM.txt, weight=0.000000, count=8
+    documentName=docOrig\CollisC.txt, weight=0.000000, count=8
+    documentName=docOrig\DiamantopoulosG.txt, weight=0.000000, count=9
+    documentName=docOrig\DongP.txt, weight=0.000000, count=3
+    documentName=docOrig\EdwinO.txt, weight=0.000000, count=10
+    documentName=docOrig\EftekhariS.txt, weight=0.000000, count=2
+    documentName=docOrig\EvansA.txt, weight=0.000000, count=8
+    documentName=docOrig\FooKSNEW.txt, weight=0.000000, count=15
+    documentName=docOrig\Form.txt, weight=0.000000, count=8
+    documentName=docOrig\HaskellS.txt, weight=0.000000, count=9
+    documentName=docOrig\HayatB.txt, weight=0.000000, count=11
+    documentName=docOrig\HengKK.txt, weight=0.000000, count=7
+    documentName=docOrig\HicksJ.txt, weight=0.000000, count=11
+    documentName=docOrig\HoJW.txt, weight=0.000000, count=8
+    documentName=docOrig\HowlettA.txt, weight=0.000000, count=26
+    documentName=docOrig\HughesP.txt, weight=0.000000, count=11
+    documentName=docOrig\JavaidMT.txt, weight=0.000000, count=14
+    documentName=docOrig\JiangS.txt, weight=0.000000, count=6
+    documentName=docOrig\JohalS.txt, weight=0.000000, count=15
+    documentName=docOrig\KallayT.txt, weight=0.000000, count=13
+    documentName=docOrig\KhanS.txt, weight=0.000000, count=6
+    documentName=docOrig\KhayumM.txt, weight=0.000000, count=8
+    documentName=docOrig\KijakM.txt, weight=0.000000, count=7
+    documentName=docOrig\KoL.txt, weight=0.000000, count=12
+    documentName=docOrig\KupusamyS.txt, weight=0.000000, count=6
+    documentName=docOrig\LaiYK.txt, weight=0.000000, count=8
+    documentName=docOrig\LamC.txt, weight=0.000000, count=7
+    documentName=docOrig\LamD.txt, weight=0.000000, count=6
+    documentName=docOrig\LauEWF.txt, weight=0.000000, count=10
+    documentName=docOrig\LeongJ.txt, weight=0.000000, count=8
+    documentName=docOrig\LiC.txt, weight=0.000000, count=11
+    documentName=docOrig\LimCL.txt, weight=0.000000, count=6
+    documentName=docOrig\LimSL.txt, weight=0.000000, count=12
+    documentName=docOrig\LimS.txt, weight=0.000000, count=10
+    documentName=docOrig\LingLH.txt, weight=0.000000, count=4
+    documentName=docOrig\LoH.txt, weight=0.000000, count=12
+    documentName=docOrig\LokCY.txt, weight=0.000000, count=12
+    documentName=docOrig\LoV.txt, weight=0.000000, count=5
+    documentName=docOrig\McCardleR.txt, weight=0.000000, count=14
+    documentName=docOrig\McKayM.txt, weight=0.000000, count=6
+    documentName=docOrig\MohdNasir.txt, weight=0.000000, count=9
+    documentName=docOrig\MohdSarit.txt, weight=0.000000, count=8
+    documentName=docOrig\MoN.txt, weight=0.000000, count=12
+    documentName=docOrig\MorganC.txt, weight=0.000000, count=9
+    documentName=docOrig\MurrianR.txt, weight=0.000000, count=11
+    documentName=docOrig\NelsonJ.txt, weight=0.000000, count=11
+    documentName=docOrig\NgTA.txt, weight=0.000000, count=7
+    documentName=docOrig\NgWC.txt, weight=0.000000, count=5
+    documentName=docOrig\NyagoA.txt, weight=0.000000, count=11
+    documentName=docOrig\OkorieV.txt, weight=0.000000, count=16
+    documentName=docOrig\OlomofeO.txt, weight=0.000000, count=6
+    documentName=docOrig\PalmerG.txt, weight=0.000000, count=10
+    documentName=docOrig\PangCVA.txt, weight=0.000000, count=7
+    documentName=docOrig\PangG.txt, weight=0.000000, count=7
+    documentName=docOrig\PargeterA.txt, weight=0.000000, count=11
+    documentName=docOrig\PonsamritN.txt, weight=0.000000, count=14
+    documentName=docOrig\PopadapoulosK.txt, weight=0.000000, count=16
+    documentName=docOrig\RajaI.txt, weight=0.000000, count=9
+    documentName=docOrig\RobertsonA.txt, weight=0.000000, count=13
+    documentName=docOrig\RobertsSM.txt, weight=0.000000, count=8
+    documentName=docOrig\RossiterJ.txt, weight=0.000000, count=14
+    documentName=docOrig\SamuelPNEW.txt, weight=0.000000, count=6
+    documentName=docOrig\SamuelP.txt, weight=0.000000, count=11
+    documentName=docOrig\SchutzP.txt, weight=0.000000, count=8
+    documentName=docOrig\ShahJ.txt, weight=0.000000, count=8
+    documentName=docOrig\SodenJ.txt, weight=0.000000, count=8
+    documentName=docOrig\SoonV.txt, weight=0.000000, count=5
+    documentName=docOrig\specification-Lam.txt, weight=0.000000, count=7
+    documentName=docOrig\SriskandarajahA.txt, weight=0.000000, count=9
+    documentName=docOrig\SwantstonD.txt, weight=0.000000, count=7
+    documentName=docOrig\TanPSN.txt, weight=0.000000, count=7
+    documentName=docOrig\TanSMS.txt, weight=0.000000, count=10
+    documentName=docOrig\TiongY.txt, weight=0.000000, count=13
+    documentName=docOrig\TngL.txt, weight=0.000000, count=9
+    documentName=docOrig\TohTS.txt, weight=0.000000, count=10
+    documentName=docOrig\TomlinsonM.txt, weight=0.000000, count=10
+    documentName=docOrig\TowersL.txt, weight=0.000000, count=7
+    documentName=docOrig\TsangB.txt, weight=0.000000, count=7
+    documentName=docOrig\WangMY.txt, weight=0.000000, count=9
+    documentName=docOrig\WangWS.txt, weight=0.000000, count=8
+    documentName=docOrig\WangW.txt, weight=0.000000, count=8
+    documentName=docOrig\WilliamsJ.txt, weight=0.000000, count=5
+    documentName=docOrig\WongCY.txt, weight=0.000000, count=8
+    documentName=docOrig\WongK.txt, weight=0.000000, count=6
+    documentName=docOrig\WongWS.txt, weight=0.000000, count=12
+    documentName=docOrig\YaseenU.txt, weight=0.000000, count=2
+    documentName=docOrig\YeapKS.txt, weight=0.000000, count=7
+    documentName=docOrig\YiuMLM.txt, weight=0.000000, count=12
+    documentName=docOrig\ZhangJ.txt, weight=0.000000, count=45
+ networks 1
+'networks' occurs 15 times in 8 documents (IDF=2.639057)
+    documentName=docOrig\BenssiN.txt, weight=2.639057, count=1
+    documentName=docOrig\LiC.txt, weight=2.639057, count=1
+    documentName=docOrig\LingLH.txt, weight=5.278115, count=2
+    documentName=docOrig\LoH.txt, weight=2.639057, count=1
+    documentName=docOrig\LokCY.txt, weight=2.639057, count=1
+    documentName=docOrig\OkorieV.txt, weight=7.917172, count=3
+    documentName=docOrig\TomlinsonM.txt, weight=13.195287, count=5
+    documentName=docOrig\YeapKS.txt, weight=2.639057, count=1
+
+Results (documents with similarity > 0)
+======================================
+
+document=docOrig\AbassiM.txt sim=0.016754
+document=docOrig\BenssiN.txt sim=0.048885
+document=docOrig\ChongL.txt sim=0.019179
+document=docOrig\FooKSNEW.txt sim=0.022967
+document=docOrig\LiC.txt sim=0.061421
+document=docOrig\LingLH.txt sim=0.094402
+document=docOrig\LoH.txt sim=0.048717
+document=docOrig\LokCY.txt sim=0.074380
+document=docOrig\MohdNasir.txt sim=0.020741
+document=docOrig\MorganC.txt sim=0.052388
+document=docOrig\OkorieV.txt sim=0.120675
+document=docOrig\PangCVA.txt sim=0.029406
+document=docOrig\PargeterA.txt sim=0.018981
+document=docOrig\SwantstonD.txt sim=0.023945
+document=docOrig\TanSMS.txt sim=0.025166
+document=docOrig\TomlinsonM.txt sim=0.152037
+document=docOrig\WongCY.txt sim=0.019549
+document=docOrig\YeapKS.txt sim=0.039859
+document=docOrig\YiuMLM.txt sim=0.019832
+
+ Best document is docOrig\TomlinsonM.txt (0.152037)

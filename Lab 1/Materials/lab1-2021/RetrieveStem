@@ -1,0 +1,109 @@
+index file open
+query file open
+number of documents=112
+
+2743 112
+
+query analysis:
+===============
+
+ commun 1
+'commun' occurs 43 times in 28 documents (IDF=1.386294)
+    documentName=docStem\AbassiM.stm, weight=1.386294, count=1
+    documentName=docStem\AgricoleW.stm, weight=1.386294, count=1
+    documentName=docStem\AngCX.stm, weight=1.386294, count=1
+    documentName=docStem\AngeloZ.stm, weight=1.386294, count=1
+    documentName=docStem\AppadooD.stm, weight=1.386294, count=1
+    documentName=docStem\BenssiN.stm, weight=4.158883, count=3
+    documentName=docStem\BronksA.stm, weight=1.386294, count=1
+    documentName=docStem\ChongL.stm, weight=2.772589, count=2
+    documentName=docStem\FooKSNEW.stm, weight=1.386294, count=1
+    documentName=docStem\Form.stm, weight=1.386294, count=1
+    documentName=docStem\LaiYK.stm, weight=1.386294, count=1
+    documentName=docStem\LamD.stm, weight=2.772589, count=2
+    documentName=docStem\LiC.stm, weight=1.386294, count=1
+    documentName=docStem\LoH.stm, weight=1.386294, count=1
+    documentName=docStem\LokCY.stm, weight=2.772589, count=2
+    documentName=docStem\MohdNasir.stm, weight=8.317766, count=6
+    documentName=docStem\MorganC.stm, weight=4.158883, count=3
+    documentName=docStem\OkorieV.stm, weight=4.158883, count=3
+    documentName=docStem\PangCVA.stm, weight=1.386294, count=1
+    documentName=docStem\PargeterA.stm, weight=1.386294, count=1
+    documentName=docStem\RobertsonA.stm, weight=1.386294, count=1
+    documentName=docStem\SamuelP.stm, weight=1.386294, count=1
+    documentName=docStem\SoonV.stm, weight=1.386294, count=1
+    documentName=docStem\SwantstonD.stm, weight=1.386294, count=1
+    documentName=docStem\TanSMS.stm, weight=2.772589, count=2
+    documentName=docStem\WongCY.stm, weight=1.386294, count=1
+    documentName=docStem\YiuMLM.stm, weight=1.386294, count=1
+    documentName=docStem\ZhangJ.stm, weight=1.386294, count=1
+ network 1
+'network' occurs 71 times in 24 documents (IDF=1.540445)
+    documentName=docStem\AbassiM.stm, weight=15.404449, count=10
+    documentName=docStem\AngCX.stm, weight=1.540445, count=1
+    documentName=docStem\BenssiN.stm, weight=7.702225, count=5
+    documentName=docStem\BradyE.stm, weight=1.540445, count=1
+    documentName=docStem\BrownL.stm, weight=1.540445, count=1
+    documentName=docStem\CollingsM.stm, weight=1.540445, count=1
+    documentName=docStem\CollisC.stm, weight=1.540445, count=1
+    documentName=docStem\Form.stm, weight=1.540445, count=1
+    documentName=docStem\HengKK.stm, weight=1.540445, count=1
+    documentName=docStem\JavaidMT.stm, weight=3.080890, count=2
+    documentName=docStem\LaiYK.stm, weight=1.540445, count=1
+    documentName=docStem\LamD.stm, weight=4.621335, count=3
+    documentName=docStem\LiC.stm, weight=3.080890, count=2
+    documentName=docStem\LingLH.stm, weight=7.702225, count=5
+    documentName=docStem\LoH.stm, weight=1.540445, count=1
+    documentName=docStem\LokCY.stm, weight=3.080890, count=2
+    documentName=docStem\OkorieV.stm, weight=10.783114, count=7
+    documentName=docStem\PargeterA.stm, weight=1.540445, count=1
+    documentName=docStem\RossiterJ.stm, weight=4.621335, count=3
+    documentName=docStem\SwantstonD.stm, weight=1.540445, count=1
+    documentName=docStem\TomlinsonM.stm, weight=10.783114, count=7
+    documentName=docStem\YeapKS.stm, weight=1.540445, count=1
+    documentName=docStem\YiuMLM.stm, weight=18.485340, count=12
+    documentName=docStem\ZhangJ.stm, weight=1.540445, count=1
+
+Results (documents with similarity > 0)
+======================================
+
+document=docStem\AbassiM.stm sim=0.172141
+document=docStem\AgricoleW.stm sim=0.019636
+document=docStem\AngCX.stm sim=0.050465
+document=docStem\AngeloZ.stm sim=0.014907
+document=docStem\AppadooD.stm sim=0.026231
+document=docStem\BenssiN.stm sim=0.225530
+document=docStem\BradyE.stm sim=0.021413
+document=docStem\BronksA.stm sim=0.018673
+document=docStem\BrownL.stm sim=0.022337
+document=docStem\ChongL.stm sim=0.030369
+document=docStem\CollingsM.stm sim=0.022151
+document=docStem\CollisC.stm sim=0.021751
+document=docStem\FooKSNEW.stm sim=0.018913
+document=docStem\Form.stm sim=0.050465
+document=docStem\HengKK.stm sim=0.025554
+document=docStem\JavaidMT.stm sim=0.045734
+document=docStem\LaiYK.stm sim=0.050908
+document=docStem\LamD.stm sim=0.083093
+document=docStem\LiC.stm sim=0.060185
+document=docStem\LingLH.stm sim=0.132139
+document=docStem\LoH.stm sim=0.030193
+document=docStem\LokCY.stm sim=0.068333
+document=docStem\MohdNasir.stm sim=0.100123
+document=docStem\MorganC.stm sim=0.063425
+document=docStem\OkorieV.stm sim=0.167352
+document=docStem\PangCVA.stm sim=0.023143
+document=docStem\PargeterA.stm sim=0.032368
+document=docStem\RobertsonA.stm sim=0.018977
+document=docStem\RossiterJ.stm sim=0.048369
+document=docStem\SamuelP.stm sim=0.017612
+document=docStem\SoonV.stm sim=0.016974
+document=docStem\SwantstonD.stm sim=0.045918
+document=docStem\TanSMS.stm sim=0.038453
+document=docStem\TomlinsonM.stm sim=0.120187
+document=docStem\WongCY.stm sim=0.015036
+document=docStem\YeapKS.stm sim=0.023151
+document=docStem\YiuMLM.stm sim=0.261187
+document=docStem\ZhangJ.stm sim=0.018600
+
+ Best document is docStem\YiuMLM.stm (0.261187)

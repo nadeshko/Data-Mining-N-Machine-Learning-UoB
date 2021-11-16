@@ -1,0 +1,61 @@
+index file open
+query file open
+number of documents=112
+
+3786 112
+
+query analysis:
+===============
+
+ communication 1
+'communication' occurs 17 times in 15 documents (IDF=2.010449)
+    documentName=docStop\AbassiM.stp, weight=2.010449, count=1
+    documentName=docStop\ChongL.stp, weight=2.010449, count=1
+    documentName=docStop\FooKSNEW.stp, weight=2.010449, count=1
+    documentName=docStop\LiC.stp, weight=2.010449, count=1
+    documentName=docStop\LoH.stp, weight=2.010449, count=1
+    documentName=docStop\LokCY.stp, weight=4.020897, count=2
+    documentName=docStop\MohdNasir.stp, weight=2.010449, count=1
+    documentName=docStop\MorganC.stp, weight=4.020897, count=2
+    documentName=docStop\OkorieV.stp, weight=2.010449, count=1
+    documentName=docStop\PangCVA.stp, weight=2.010449, count=1
+    documentName=docStop\PargeterA.stp, weight=2.010449, count=1
+    documentName=docStop\SwantstonD.stp, weight=2.010449, count=1
+    documentName=docStop\TanSMS.stp, weight=2.010449, count=1
+    documentName=docStop\WongCY.stp, weight=2.010449, count=1
+    documentName=docStop\YiuMLM.stp, weight=2.010449, count=1
+ networks 1
+'networks' occurs 15 times in 8 documents (IDF=2.639057)
+    documentName=docStop\BenssiN.stp, weight=2.639057, count=1
+    documentName=docStop\LiC.stp, weight=2.639057, count=1
+    documentName=docStop\LingLH.stp, weight=5.278115, count=2
+    documentName=docStop\LoH.stp, weight=2.639057, count=1
+    documentName=docStop\LokCY.stp, weight=2.639057, count=1
+    documentName=docStop\OkorieV.stp, weight=7.917172, count=3
+    documentName=docStop\TomlinsonM.stp, weight=13.195287, count=5
+    documentName=docStop\YeapKS.stp, weight=2.639057, count=1
+
+Results (documents with similarity > 0)
+======================================
+
+document=docStop\AbassiM.stp sim=0.016764
+document=docStop\BenssiN.stp sim=0.048919
+document=docStop\ChongL.stp sim=0.019649
+document=docStop\FooKSNEW.stp sim=0.023033
+document=docStop\LiC.stp sim=0.061477
+document=docStop\LingLH.stp sim=0.094415
+document=docStop\LoH.stp sim=0.048907
+document=docStop\LokCY.stp sim=0.074484
+document=docStop\MohdNasir.stp sim=0.020763
+document=docStop\MorganC.stp sim=0.052420
+document=docStop\OkorieV.stp sim=0.121015
+document=docStop\PangCVA.stp sim=0.029507
+document=docStop\PargeterA.stp sim=0.019015
+document=docStop\SwantstonD.stp sim=0.024513
+document=docStop\TanSMS.stp sim=0.025228
+document=docStop\TomlinsonM.stp sim=0.152309
+document=docStop\WongCY.stp sim=0.019629
+document=docStop\YeapKS.stp sim=0.039865
+document=docStop\YiuMLM.stp sim=0.019848
+
+ Best document is docStop\TomlinsonM.stp (0.152309)
