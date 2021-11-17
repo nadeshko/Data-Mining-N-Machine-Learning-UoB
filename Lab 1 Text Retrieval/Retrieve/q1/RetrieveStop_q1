@@ -1,0 +1,29 @@
+index file open
+query file open
+number of documents=112
+
+3786 112
+
+query analysis:
+===============
+
+ computers 1
+'computers' occurs 5 times in 5 documents (IDF=3.109061)
+    documentName=docStop\ChewCH.stp, weight=3.109061, count=1
+    documentName=docStop\ChongL.stp, weight=3.109061, count=1
+    documentName=docStop\KoL.stp, weight=3.109061, count=1
+    documentName=docStop\RobertsSM.stp, weight=3.109061, count=1
+    documentName=docStop\RossiterJ.stp, weight=3.109061, count=1
+ laptops 1
+'laptops' not in the index
+
+Results (documents with similarity > 0)
+======================================
+
+document=docStop\ChewCH.stp sim=0.057429
+document=docStop\ChongL.stp sim=0.050143
+document=docStop\KoL.stp sim=0.041402
+document=docStop\RobertsSM.stp sim=0.077285
+document=docStop\RossiterJ.stp sim=0.041464
+
+ Best document is docStop\RobertsSM.stp (0.077285)

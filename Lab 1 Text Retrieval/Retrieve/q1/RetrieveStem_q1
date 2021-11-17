@@ -1,0 +1,65 @@
+index file open
+query file open
+number of documents=112
+
+2743 112
+
+query analysis:
+===============
+
+ comput 1
+'comput' occurs 41 times in 23 documents (IDF=1.583005)
+    documentName=docStem\BenHasineA.stm, weight=1.583005, count=1
+    documentName=docStem\BhagatR.stm, weight=3.166009, count=2
+    documentName=docStem\ChewCH.stm, weight=1.583005, count=1
+    documentName=docStem\ChongL.stm, weight=3.166009, count=2
+    documentName=docStem\CollingsM.stm, weight=4.749014, count=3
+    documentName=docStem\DiamantopoulosG.stm, weight=1.583005, count=1
+    documentName=docStem\FooKSNEW.stm, weight=1.583005, count=1
+    documentName=docStem\HaskellS.stm, weight=4.749014, count=3
+    documentName=docStem\HicksJ.stm, weight=1.583005, count=1
+    documentName=docStem\JohalS.stm, weight=3.166009, count=2
+    documentName=docStem\KhanS.stm, weight=1.583005, count=1
+    documentName=docStem\KoL.stm, weight=1.583005, count=1
+    documentName=docStem\KupusamyS.stm, weight=3.166009, count=2
+    documentName=docStem\MohdSarit.stm, weight=6.332018, count=4
+    documentName=docStem\NyagoA.stm, weight=1.583005, count=1
+    documentName=docStem\PargeterA.stm, weight=1.583005, count=1
+    documentName=docStem\RobertsSM.stm, weight=3.166009, count=2
+    documentName=docStem\RossiterJ.stm, weight=11.081032, count=7
+    documentName=docStem\SamuelP.stm, weight=1.583005, count=1
+    documentName=docStem\SriskandarajahA.stm, weight=1.583005, count=1
+    documentName=docStem\TohTS.stm, weight=1.583005, count=1
+    documentName=docStem\WongWS.stm, weight=1.583005, count=1
+    documentName=docStem\ZhangJ.stm, weight=1.583005, count=1
+ laptop 1
+'laptop' not in the index
+
+Results (documents with similarity > 0)
+======================================
+
+document=docStem\BenHasineA.stm sim=0.026962
+document=docStem\BhagatR.stm sim=0.088979
+document=docStem\ChewCH.stm sim=0.031174
+document=docStem\ChongL.stm sim=0.051841
+document=docStem\CollingsM.stm sim=0.091871
+document=docStem\DiamantopoulosG.stm sim=0.025124
+document=docStem\FooKSNEW.stm sim=0.032284
+document=docStem\HaskellS.stm sim=0.104459
+document=docStem\HicksJ.stm sim=0.026940
+document=docStem\JohalS.stm sim=0.049684
+document=docStem\KhanS.stm sim=0.036381
+document=docStem\KoL.stm sim=0.022168
+document=docStem\KupusamyS.stm sim=0.065563
+document=docStem\MohdSarit.stm sim=0.113491
+document=docStem\NyagoA.stm sim=0.025872
+document=docStem\PargeterA.stm sim=0.024725
+document=docStem\RobertsSM.stm sim=0.082864
+document=docStem\RossiterJ.stm sim=0.156027
+document=docStem\SamuelP.stm sim=0.030064
+document=docStem\SriskandarajahA.stm sim=0.038713
+document=docStem\TohTS.stm sim=0.047138
+document=docStem\WongWS.stm sim=0.025928
+document=docStem\ZhangJ.stm sim=0.014208
+
+ Best document is docStem\RossiterJ.stm (0.156027)

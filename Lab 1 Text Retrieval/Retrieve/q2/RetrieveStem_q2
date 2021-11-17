@@ -1,0 +1,84 @@
+index file open
+query file open
+number of documents=112
+
+2743 112
+
+query analysis:
+===============
+
+ digit 1
+'digit' occurs 16 times in 10 documents (IDF=2.415914)
+    documentName=docStem\AppadooD.stm, weight=2.415914, count=1
+    documentName=docStem\BriarsC.stm, weight=2.415914, count=1
+    documentName=docStem\LimSL.stm, weight=2.415914, count=1
+    documentName=docStem\MurrianR.stm, weight=2.415914, count=1
+    documentName=docStem\NgTA.stm, weight=2.415914, count=1
+    documentName=docStem\NyagoA.stm, weight=16.911396, count=7
+    documentName=docStem\RossiterJ.stm, weight=2.415914, count=1
+    documentName=docStem\WangMY.stm, weight=2.415914, count=1
+    documentName=docStem\YeapKS.stm, weight=2.415914, count=1
+    documentName=docStem\ZhangJ.stm, weight=2.415914, count=1
+ technolog 1
+'technolog' occurs 30 times in 18 documents (IDF=1.828127)
+    documentName=docStem\AppadooD.stm, weight=3.656254, count=2
+    documentName=docStem\BronksA.stm, weight=1.828127, count=1
+    documentName=docStem\ChanCK.stm, weight=3.656254, count=2
+    documentName=docStem\ChongL.stm, weight=5.484382, count=3
+    documentName=docStem\CollingsM.stm, weight=1.828127, count=1
+    documentName=docStem\CollisC.stm, weight=1.828127, count=1
+    documentName=docStem\DongP.stm, weight=1.828127, count=1
+    documentName=docStem\HayatB.stm, weight=1.828127, count=1
+    documentName=docStem\HengKK.stm, weight=1.828127, count=1
+    documentName=docStem\HughesP.stm, weight=3.656254, count=2
+    documentName=docStem\LimSL.stm, weight=1.828127, count=1
+    documentName=docStem\LingLH.stm, weight=1.828127, count=1
+    documentName=docStem\LokCY.stm, weight=1.828127, count=1
+    documentName=docStem\McCardleR.stm, weight=1.828127, count=1
+    documentName=docStem\MorganC.stm, weight=10.968763, count=6
+    documentName=docStem\NelsonJ.stm, weight=1.828127, count=1
+    documentName=docStem\WongWS.stm, weight=1.828127, count=1
+    documentName=docStem\YiuMLM.stm, weight=5.484382, count=3
+ best 1
+'best' occurs 6 times in 6 documents (IDF=2.926739)
+    documentName=docStem\BronksA.stm, weight=2.926739, count=1
+    documentName=docStem\KijakM.stm, weight=2.926739, count=1
+    documentName=docStem\LamC.stm, weight=2.926739, count=1
+    documentName=docStem\NgTA.stm, weight=2.926739, count=1
+    documentName=docStem\specification-Lam.stm, weight=2.926739, count=1
+    documentName=docStem\ZhangJ.stm, weight=2.926739, count=1
+
+Results (documents with similarity > 0)
+======================================
+
+document=docStem\AppadooD.stm sim=0.084075
+document=docStem\BriarsC.stm sim=0.025538
+document=docStem\BronksA.stm sim=0.056921
+document=docStem\ChanCK.stm sim=0.027202
+document=docStem\ChongL.stm sim=0.038973
+document=docStem\CollingsM.stm sim=0.015348
+document=docStem\CollisC.stm sim=0.015071
+document=docStem\DongP.stm sim=0.019566
+document=docStem\HayatB.stm sim=0.011767
+document=docStem\HengKK.stm sim=0.017706
+document=docStem\HughesP.stm sim=0.022796
+document=docStem\KijakM.stm sim=0.067919
+document=docStem\LamC.stm sim=0.024798
+document=docStem\LimSL.stm sim=0.059164
+document=docStem\LingLH.stm sim=0.018311
+document=docStem\LokCY.stm sim=0.013080
+document=docStem\McCardleR.stm sim=0.016901
+document=docStem\MorganC.stm sim=0.108525
+document=docStem\MurrianR.stm sim=0.029561
+document=docStem\NelsonJ.stm sim=0.015262
+document=docStem\NgTA.stm sim=0.104382
+document=docStem\NyagoA.stm sim=0.158520
+document=docStem\RossiterJ.stm sim=0.019510
+document=docStem\specification-Lam.stm sim=0.024798
+document=docStem\WangMY.stm sim=0.022962
+document=docStem\WongWS.stm sim=0.012995
+document=docStem\YeapKS.stm sim=0.028014
+document=docStem\YiuMLM.stm sim=0.042383
+document=docStem\ZhangJ.stm sim=0.030686
+
+ Best document is docStem\NyagoA.stm (0.158520)

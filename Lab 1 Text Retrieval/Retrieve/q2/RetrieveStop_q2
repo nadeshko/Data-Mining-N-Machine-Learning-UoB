@@ -1,0 +1,71 @@
+index file open
+query file open
+number of documents=112
+
+3786 112
+
+query analysis:
+===============
+
+ digital 1
+'digital' occurs 13 times in 7 documents (IDF=2.772589)
+    documentName=docStop\AppadooD.stp, weight=2.772589, count=1
+    documentName=docStop\BriarsC.stp, weight=2.772589, count=1
+    documentName=docStop\LimSL.stp, weight=2.772589, count=1
+    documentName=docStop\MurrianR.stp, weight=2.772589, count=1
+    documentName=docStop\NyagoA.stp, weight=19.408121, count=7
+    documentName=docStop\RossiterJ.stp, weight=2.772589, count=1
+    documentName=docStop\YeapKS.stp, weight=2.772589, count=1
+ technology 1
+'technology' occurs 20 times in 13 documents (IDF=2.153550)
+    documentName=docStop\AppadooD.stp, weight=4.307099, count=2
+    documentName=docStop\ChongL.stp, weight=4.307099, count=2
+    documentName=docStop\DongP.stp, weight=2.153550, count=1
+    documentName=docStop\HayatB.stp, weight=2.153550, count=1
+    documentName=docStop\HughesP.stp, weight=2.153550, count=1
+    documentName=docStop\LimSL.stp, weight=2.153550, count=1
+    documentName=docStop\LingLH.stp, weight=2.153550, count=1
+    documentName=docStop\LokCY.stp, weight=2.153550, count=1
+    documentName=docStop\McCardleR.stp, weight=2.153550, count=1
+    documentName=docStop\MorganC.stp, weight=12.921298, count=6
+    documentName=docStop\NelsonJ.stp, weight=2.153550, count=1
+    documentName=docStop\WongWS.stp, weight=2.153550, count=1
+    documentName=docStop\YiuMLM.stp, weight=2.153550, count=1
+ best 1
+'best' occurs 6 times in 6 documents (IDF=2.926739)
+    documentName=docStop\BronksA.stp, weight=2.926739, count=1
+    documentName=docStop\KijakM.stp, weight=2.926739, count=1
+    documentName=docStop\LamC.stp, weight=2.926739, count=1
+    documentName=docStop\NgTA.stp, weight=2.926739, count=1
+    documentName=docStop\specification-Lam.stp, weight=2.926739, count=1
+    documentName=docStop\ZhangJ.stp, weight=2.926739, count=1
+
+Results (documents with similarity > 0)
+======================================
+
+document=docStop\AppadooD.stp sim=0.097030
+document=docStop\BriarsC.stp sim=0.030309
+document=docStop\BronksA.stp sim=0.035834
+document=docStop\ChongL.stp sim=0.032730
+document=docStop\DongP.stp sim=0.023935
+document=docStop\HayatB.stp sim=0.014629
+document=docStop\HughesP.stp sim=0.013509
+document=docStop\KijakM.stp sim=0.060615
+document=docStop\LamC.stp sim=0.023894
+document=docStop\LimSL.stp sim=0.070693
+document=docStop\LingLH.stp sim=0.022818
+document=docStop\LokCY.stp sim=0.016662
+document=docStop\McCardleR.stp sim=0.019783
+document=docStop\MorganC.stp sim=0.130975
+document=docStop\MurrianR.stp sim=0.033566
+document=docStop\NelsonJ.stp sim=0.017964
+document=docStop\NgTA.stp sim=0.052052
+document=docStop\NyagoA.stp sim=0.176783
+document=docStop\RossiterJ.stp sim=0.022430
+document=docStop\specification-Lam.stp sim=0.023894
+document=docStop\WongWS.stp sim=0.016592
+document=docStop\YeapKS.stp sim=0.031938
+document=docStop\YiuMLM.stp sim=0.016531
+document=docStop\ZhangJ.stp sim=0.016454
+
+ Best document is docStop\NyagoA.stp (0.176783)
