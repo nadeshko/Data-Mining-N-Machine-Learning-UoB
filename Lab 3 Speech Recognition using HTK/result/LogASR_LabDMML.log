@@ -1,0 +1,445 @@
+Coding data
+Coding complete
+Training...
+Seed Hmm succesfully produced
+CREATING SILENCE MODEL
+Iteration Number 1
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+#                 NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+#                 ACCWINDOW                      0
+#                 DELTAWINDOW                    0
+#                 TARGETKIND            MFCC_E_D_A
+
+Pruning-On[250.0 150.0 1000.0]
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+                  NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+                  ACCWINDOW                      0
+                  DELTAWINDOW                    0
+                  TARGETKIND            MFCC_E_D_A
+
+Iteration Number 2
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+#                 NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+#                 ACCWINDOW                      0
+#                 DELTAWINDOW                    0
+#                 TARGETKIND            MFCC_E_D_A
+
+Pruning-On[250.0 150.0 1000.0]
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+                  NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+                  ACCWINDOW                      0
+                  DELTAWINDOW                    0
+                  TARGETKIND            MFCC_E_D_A
+
+Iteration Number 3
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+#                 NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+#                 ACCWINDOW                      0
+#                 DELTAWINDOW                    0
+#                 TARGETKIND            MFCC_E_D_A
+
+Pruning-On[250.0 150.0 1000.0]
+
+HTK Configuration Parameters[5]
+  Module/Tool     Parameter                  Value
+                  NATURALREADORDER              TRUE
+# HNET            TRACE                          2
+                  ACCWINDOW                      0
+                  DELTAWINDOW                    0
+                  TARGETKIND            MFCC_E_D_A
+
+3 Iterations completed
+U:\Year4\LabASR\hmmsTrained\hmm3\macros
+U:\Year4\LabASR\hmmsTrained\hmm3\models
+        2 file(s) copied.
+HHEd
+ 13/13 Models Loaded [10 states max, 1 mixes max]
+
+TI silst {}
+ Tie items
+
+Saving new HMM files ...
+Edit Complete
+SP model fixed
+Pruning-Off
+Pruning-Off
+Pruning-Off
+6 Iterations completed
+HHEd
+ 13/13 Models Loaded [10 states max, 1 mixes max]
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 81.882629, Std Dev GC = 13.387690
+           one : mixup 1 -> 2
+           one : mixup 1 -> 2
+           one : mixup 1 -> 2
+           one : mixup 1 -> 2
+           one : mixup 1 -> 2
+           one : mixup 1 -> 2
+           one : mixup 1 -> 2
+           one : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.099525, Std Dev GC = 12.983027
+           two : mixup 1 -> 2
+           two : mixup 1 -> 2
+           two : mixup 1 -> 2
+           two : mixup 1 -> 2
+           two : mixup 1 -> 2
+           two : mixup 1 -> 2
+           two : mixup 1 -> 2
+           two : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.365730, Std Dev GC = 12.874077
+         three : mixup 1 -> 2
+         three : mixup 1 -> 2
+         three : mixup 1 -> 2
+         three : mixup 1 -> 2
+         three : mixup 1 -> 2
+         three : mixup 1 -> 2
+         three : mixup 1 -> 2
+         three : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.484970, Std Dev GC = 12.647159
+          four : mixup 1 -> 2
+          four : mixup 1 -> 2
+          four : mixup 1 -> 2
+          four : mixup 1 -> 2
+          four : mixup 1 -> 2
+          four : mixup 1 -> 2
+          four : mixup 1 -> 2
+          four : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.620796, Std Dev GC = 12.535214
+          five : mixup 1 -> 2
+          five : mixup 1 -> 2
+          five : mixup 1 -> 2
+          five : mixup 1 -> 2
+          five : mixup 1 -> 2
+          five : mixup 1 -> 2
+          five : mixup 1 -> 2
+          five : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.125847, Std Dev GC = 13.047735
+           six : mixup 1 -> 2
+           six : mixup 1 -> 2
+           six : mixup 1 -> 2
+           six : mixup 1 -> 2
+           six : mixup 1 -> 2
+           six : mixup 1 -> 2
+           six : mixup 1 -> 2
+           six : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.428078, Std Dev GC = 12.983557
+         seven : mixup 1 -> 2
+         seven : mixup 1 -> 2
+         seven : mixup 1 -> 2
+         seven : mixup 1 -> 2
+         seven : mixup 1 -> 2
+         seven : mixup 1 -> 2
+         seven : mixup 1 -> 2
+         seven : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.440147, Std Dev GC = 12.778739
+         eight : mixup 1 -> 2
+         eight : mixup 1 -> 2
+         eight : mixup 1 -> 2
+         eight : mixup 1 -> 2
+         eight : mixup 1 -> 2
+         eight : mixup 1 -> 2
+         eight : mixup 1 -> 2
+         eight : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.362350, Std Dev GC = 12.868396
+          nine : mixup 1 -> 2
+          nine : mixup 1 -> 2
+          nine : mixup 1 -> 2
+          nine : mixup 1 -> 2
+          nine : mixup 1 -> 2
+          nine : mixup 1 -> 2
+          nine : mixup 1 -> 2
+          nine : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.233780, Std Dev GC = 13.126696
+            oh : mixup 1 -> 2
+            oh : mixup 1 -> 2
+            oh : mixup 1 -> 2
+            oh : mixup 1 -> 2
+            oh : mixup 1 -> 2
+            oh : mixup 1 -> 2
+            oh : mixup 1 -> 2
+            oh : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.294167, Std Dev GC = 13.360873
+          zero : mixup 1 -> 2
+          zero : mixup 1 -> 2
+          zero : mixup 1 -> 2
+          zero : mixup 1 -> 2
+          zero : mixup 1 -> 2
+          zero : mixup 1 -> 2
+          zero : mixup 1 -> 2
+          zero : mixup 1 -> 2
+ MU: Number of mixes increased from 8 to 16
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 82.206436, Std Dev GC = 13.217829
+           sil : mixup 1 -> 2
+           sil : mixup 1 -> 2
+           sil : mixup 1 -> 2
+ MU: Number of mixes increased from 3 to 6
+
+MU 2 {}
+ Mixup to 2 components per stream
+  Mean GC = 81.882629, Std Dev GC = 13.387690
+            sp : mixup 2 -> 2
+ MU: Number of mixes increased from 2 to 2
+
+Saving new HMM files ...
+Edit Complete
+2 Gaussians per mixture created
+Pruning-Off
+Pruning-Off
+Pruning-Off
+9 Iterations completed
+HHEd
+ 13/13 Models Loaded [10 states max, 2 mixes max]
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 78.397682, Std Dev GC = 14.536060
+           one : mixup 2 -> 3
+           one : mixup 2 -> 3
+           one : mixup 2 -> 3
+           one : mixup 2 -> 3
+           one : mixup 2 -> 3
+           one : mixup 2 -> 3
+           one : mixup 2 -> 3
+           one : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 78.412773, Std Dev GC = 14.359133
+           two : mixup 2 -> 3
+           two : mixup 2 -> 3
+           two : mixup 2 -> 3
+           two : mixup 2 -> 3
+           two : mixup 2 -> 3
+           two : mixup 2 -> 3
+           two : mixup 2 -> 3
+           two : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 78.453758, Std Dev GC = 14.254753
+         three : mixup 2 -> 3
+         three : mixup 2 -> 3
+         three : mixup 2 -> 3
+         three : mixup 2 -> 3
+         three : mixup 2 -> 3
+         three : mixup 2 -> 3
+         three : mixup 2 -> 3
+         three : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 78.364494, Std Dev GC = 14.117690
+          four : mixup 2 -> 3
+          four : mixup 2 -> 3
+          four : mixup 2 -> 3
+          four : mixup 2 -> 3
+          four : mixup 2 -> 3
+          four : mixup 2 -> 3
+          four : mixup 2 -> 3
+          four : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 78.309967, Std Dev GC = 14.043619
+          five : mixup 2 -> 3
+          five : mixup 2 -> 3
+          five : mixup 2 -> 3
+          five : mixup 2 -> 3
+          five : mixup 2 -> 3
+          five : mixup 2 -> 3
+          five : mixup 2 -> 3
+          five : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 77.946686, Std Dev GC = 14.298468
+           six : mixup 2 -> 3
+           six : mixup 2 -> 3
+           six : mixup 2 -> 3
+           six : mixup 2 -> 3
+           six : mixup 2 -> 3
+           six : mixup 2 -> 3
+           six : mixup 2 -> 3
+           six : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 78.014671, Std Dev GC = 14.264299
+         seven : mixup 2 -> 3
+         seven : mixup 2 -> 3
+         seven : mixup 2 -> 3
+         seven : mixup 2 -> 3
+         seven : mixup 2 -> 3
+         seven : mixup 2 -> 3
+         seven : mixup 2 -> 3
+         seven : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 77.975945, Std Dev GC = 14.098639
+         eight : mixup 2 -> 3
+         eight : mixup 2 -> 3
+         eight : mixup 2 -> 3
+         eight : mixup 2 -> 3
+         eight : mixup 2 -> 3
+         eight : mixup 2 -> 3
+         eight : mixup 2 -> 3
+         eight : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 77.805992, Std Dev GC = 14.220877
+          nine : mixup 2 -> 3
+          nine : mixup 2 -> 3
+          nine : mixup 2 -> 3
+          nine : mixup 2 -> 3
+          nine : mixup 2 -> 3
+          nine : mixup 2 -> 3
+          nine : mixup 2 -> 3
+          nine : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 77.618080, Std Dev GC = 14.355213
+            oh : mixup 2 -> 3
+            oh : mixup 2 -> 3
+            oh : mixup 2 -> 3
+            oh : mixup 2 -> 3
+            oh : mixup 2 -> 3
+            oh : mixup 2 -> 3
+            oh : mixup 2 -> 3
+            oh : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 77.587601, Std Dev GC = 14.521097
+          zero : mixup 2 -> 3
+          zero : mixup 2 -> 3
+          zero : mixup 2 -> 3
+          zero : mixup 2 -> 3
+          zero : mixup 2 -> 3
+          zero : mixup 2 -> 3
+          zero : mixup 2 -> 3
+          zero : mixup 2 -> 3
+ MU: Number of mixes increased from 16 to 24
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 77.447327, Std Dev GC = 14.405924
+           sil : mixup 2 -> 3
+           sil : mixup 2 -> 3
+           sil : mixup 2 -> 3
+ MU: Number of mixes increased from 6 to 9
+
+MU 3 {}
+ Mixup to 3 components per stream
+  Mean GC = 77.245766, Std Dev GC = 14.503543
+            sp : mixup 3 -> 3
+ MU: Number of mixes increased from 3 to 3
+
+Saving new HMM files ...
+Edit Complete
+3 Gaussians per mixture created
+Pruning-Off
+Pruning-Off
+Pruning-Off
+Pruning-Off
+Pruning-Off
+Pruning-Off
+Pruning-Off
+16 Iterations completed
+Training complete
+Testing...
+Building word sil
+Building word sp
+Building word oh
+Building word !NULL
+Building word zero
+Building word nine
+Building word eight
+Building word seven
+Building word six
+Building word five
+Building word four
+Building word three
+Building word two
+Building word one
+Building word sil
+Building word !NULL
+Building word !NULL
+33 nodes
+ = 17 word (0 null), init 14, int 0, fin 0, cf 0
+78 links = int 14, ext 62 (0 for null words)
+Testing complete
+
+------------------------------------------------------------------

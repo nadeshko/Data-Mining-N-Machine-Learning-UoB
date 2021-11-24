@@ -1,0 +1,24 @@
+Testing...
+Building word sil
+Building word sp
+Building word oh
+Building word !NULL
+Building word zero
+Building word nine
+Building word eight
+Building word seven
+Building word six
+Building word five
+Building word four
+Building word three
+Building word two
+Building word one
+Building word sil
+Building word !NULL
+Building word !NULL
+33 nodes
+ = 17 word (0 null), init 14, int 0, fin 0, cf 0
+78 links = int 14, ext 62 (0 for null words)
+Testing complete
+
+------------------------------------------------------------------
