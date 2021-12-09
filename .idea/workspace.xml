@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Lab 4 Neural Networks EBP/lab4_EBP.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../FYP/Drone-control-GestRecog" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -66,6 +66,7 @@
       <workItem from="1637597083223" duration="357000" />
       <workItem from="1637860600471" duration="13553000" />
       <workItem from="1637944214365" duration="1591000" />
+      <workItem from="1638553314567" duration="16000" />
     </task>
     <servers />
   </component>
