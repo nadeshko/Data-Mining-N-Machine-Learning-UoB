@@ -37,8 +37,8 @@ for epoch = 1:1:1000
         Error{epoch, i} = extractdata((1/2)*sum((o_out-target(:,i)).^2));
     end  
     %Updating weights after doing each input pattern
-    W_1 = W_1 + Delta_W1./4;
-    W_2 = W_2 + Delta_W2./4;
+    W_1 = W_1 + Delta_W1   ;
+    W_2 = W_2 + Delta_W2   ;
     Delta_W1 = 0           ;
     Delta_W2 = 0           ;
 end
