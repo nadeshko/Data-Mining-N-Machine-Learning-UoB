@@ -2,7 +2,6 @@ clc
 clear 
 
 %Global values
-bias  = 1   ;
 Error = {}  ;
 lr    = 0.5 ;
 
